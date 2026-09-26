@@ -1,0 +1,102 @@
+{
+  "domain": "pdfblueprints.store",
+  "observed": "2026-09-24",
+  "source": "Shopify DNS settings (read-only)",
+  "records": [
+    {
+      "type": "A",
+      "name": "@",
+      "content": "23.227.38.65"
+    },
+    {
+      "type": "AAAA",
+      "name": "@",
+      "content": "2620:0127:f00f:5::"
+    },
+    {
+      "type": "CNAME",
+      "name": "account",
+      "content": "shops.myshopify.com"
+    },
+    {
+      "type": "CNAME",
+      "name": "www",
+      "content": "shops.myshopify.com"
+    },
+    {
+      "type": "CNAME",
+      "name": "c73._domainkey",
+      "content": "dkim1.b8a2f78e2b78.p272.email.myshopify.com"
+    },
+    {
+      "type": "CNAME",
+      "name": "c732._domainkey",
+      "content": "dkim2.b8a2f78e2b78.p272.email.myshopify.com"
+    },
+    {
+      "type": "CNAME",
+      "name": "mailer4za",
+      "content": "83646123f8c.p462.email.myshopify.com"
+    },
+    {
+      "type": "CNAME",
+      "name": "mailerc73",
+      "content": "b8a2f78e2b78.p272.email.myshopify.com"
+    },
+    {
+      "type": "CNAME",
+      "name": "pdk1._domainkey.mailer4za",
+      "content": "dkim3.83646123f8c.p462.email.myshopify.com"
+    },
+    {
+      "type": "CNAME",
+      "name": "pdk2._domainkey.mailer4za",
+      "content": "dkim4.83646123f8c.p462.email.myshopify.com"
+    },
+    {
+      "type": "CNAME",
+      "name": "zb33526033",
+      "content": "zmverify.zoho.eu"
+    },
+    {
+      "type": "MX",
+      "name": "@",
+      "content": "10 mx.zoho.eu"
+    },
+    {
+      "type": "MX",
+      "name": "@",
+      "content": "20 mx2.zoho.eu"
+    },
+    {
+      "type": "MX",
+      "name": "@",
+      "content": "50 mx3.zoho.eu"
+    },
+    {
+      "type": "TXT",
+      "name": "@",
+      "content": "zoho-verification=zb33526033.zmverify.zoho.eu"
+    },
+    {
+      "type": "TXT",
+      "name": "@",
+      "content": "v=spf1 include:zohomail.eu ~all"
+    },
+    {
+      "type": "TXT",
+      "name": "pdfblueprints._domainkey",
+      "content": "v=DKIM1; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCICuzmRhFlcJU2XMpFC/3ZOSfh4rW/NYeeDA68FojrN6LrfBA5t6zjEPQUxnKj5dN6atB+T7lmpYBl1N8wUdXA/mXakgpBm7gFRmzU0fBKt+9SY1YaLmw5fXJUlXvKLK8RKOPhaXUiIfNI4TMR+/gfybfkGRTSTzrCTo2YU9NbKwIDAQAB"
+    },
+    {
+      "type": "TXT",
+      "name": "_dmarc",
+      "content": "v=DMARC1; p=none; rua=mailto:support@pdfblueprints.store"
+    },
+    {
+      "type": "TXT",
+      "name": "_provider",
+      "content": "shopify"
+    }
+  ]
+}

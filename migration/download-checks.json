@@ -1,0 +1,20 @@
+[
+  {
+    "file": "UK-Limited-Company-Formation-Version-1.1.pdf",
+    "bytes": 1080131,
+    "sha256": "6e70acfba0b74ae32e2a97e787c0d4865154455d617cb388d20eff298b367e79",
+    "matchesExpected": true
+  },
+  {
+    "file": "Over-50-UK-Current-Store-Edition.pdf",
+    "bytes": 994984,
+    "sha256": "5bab79e935a45aed3d440f06b34cf4b07bf49aea62dce1bc24e483e9a5b4e25e",
+    "matchesExpected": true
+  },
+  {
+    "file": "Redundancy_Settlement_Agreement_Survival_Blueprint_UK_Premium_Store_FINA (1).pdf",
+    "bytes": 12410157,
+    "sha256": "61b6dee98667e86e148541927d4df6a9f23d287cf1cb14123a1d39e84f0d0b1e",
+    "matchesExpected": true
+  }
+]

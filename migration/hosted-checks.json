@@ -1,0 +1,37 @@
+[
+  {
+    "path": "/",
+    "result": "200 https://pdfblueprints.pages.dev/",
+    "error": ""
+  },
+  {
+    "path": "/blogs/guides/",
+    "result": "200 https://pdfblueprints.pages.dev/blogs/guides/",
+    "error": ""
+  },
+  {
+    "path": "/products/the-complete-rucking-blueprint/",
+    "result": "200 https://pdfblueprints.pages.dev/products/the-complete-rucking-blueprint/",
+    "error": ""
+  },
+  {
+    "path": "/blogs/guides/every-uk-director-now-has-to-prove-who-they-are-heres-how",
+    "result": "200 https://pdfblueprints.pages.dev/blogs/guides/companies-house-identity-verification-directors/",
+    "error": ""
+  },
+  {
+    "path": "/collections/all/products/uk-limited-company-formation-guide",
+    "result": "200 https://pdfblueprints.pages.dev/products/uk-limited-company-formation-guide/",
+    "error": ""
+  },
+  {
+    "path": "/does-not-exist",
+    "result": "404 https://pdfblueprints.pages.dev/does-not-exist",
+    "error": ""
+  },
+  {
+    "path": "/robots.txt",
+    "result": "200 https://pdfblueprints.pages.dev/robots.txt",
+    "error": ""
+  }
+]

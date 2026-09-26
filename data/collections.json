@@ -1,0 +1,128 @@
+[
+  {
+    "slug": "best-sellers",
+    "title": "Best Sellers",
+    "handles": [
+      "uk-limited-company-formation-guide",
+      "the-ai-career-survival-and-pivot-blueprint",
+      "the-complete-layoff-severance-survival-blueprint",
+      "the-complete-salary-negotiation-blueprint",
+      "wills-and-power-of-attorney-guide",
+      "us-first-time-landlord-blueprint",
+      "uk-first-time-landlord-blueprint",
+      "first-time-home-buyers-workbook",
+      "the-college-dorm-survival-blueprint-2026",
+      "the-making-tax-digital-survival-blueprint",
+      "nigerian-pidgin-english-the-afrobeats-guide",
+      "renters-rights-act-2025-landlord-compliance-blueprint",
+      "uk-landlord-starter-pack",
+      "the-complete-modern-birding-for-beginners-blueprint"
+    ]
+  },
+  {
+    "slug": "business-compliance",
+    "title": "Business Compliance",
+    "handles": [
+      "the-complete-fraud-scam-prevention-blueprint-premium-edition",
+      "ai-compliance-for-small-business-uk-edition",
+      "ai-compliance-for-small-business",
+      "ai-compliance-for-small-business-eu-edition",
+      "the-complete-companies-house-identity-verification-compliance-blueprint-premium-edition",
+      "the-menopause-equality-action-plan-compliance"
+    ]
+  },
+  {
+    "slug": "business-formation",
+    "title": "Business Formation",
+    "handles": [
+      "uk-limited-company-formation-guide",
+      "usa-llc-formation-guide"
+    ]
+  },
+  {
+    "slug": "career-employment",
+    "title": "Career Employment",
+    "handles": [
+      "the-complete-layoff-severance-survival-blueprint",
+      "the-complete-salary-negotiation-blueprint",
+      "over-50-career-pack",
+      "career-pivot-pack",
+      "career-survival-pack",
+      "uk-redundancy-settlement-agreement-survival-blueprint",
+      "the-complete-over-50-job-loss-career-reinvention-blueprint-uk-edition",
+      "the-complete-over-50-job-loss-career-reinvention-blueprint-us-edition",
+      "the-menopause-equality-action-plan-compliance",
+      "the-complete-menopause-at-work-blueprint"
+    ]
+  },
+  {
+    "slug": "crypto",
+    "title": "Crypto",
+    "handles": [
+      "crypto-tax-reporting-compliance-guide"
+    ]
+  },
+  {
+    "slug": "homepage-featured",
+    "title": "Homepage Featured",
+    "handles": [
+      "uk-limited-company-formation-guide",
+      "wills-and-power-of-attorney-guide",
+      "the-ai-career-survival-and-pivot-blueprint",
+      "the-complete-companies-house-identity-verification-compliance-blueprint-premium-edition",
+      "renters-rights-act-2025-landlord-compliance-blueprint",
+      "uk-business-formation-pack",
+      "career-survival-pack",
+      "the-complete-menopause-at-work-blueprint"
+    ]
+  },
+  {
+    "slug": "landlord-property",
+    "title": "Landlord Property",
+    "handles": [
+      "us-first-time-landlord-blueprint",
+      "uk-first-time-landlord-blueprint",
+      "first-time-home-buyers-workbook",
+      "uk-landlord-starter-pack",
+      "property-buyers-complete-pack"
+    ]
+  },
+  {
+    "slug": "new-and-updated",
+    "title": "New And Updated",
+    "handles": [
+      "ai-compliance-for-small-business-uk-edition",
+      "the-college-dorm-survival-blueprint-2026",
+      "nigerian-pidgin-english-the-afrobeats-guide",
+      "renters-rights-act-2025-landlord-compliance-blueprint"
+    ]
+  },
+  {
+    "slug": "personal-lifestyle",
+    "title": "Personal Lifestyle",
+    "handles": [
+      "wills-and-power-of-attorney-guide",
+      "the-complete-menopause-at-work-blueprint"
+    ]
+  },
+  {
+    "slug": "uk-essentials",
+    "title": "Uk Essentials",
+    "handles": [
+      "ai-compliance-for-small-business-uk-edition",
+      "uk-redundancy-settlement-agreement-survival-blueprint",
+      "the-complete-companies-house-identity-verification-compliance-blueprint-premium-edition",
+      "the-complete-over-50-job-loss-career-reinvention-blueprint-uk-edition",
+      "the-menopause-equality-action-plan-compliance",
+      "the-making-tax-digital-survival-blueprint",
+      "uk-business-formation-pack"
+    ]
+  },
+  {
+    "slug": "visa-immigration",
+    "title": "Visa Immigration",
+    "handles": [
+      "digital-nomad-visa-comparison-guide"
+    ]
+  }
+]
