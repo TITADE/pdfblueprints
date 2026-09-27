@@ -1,4 +1,14 @@
-[
- {"path":"pages/contact/","title":"Contact us","html":"<p>Questions about a guide, an order or a download? Email <a href=\"mailto:support@pdfblueprints.store\">support@pdfblueprints.store</a>.</p><p>For order support, include your order reference, the email used at checkout and the name of the guide. Please do not send card details or passwords.</p><p>We aim to respond within two business days.</p><a class=\"button primary\" href=\"mailto:support@pdfblueprints.store\">Write to us ↗</a>"},
- {"path":"pages/data-sharing-opt-out/","title":"Your privacy choices","html":"<p>The replacement storefront does not include advertising pixels or an advertising-cookie system. Checkout is provided separately by Payhip.</p><p>To request access, correction or deletion of your personal information, or to raise a privacy concern, contact <a href=\"mailto:support@pdfblueprints.store\">support@pdfblueprints.store</a>. Include enough information for us to identify your request.</p><p>See our <a href=\"/policies/privacy-policy/\">privacy policy</a> for information about store, checkout and support providers.</p>"}
-]
+{
+  "pages": [
+    {
+      "path": "pages/contact/",
+      "title": "Contact us",
+      "html": "<p>Questions about a guide, an order or a download? Email <a href=\"mailto:support@pdfblueprints.store\">support@pdfblueprints.store</a>.</p><p>For order support, include your order reference, the email used at checkout and the name of the guide. Please do not send card details or passwords.</p><p>We aim to respond within two business days.</p><a class=\"button primary\" href=\"mailto:support@pdfblueprints.store\">Write to us ↗</a>"
+    },
+    {
+      "path": "pages/data-sharing-opt-out/",
+      "title": "Your privacy choices",
+      "html": "<p>The replacement storefront does not include advertising pixels or an advertising-cookie system. Checkout is provided separately by Payhip.</p><p>To request access, correction or deletion of your personal information, or to raise a privacy concern, contact <a href=\"mailto:support@pdfblueprints.store\">support@pdfblueprints.store</a>. Include enough information for us to identify your request.</p><p>See our <a href=\"/policies/privacy-policy/\">privacy policy</a> for information about store, checkout and support providers.</p>"
+    }
+  ]
+}

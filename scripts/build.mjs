@@ -3,7 +3,7 @@ async function forceWrite(url,content){try{await chmod(url,0o644)}catch(e){if(e.
 import {home,productPage,catalogue,infoPage,layout} from '../src/site.mjs';
 import {blogIndex,articlePage,collectionPage,textPage} from '../src/editorial.mjs';
 const root=new URL('../',import.meta.url),dist=new URL('dist/',root);
-const products=JSON.parse(await readFile(new URL('data/products.json',root),'utf8'));
+const products=JSON.parse(await readFile(new URL('data/products.json',root),'utf8')).products;
 await mkdir(dist,{recursive:true});
 async function copyAssets(source,dest){await mkdir(dest,{recursive:true});for(const entry of await readdir(source,{withFileTypes:true})){const from=new URL(entry.name+(entry.isDirectory()?'/':''),source),to=new URL(entry.name+(entry.isDirectory()?'/':''),dest);if(entry.isDirectory())await copyAssets(from,to);else {const content=await readFile(from);let previous;try{previous=await readFile(to)}catch(e){if(e.code!=='ENOENT')throw e;}if(!previous||!content.equals(previous))await writeFile(to,content);}}}
 await copyAssets(new URL('public/',root),dist);
@@ -14,12 +14,12 @@ await page('guides/',catalogue(products));
 for(const p of products)await page('products/'+p.handle+'/',productPage(p,products));
 await page('about/',infoPage('about'));await page('help/',infoPage('help'));
 await writeFile(new URL('404.html',dist),layout('Page not found','<section class="wrap prose"><p class="eyebrow">404</p><h1>Let’s find your<br><em>next step.</em></h1><p>This page could not be found.</p><a class="button primary" href="/guides/">Explore the library ↗</a></section>'));
-const posts=JSON.parse(await readFile(new URL('data/posts.json',root),'utf8'));
-const collections=JSON.parse(await readFile(new URL('data/collections.json',root),'utf8'));
+const posts=JSON.parse(await readFile(new URL('data/posts.json',root),'utf8')).posts;
+const collections=JSON.parse(await readFile(new URL('data/collections.json',root),'utf8')).collections;
 const policyDraft=JSON.parse(await readFile(new URL('data/policies.json',root),'utf8'));
 if(process.env.SITE_RELEASE==='production'&&!policyDraft.approvedForLaunch)throw new Error('Confirm seller details, pricing and replacement policies before production release.');
 const policies=policyDraft.pages;
-const extras=JSON.parse(await readFile(new URL('data/store-pages.json',root),'utf8'));
+const extras=JSON.parse(await readFile(new URL('data/store-pages.json',root),'utf8')).pages;
 await page('blogs/guides/',blogIndex(posts));
 for(const p of posts)await page('blogs/guides/'+p.slug+'/',articlePage(p,posts));
 for(const c of collections)await page('collections/'+c.slug+'/',collectionPage(c,products));

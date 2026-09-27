@@ -1,0 +1,117 @@
+backend:
+  name: github
+  repo: TITADE/pdfblueprints
+  branch: main
+  base_url: https://REPLACE-WITH-YOUR-WORKER.workers.dev
+  auth_endpoint: auth
+
+publish_mode: simple
+media_folder: "public/assets"
+public_folder: "/assets"
+
+collections:
+  - name: products
+    label: Products
+    files:
+      - name: products
+        label: Product listings
+        file: data/products.json
+        fields:
+          - label: Products
+            name: products
+            widget: list
+            summary: "{{fields.title}} — {{fields.currency}}{{fields.price}}"
+            fields:
+              - {label: Title, name: title, widget: string}
+              - {label: "Handle (URL slug)", name: handle, widget: string, hint: "Must be unique. Used in the product URL, e.g. /products/<handle>/"}
+              - {label: Category, name: category, widget: string}
+              - {label: Price, name: price, widget: number, value_type: float}
+              - {label: Currency, name: currency, widget: select, options: ["GBP", "USD", "EUR"], default: GBP}
+              - {label: "Cover image", name: image, widget: image}
+              - {label: Description, name: description, widget: text}
+              - {label: "Payhip checkout URL", name: payhipUrl, widget: string, hint: "Copy from Payhip: Products > this product > Share/checkout link. Confirm the price above matches Payhip before publishing."}
+              - {label: "Source (internal note)", name: source, widget: string, required: false}
+              - {label: "Original title (internal note)", name: originalTitle, widget: string, required: false}
+              - label: Tags
+                name: tags
+                widget: list
+                required: false
+                field: {label: Tag, name: tag, widget: string}
+              - {label: "I confirm this price matches the live Payhip checkout price", name: priceConfirmed, widget: boolean, default: false, required: false}
+
+  - name: blog
+    label: "Blog posts"
+    files:
+      - name: posts
+        label: "Guides blog posts"
+        file: data/posts.json
+        fields:
+          - label: Posts
+            name: posts
+            widget: list
+            summary: "{{fields.title}}"
+            fields:
+              - {label: Title, name: title, widget: string}
+              - {label: "Slug (URL)", name: slug, widget: string, hint: "Used in the post URL, e.g. /blogs/guides/<slug>/"}
+              - {label: "Body (HTML)", name: html, widget: markdown}
+
+  - name: collections_page
+    label: "Curated collections"
+    files:
+      - name: collections
+        label: "Collections (e.g. Best Sellers)"
+        file: data/collections.json
+        fields:
+          - label: Collections
+            name: collections
+            widget: list
+            summary: "{{fields.title}}"
+            fields:
+              - {label: Title, name: title, widget: string}
+              - {label: "Slug (URL)", name: slug, widget: string}
+              - label: "Product handles included"
+                name: handles
+                widget: list
+                hint: "Must exactly match a product's Handle field"
+                field: {label: Handle, name: handle, widget: string}
+
+  - name: store_pages
+    label: "Store pages"
+    files:
+      - name: pages
+        label: "Static pages (contact, etc.)"
+        file: data/store-pages.json
+        fields:
+          - label: Pages
+            name: pages
+            widget: list
+            summary: "{{fields.title}}"
+            fields:
+              - {label: Title, name: title, widget: string}
+              - {label: Path, name: path, widget: string, hint: "e.g. pages/contact/"}
+              - {label: "Body (HTML)", name: html, widget: markdown}
+
+  - name: policies
+    label: Policies
+    files:
+      - name: policies
+        label: "Policy pages"
+        file: data/policies.json
+        fields:
+          - label: "Approved for production launch"
+            name: approvedForLaunch
+            widget: boolean
+            hint: "Must be true for the live site to index and show final policies. Only the site owner should toggle this."
+          - label: "Review notes (internal, not published)"
+            name: reviewNotes
+            widget: list
+            required: false
+            field: {label: Note, name: note, widget: string}
+          - label: "Policy pages"
+            name: pages
+            widget: list
+            summary: "{{fields.title}}"
+            fields:
+              - {label: Title, name: title, widget: string}
+              - {label: "Slug (URL)", name: slug, widget: string}
+              - {label: "Body (HTML)", name: html, widget: markdown}
