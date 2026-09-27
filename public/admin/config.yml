@@ -2,7 +2,7 @@ backend:
   name: github
   repo: TITADE/pdfblueprints
   branch: main
-  base_url: https://REPLACE-WITH-YOUR-WORKER.workers.dev
+  base_url: https://pdfblueprints.edward-luf.workers.dev
   auth_endpoint: auth
 
 publish_mode: simple
