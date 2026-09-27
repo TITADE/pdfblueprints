@@ -52,3 +52,4 @@ Build output: dist/. Templates are in src/site.mjs; catalogue records are in dat
 
 Target Cloudflare static hosting. Prefer Workers Static Assets for a new project following current Cloudflare guidance; a portable static output also preserves Pages compatibility. wrangler.jsonc prepares a static-assets deployment, but the project has not been connected to a Cloudflare account or published. Preview pages intentionally contain noindex directives; remove these only for the verified production launch.
 
+
