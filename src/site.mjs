@@ -1,5 +1,5 @@
 import {readFileSync} from 'node:fs';
-const previews=JSON.parse(readFileSync(new URL('../data/previews.json',import.meta.url),'utf8'));
+const previewsList=JSON.parse(readFileSync(new URL('../data/previews.json',import.meta.url),'utf8')).previews;const previews=Object.fromEntries(previewsList.map(p=>[p.handle,p]));
 export const esc = value => String(value).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const money = p => new Intl.NumberFormat('en-GB',{style:'currency',currency:p.currency,minimumFractionDigits:Number.isInteger(p.price)?0:2,maximumFractionDigits:2}).format(p.price);
 const path = p => '/products/'+p.handle+'/';

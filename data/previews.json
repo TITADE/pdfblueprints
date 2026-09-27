@@ -1,610 +1,650 @@
 {
-  "the-complete-uk-right-to-work-checks-blueprint": {
-    "samples": [
-      {
-        "src": "/assets/previews/the-complete-uk-right-to-work-checks-blueprint-1.webp",
-        "label": "Sample page 3",
-        "alt": "UK Right to Work Checks Blueprint \u2014 sample PDF page 3"
-      },
-      {
-        "src": "/assets/previews/the-complete-uk-right-to-work-checks-blueprint-2.webp",
-        "label": "Sample page 6",
-        "alt": "UK Right to Work Checks Blueprint \u2014 sample PDF page 6"
-      }
-    ],
-    "pageCount": 73,
-    "fileCount": 1
-  },
-  "uk-employment-rights-act-2025-compliance-blueprint": {
-    "samples": [
-      {
-        "src": "/assets/previews/uk-employment-rights-act-2025-compliance-blueprint-1.webp",
-        "label": "Sample page 3",
-        "alt": "UK Employment Rights Act 2025 Compliance Blueprint \u2014 sample PDF page 3"
-      },
-      {
-        "src": "/assets/previews/uk-employment-rights-act-2025-compliance-blueprint-2.webp",
-        "label": "Sample page 6",
-        "alt": "UK Employment Rights Act 2025 Compliance Blueprint \u2014 sample PDF page 6"
-      }
-    ],
-    "pageCount": 68,
-    "fileCount": 1
-  },
-  "importing-from-china-to-the-uk-the-complete-step-by-step-blueprint-for-first-time-importers": {
-    "samples": [
-      {
-        "src": "/assets/previews/importing-from-china-to-the-uk-the-complete-step-by-step-blueprint-for-first-time-importers-1.webp",
-        "label": "Sample page 3",
-        "alt": "Importing from China to the UK: The Complete Step-by-Step Blueprint for First-Time Importers \u2014 sample PDF page 3"
-      },
-      {
-        "src": "/assets/previews/importing-from-china-to-the-uk-the-complete-step-by-step-blueprint-for-first-time-importers-2.webp",
-        "label": "Sample page 6",
-        "alt": "Importing from China to the UK: The Complete Step-by-Step Blueprint for First-Time Importers \u2014 sample PDF page 6"
-      }
-    ],
-    "pageCount": 44,
-    "fileCount": 1
-  },
-  "the-complete-rucking-blueprint": {
-    "samples": [
-      {
-        "src": "/assets/previews/the-complete-rucking-blueprint-1.webp",
-        "label": "Sample page 3",
-        "alt": "Rucking Blueprint \u2014 sample PDF page 3"
-      },
-      {
-        "src": "/assets/previews/the-complete-rucking-blueprint-2.webp",
-        "label": "Sample page 6",
-        "alt": "Rucking Blueprint \u2014 sample PDF page 6"
-      }
-    ],
-    "pageCount": 45,
-    "fileCount": 1
-  },
-  "ai-compliance-for-small-business-uk-edition": {
-    "samples": [
-      {
-        "src": "/assets/previews/ai-compliance-for-small-business-uk-edition-1.webp",
-        "label": "Sample page 3",
-        "alt": "AI Compliance for Small Business (UK Edition) \u2014 sample PDF page 3"
-      },
-      {
-        "src": "/assets/previews/ai-compliance-for-small-business-uk-edition-2.webp",
-        "label": "Sample page 6",
-        "alt": "AI Compliance for Small Business (UK Edition) \u2014 sample PDF page 6"
-      }
-    ],
-    "pageCount": 18,
-    "fileCount": 1
-  },
-  "ai-compliance-for-small-business-eu-edition": {
-    "samples": [
-      {
-        "src": "/assets/previews/ai-compliance-for-small-business-eu-edition-1.webp",
-        "label": "Sample page 3",
-        "alt": "AI Compliance for Small Business (EU Edition) \u2014 sample PDF page 3"
-      },
-      {
-        "src": "/assets/previews/ai-compliance-for-small-business-eu-edition-2.webp",
-        "label": "Sample page 6",
-        "alt": "AI Compliance for Small Business (EU Edition) \u2014 sample PDF page 6"
-      }
-    ],
-    "pageCount": 28,
-    "fileCount": 1
-  },
-  "ai-compliance-for-small-business": {
-    "samples": [
-      {
-        "src": "/assets/previews/ai-compliance-for-small-business-1.webp",
-        "label": "Sample page 3",
-        "alt": "AI Compliance for Small Business \u2014 sample PDF page 3"
-      },
-      {
-        "src": "/assets/previews/ai-compliance-for-small-business-2.webp",
-        "label": "Sample page 6",
-        "alt": "AI Compliance for Small Business \u2014 sample PDF page 6"
-      }
-    ],
-    "pageCount": 58,
-    "fileCount": 1
-  },
-  "digital-nomad-visa-comparison-guide": {
-    "samples": [
-      {
-        "src": "/assets/previews/digital-nomad-visa-comparison-guide-1.webp",
-        "label": "Sample page 3",
-        "alt": "Digital Nomad Visa Comparison Guide \u2014 sample PDF page 3"
-      },
-      {
-        "src": "/assets/previews/digital-nomad-visa-comparison-guide-2.webp",
-        "label": "Sample page 6",
-        "alt": "Digital Nomad Visa Comparison Guide \u2014 sample PDF page 6"
-      }
-    ],
-    "pageCount": 35,
-    "fileCount": 1
-  },
-  "the-college-dorm-survival-blueprint-2026": {
-    "samples": [
-      {
-        "src": "/assets/previews/the-college-dorm-survival-blueprint-2026-1.webp",
-        "label": "Sample page 3",
-        "alt": "College Dorm Survival Blueprint 2026 \u2014 sample PDF page 3"
-      },
-      {
-        "src": "/assets/previews/the-college-dorm-survival-blueprint-2026-2.webp",
-        "label": "Sample page 6",
-        "alt": "College Dorm Survival Blueprint 2026 \u2014 sample PDF page 6"
-      }
-    ],
-    "pageCount": 83,
-    "fileCount": 1
-  },
-  "the-menopause-equality-action-plan-compliance": {
-    "samples": [
-      {
-        "src": "/assets/previews/the-menopause-equality-action-plan-compliance-1.webp",
-        "label": "Sample page 3",
-        "alt": "Menopause & Equality Action Plan Compliance \u2014 sample PDF page 3"
-      },
-      {
-        "src": "/assets/previews/the-menopause-equality-action-plan-compliance-2.webp",
-        "label": "Sample page 6",
-        "alt": "Menopause & Equality Action Plan Compliance \u2014 sample PDF page 6"
-      }
-    ],
-    "pageCount": 57,
-    "fileCount": 1
-  },
-  "the-complete-menopause-at-work-blueprint": {
-    "samples": [
-      {
-        "src": "/assets/previews/the-complete-menopause-at-work-blueprint-1.webp",
-        "label": "Sample page 3",
-        "alt": "Menopause at Work Blueprint \u2014 sample PDF page 3"
-      },
-      {
-        "src": "/assets/previews/the-complete-menopause-at-work-blueprint-2.webp",
-        "label": "Sample page 6",
-        "alt": "Menopause at Work Blueprint \u2014 sample PDF page 6"
-      }
-    ],
-    "pageCount": 49,
-    "fileCount": 1
-  },
-  "the-making-tax-digital-survival-blueprint": {
-    "samples": [
-      {
-        "src": "/assets/previews/the-making-tax-digital-survival-blueprint-1.webp",
-        "label": "Sample page 3",
-        "alt": "Making Tax Digital Survival Blueprint \u2013 UK Edition \u2014 sample PDF page 3"
-      },
-      {
-        "src": "/assets/previews/the-making-tax-digital-survival-blueprint-2.webp",
-        "label": "Sample page 6",
-        "alt": "Making Tax Digital Survival Blueprint \u2013 UK Edition \u2014 sample PDF page 6"
-      }
-    ],
-    "pageCount": 102,
-    "fileCount": 1
-  },
-  "property-buyers-complete-pack": {
-    "samples": [
-      {
-        "src": "/assets/previews/property-buyers-complete-pack-1.webp",
-        "label": "Guide 1 \u00b7 Sample page 3",
-        "alt": "First-Time Home Buyer's Workbook \u2014 sample PDF page 3"
-      },
-      {
-        "src": "/assets/previews/property-buyers-complete-pack-2.webp",
-        "label": "Guide 2 \u00b7 Sample page 3",
-        "alt": "First-Time Landlord Blueprint \u2013 UK Edition (England) \u2014 sample PDF page 3"
-      }
-    ],
-    "pageCount": 108,
-    "fileCount": 2
-  },
-  "over-50-career-pack": {
-    "samples": [
-      {
-        "src": "/assets/previews/over-50-career-pack-1.webp",
-        "label": "Guide 1 \u00b7 Sample page 3",
-        "alt": "Over-50 Job Loss & Career Reinvention Blueprint (UK Edition) \u2014 sample PDF page 3"
-      },
-      {
-        "src": "/assets/previews/over-50-career-pack-2.webp",
-        "label": "Guide 2 \u00b7 Sample page 3",
-        "alt": "Redundancy & Settlement Agreement Survival Blueprint \u2013 UK Edition \u2014 sample PDF page 3"
-      }
-    ],
-    "pageCount": 136,
-    "fileCount": 2
-  },
-  "career-pivot-pack": {
-    "samples": [
-      {
-        "src": "/assets/previews/career-pivot-pack-1.webp",
-        "label": "Guide 1 \u00b7 Sample page 3",
-        "alt": "Redundancy & Settlement Agreement Survival Blueprint \u2013 UK Edition \u2014 sample PDF page 3"
-      },
-      {
-        "src": "/assets/previews/career-pivot-pack-2.webp",
-        "label": "Guide 2 \u00b7 Sample page 3",
-        "alt": "AI Career Survival and Pivot Blueprint \u2014 sample PDF page 3"
-      }
-    ],
-    "pageCount": 140,
-    "fileCount": 2
-  },
-  "career-survival-pack": {
-    "samples": [
-      {
-        "src": "/assets/previews/career-survival-pack-1.webp",
-        "label": "Guide 1 \u00b7 Sample page 3",
-        "alt": "Salary Negotiation Blueprint \u2014 sample PDF page 3"
-      },
-      {
-        "src": "/assets/previews/career-survival-pack-2.webp",
-        "label": "Guide 2 \u00b7 Sample page 3",
-        "alt": "Redundancy & Settlement Agreement Survival Blueprint \u2013 UK Edition \u2014 sample PDF page 3"
-      }
-    ],
-    "pageCount": 102,
-    "fileCount": 2
-  },
-  "uk-business-formation-pack": {
-    "samples": [
-      {
-        "src": "/assets/previews/uk-business-formation-pack-1.webp",
-        "label": "Guide 1 \u00b7 Sample page 3",
-        "alt": "UK Limited Company Formation Guide \u2014 sample PDF page 3"
-      },
-      {
-        "src": "/assets/previews/uk-business-formation-pack-2.webp",
-        "label": "Guide 2 \u00b7 Sample page 3",
-        "alt": "Companies House Identity Verification Compliance Blueprint \u2014 sample PDF page 3"
-      }
-    ],
-    "pageCount": 94,
-    "fileCount": 2
-  },
-  "uk-landlord-starter-pack": {
-    "samples": [
-      {
-        "src": "/assets/previews/uk-landlord-starter-pack-1.webp",
-        "label": "Guide 1 \u00b7 Sample page 3",
-        "alt": "First-Time Landlord Blueprint \u2013 UK Edition (England) \u2014 sample PDF page 3"
-      },
-      {
-        "src": "/assets/previews/uk-landlord-starter-pack-2.webp",
-        "label": "Guide 2 \u00b7 Sample page 3",
-        "alt": "Renters' Rights Act 2025 Compliance Blueprint \u2014 2026 Edition \u2014 sample PDF page 3"
-      }
-    ],
-    "pageCount": 104,
-    "fileCount": 2
-  },
-  "the-complete-making-friends-as-an-adult-blueprint": {
-    "samples": [
-      {
-        "src": "/assets/previews/the-complete-making-friends-as-an-adult-blueprint-1.webp",
-        "label": "Sample page 3",
-        "alt": "Making Friends as an Adult Blueprint \u2014 sample PDF page 3"
-      },
-      {
-        "src": "/assets/previews/the-complete-making-friends-as-an-adult-blueprint-2.webp",
-        "label": "Sample page 6",
-        "alt": "Making Friends as an Adult Blueprint \u2014 sample PDF page 6"
-      }
-    ],
-    "pageCount": 76,
-    "fileCount": 1
-  },
-  "uk-redundancy-settlement-agreement-survival-blueprint": {
-    "samples": [
-      {
-        "src": "/assets/previews/uk-redundancy-settlement-agreement-survival-blueprint-1.webp",
-        "label": "Sample page 3",
-        "alt": "Redundancy & Settlement Agreement Survival Blueprint \u2013 UK Edition \u2014 sample PDF page 3"
-      },
-      {
-        "src": "/assets/previews/uk-redundancy-settlement-agreement-survival-blueprint-2.webp",
-        "label": "Sample page 6",
-        "alt": "Redundancy & Settlement Agreement Survival Blueprint \u2013 UK Edition \u2014 sample PDF page 6"
-      }
-    ],
-    "pageCount": 85,
-    "fileCount": 1
-  },
-  "nigerian-pidgin-english-the-afrobeats-guide": {
-    "samples": [
-      {
-        "src": "/assets/previews/nigerian-pidgin-english-the-afrobeats-guide-1.webp",
-        "label": "Sample page 3",
-        "alt": "Nigerian Pidgin English: The Afrobeats Guide \u2014 sample PDF page 3"
-      },
-      {
-        "src": "/assets/previews/nigerian-pidgin-english-the-afrobeats-guide-2.webp",
-        "label": "Sample page 6",
-        "alt": "Nigerian Pidgin English: The Afrobeats Guide \u2014 sample PDF page 6"
-      }
-    ],
-    "pageCount": 143,
-    "fileCount": 1
-  },
-  "the-complete-modern-birding-for-beginners-blueprint": {
-    "samples": [
-      {
-        "src": "/assets/previews/the-complete-modern-birding-for-beginners-blueprint-1.webp",
-        "label": "Sample page 3",
-        "alt": "Modern Birding for Beginners Blueprint \u2014 sample PDF page 3"
-      },
-      {
-        "src": "/assets/previews/the-complete-modern-birding-for-beginners-blueprint-2.webp",
-        "label": "Sample page 6",
-        "alt": "Modern Birding for Beginners Blueprint \u2014 sample PDF page 6"
-      }
-    ],
-    "pageCount": 58,
-    "fileCount": 1
-  },
-  "renters-rights-act-2025-landlord-compliance-blueprint": {
-    "samples": [
-      {
-        "src": "/assets/previews/renters-rights-act-2025-landlord-compliance-blueprint-1.webp",
-        "label": "Sample page 3",
-        "alt": "Renters' Rights Act 2025 Compliance Blueprint \u2014 2026 Edition \u2014 sample PDF page 3"
-      },
-      {
-        "src": "/assets/previews/renters-rights-act-2025-landlord-compliance-blueprint-2.webp",
-        "label": "Sample page 6",
-        "alt": "Renters' Rights Act 2025 Compliance Blueprint \u2014 2026 Edition \u2014 sample PDF page 6"
-      }
-    ],
-    "pageCount": 48,
-    "fileCount": 1
-  },
-  "the-complete-companies-house-identity-verification-compliance-blueprint-premium-edition": {
-    "samples": [
-      {
-        "src": "/assets/previews/the-complete-companies-house-identity-verification-compliance-blueprint-premium-edition-1.webp",
-        "label": "Sample page 3",
-        "alt": "Companies House Identity Verification Compliance Blueprint \u2014 sample PDF page 3"
-      },
-      {
-        "src": "/assets/previews/the-complete-companies-house-identity-verification-compliance-blueprint-premium-edition-2.webp",
-        "label": "Sample page 6",
-        "alt": "Companies House Identity Verification Compliance Blueprint \u2014 sample PDF page 6"
-      }
-    ],
-    "pageCount": 61,
-    "fileCount": 1
-  },
-  "the-complete-over-50-job-loss-career-reinvention-blueprint-uk-edition": {
-    "samples": [
-      {
-        "src": "/assets/previews/the-complete-over-50-job-loss-career-reinvention-blueprint-uk-edition-1.webp",
-        "label": "Sample page 3",
-        "alt": "Over-50 Job Loss & Career Reinvention Blueprint (UK Edition) \u2014 sample PDF page 3"
-      },
-      {
-        "src": "/assets/previews/the-complete-over-50-job-loss-career-reinvention-blueprint-uk-edition-2.webp",
-        "label": "Sample page 6",
-        "alt": "Over-50 Job Loss & Career Reinvention Blueprint (UK Edition) \u2014 sample PDF page 6"
-      }
-    ],
-    "pageCount": 51,
-    "fileCount": 1
-  },
-  "the-complete-over-50-job-loss-career-reinvention-blueprint-us-edition": {
-    "samples": [
-      {
-        "src": "/assets/previews/the-complete-over-50-job-loss-career-reinvention-blueprint-us-edition-1.webp",
-        "label": "Sample page 3",
-        "alt": "Over-50 Job Loss & Career Reinvention Blueprint (US Edition) \u2014 sample PDF page 3"
-      },
-      {
-        "src": "/assets/previews/the-complete-over-50-job-loss-career-reinvention-blueprint-us-edition-2.webp",
-        "label": "Sample page 6",
-        "alt": "Over-50 Job Loss & Career Reinvention Blueprint (US Edition) \u2014 sample PDF page 6"
-      }
-    ],
-    "pageCount": 57,
-    "fileCount": 1
-  },
-  "the-ai-career-survival-and-pivot-blueprint": {
-    "samples": [
-      {
-        "src": "/assets/previews/the-ai-career-survival-and-pivot-blueprint-1.webp",
-        "label": "Sample page 3",
-        "alt": "AI Career Survival and Pivot Blueprint \u2014 sample PDF page 3"
-      },
-      {
-        "src": "/assets/previews/the-ai-career-survival-and-pivot-blueprint-2.webp",
-        "label": "Sample page 6",
-        "alt": "AI Career Survival and Pivot Blueprint \u2014 sample PDF page 6"
-      }
-    ],
-    "pageCount": 55,
-    "fileCount": 1
-  },
-  "the-complete-layoff-severance-survival-blueprint": {
-    "samples": [
-      {
-        "src": "/assets/previews/the-complete-layoff-severance-survival-blueprint-1.webp",
-        "label": "Sample page 3",
-        "alt": "Layoff & Severance Survival Blueprint \u2014 sample PDF page 3"
-      },
-      {
-        "src": "/assets/previews/the-complete-layoff-severance-survival-blueprint-2.webp",
-        "label": "Sample page 6",
-        "alt": "Layoff & Severance Survival Blueprint \u2014 sample PDF page 6"
-      }
-    ],
-    "pageCount": 61,
-    "fileCount": 1
-  },
-  "the-complete-salary-negotiation-blueprint": {
-    "samples": [
-      {
-        "src": "/assets/previews/the-complete-salary-negotiation-blueprint-1.webp",
-        "label": "Sample page 3",
-        "alt": "Salary Negotiation Blueprint \u2014 sample PDF page 3"
-      },
-      {
-        "src": "/assets/previews/the-complete-salary-negotiation-blueprint-2.webp",
-        "label": "Sample page 6",
-        "alt": "Salary Negotiation Blueprint \u2014 sample PDF page 6"
-      }
-    ],
-    "pageCount": 17,
-    "fileCount": 1
-  },
-  "the-complete-fraud-scam-prevention-blueprint-premium-edition": {
-    "samples": [
-      {
-        "src": "/assets/previews/the-complete-fraud-scam-prevention-blueprint-premium-edition-1.webp",
-        "label": "Sample page 3",
-        "alt": "Fraud and Scam Prevention Blueprint \u2014 sample PDF page 3"
-      },
-      {
-        "src": "/assets/previews/the-complete-fraud-scam-prevention-blueprint-premium-edition-2.webp",
-        "label": "Sample page 6",
-        "alt": "Fraud and Scam Prevention Blueprint \u2014 sample PDF page 6"
-      }
-    ],
-    "pageCount": 104,
-    "fileCount": 1
-  },
-  "crypto-tax-reporting-compliance-guide": {
-    "samples": [
-      {
-        "src": "/assets/previews/crypto-tax-reporting-compliance-guide-1.webp",
-        "label": "Sample page 3",
-        "alt": "Crypto Tax Reporting & Compliance Guide \u2014 sample PDF page 3"
-      },
-      {
-        "src": "/assets/previews/crypto-tax-reporting-compliance-guide-2.webp",
-        "label": "Sample page 6",
-        "alt": "Crypto Tax Reporting & Compliance Guide \u2014 sample PDF page 6"
-      }
-    ],
-    "pageCount": 44,
-    "fileCount": 1
-  },
-  "wills-and-power-of-attorney-guide": {
-    "samples": [
-      {
-        "src": "/assets/previews/wills-and-power-of-attorney-guide-1.webp",
-        "label": "Sample page 3",
-        "alt": "Wills & Power of Attorney Guide \u2014 sample PDF page 3"
-      },
-      {
-        "src": "/assets/previews/wills-and-power-of-attorney-guide-2.webp",
-        "label": "Sample page 6",
-        "alt": "Wills & Power of Attorney Guide \u2014 sample PDF page 6"
-      }
-    ],
-    "pageCount": 29,
-    "fileCount": 1
-  },
-  "first-time-home-buyers-workbook": {
-    "samples": [
-      {
-        "src": "/assets/previews/first-time-home-buyers-workbook-1.webp",
-        "label": "Sample page 3",
-        "alt": "First-Time Home Buyer's Workbook \u2014 sample PDF page 3"
-      },
-      {
-        "src": "/assets/previews/first-time-home-buyers-workbook-2.webp",
-        "label": "Sample page 6",
-        "alt": "First-Time Home Buyer's Workbook \u2014 sample PDF page 6"
-      }
-    ],
-    "pageCount": 52,
-    "fileCount": 1
-  },
-  "uk-first-time-landlord-blueprint": {
-    "samples": [
-      {
-        "src": "/assets/previews/uk-first-time-landlord-blueprint-1.webp",
-        "label": "Sample page 3",
-        "alt": "First-Time Landlord Blueprint \u2013 UK Edition (England) \u2014 sample PDF page 3"
-      },
-      {
-        "src": "/assets/previews/uk-first-time-landlord-blueprint-2.webp",
-        "label": "Sample page 6",
-        "alt": "First-Time Landlord Blueprint \u2013 UK Edition (England) \u2014 sample PDF page 6"
-      }
-    ],
-    "pageCount": 56,
-    "fileCount": 1
-  },
-  "us-first-time-landlord-blueprint": {
-    "samples": [
-      {
-        "src": "/assets/previews/us-first-time-landlord-blueprint-1.webp",
-        "label": "Sample page 3",
-        "alt": "First-Time Landlord Blueprint \u2013 US Edition \u2014 sample PDF page 3"
-      },
-      {
-        "src": "/assets/previews/us-first-time-landlord-blueprint-2.webp",
-        "label": "Sample page 6",
-        "alt": "First-Time Landlord Blueprint \u2013 US Edition \u2014 sample PDF page 6"
-      }
-    ],
-    "pageCount": 68,
-    "fileCount": 1
-  },
-  "usa-llc-formation-guide": {
-    "samples": [
-      {
-        "src": "/assets/previews/usa-llc-formation-guide-1.webp",
-        "label": "Sample page 3",
-        "alt": "USA LLC Formation Guide \u2014 sample PDF page 3"
-      },
-      {
-        "src": "/assets/previews/usa-llc-formation-guide-2.webp",
-        "label": "Sample page 6",
-        "alt": "USA LLC Formation Guide \u2014 sample PDF page 6"
-      }
-    ],
-    "pageCount": 44,
-    "fileCount": 1
-  },
-  "uk-limited-company-formation-guide": {
-    "samples": [
-      {
-        "src": "/assets/previews/uk-limited-company-formation-guide-1.webp",
-        "label": "Sample page 3",
-        "alt": "UK Limited Company Formation Guide \u2014 sample PDF page 3"
-      },
-      {
-        "src": "/assets/previews/uk-limited-company-formation-guide-2.webp",
-        "label": "Sample page 6",
-        "alt": "UK Limited Company Formation Guide \u2014 sample PDF page 6"
-      }
-    ],
-    "pageCount": 33,
-    "fileCount": 1
-  },
-  "uk-subscription-cancellation-compliance-blueprint": {
-    "samples": [
-      {
-        "src": "/assets/previews/uk-subscription-cancellation-compliance-blueprint-1.webp",
-        "label": "Contents",
-        "alt": "UK Subscription Cancellation Compliance Blueprint \u2014 PDF page 2"
-      },
-      {
-        "src": "/assets/previews/uk-subscription-cancellation-compliance-blueprint-2.webp",
-        "label": "Sample page 7",
-        "alt": "UK Subscription Cancellation Compliance Blueprint \u2014 PDF page 7"
-      }
-    ],
-    "pageCount": 30,
-    "fileCount": 1
-  }
+  "previews": [
+    {
+      "handle": "the-complete-uk-right-to-work-checks-blueprint",
+      "pageCount": 73,
+      "fileCount": 1,
+      "samples": [
+        {
+          "src": "/assets/previews/the-complete-uk-right-to-work-checks-blueprint-1.webp",
+          "label": "Sample page 3",
+          "alt": "UK Right to Work Checks Blueprint — sample PDF page 3"
+        },
+        {
+          "src": "/assets/previews/the-complete-uk-right-to-work-checks-blueprint-2.webp",
+          "label": "Sample page 6",
+          "alt": "UK Right to Work Checks Blueprint — sample PDF page 6"
+        }
+      ]
+    },
+    {
+      "handle": "uk-employment-rights-act-2025-compliance-blueprint",
+      "pageCount": 68,
+      "fileCount": 1,
+      "samples": [
+        {
+          "src": "/assets/previews/uk-employment-rights-act-2025-compliance-blueprint-1.webp",
+          "label": "Sample page 3",
+          "alt": "UK Employment Rights Act 2025 Compliance Blueprint — sample PDF page 3"
+        },
+        {
+          "src": "/assets/previews/uk-employment-rights-act-2025-compliance-blueprint-2.webp",
+          "label": "Sample page 6",
+          "alt": "UK Employment Rights Act 2025 Compliance Blueprint — sample PDF page 6"
+        }
+      ]
+    },
+    {
+      "handle": "importing-from-china-to-the-uk-the-complete-step-by-step-blueprint-for-first-time-importers",
+      "pageCount": 44,
+      "fileCount": 1,
+      "samples": [
+        {
+          "src": "/assets/previews/importing-from-china-to-the-uk-the-complete-step-by-step-blueprint-for-first-time-importers-1.webp",
+          "label": "Sample page 3",
+          "alt": "Importing from China to the UK: The Complete Step-by-Step Blueprint for First-Time Importers — sample PDF page 3"
+        },
+        {
+          "src": "/assets/previews/importing-from-china-to-the-uk-the-complete-step-by-step-blueprint-for-first-time-importers-2.webp",
+          "label": "Sample page 6",
+          "alt": "Importing from China to the UK: The Complete Step-by-Step Blueprint for First-Time Importers — sample PDF page 6"
+        }
+      ]
+    },
+    {
+      "handle": "the-complete-rucking-blueprint",
+      "pageCount": 45,
+      "fileCount": 1,
+      "samples": [
+        {
+          "src": "/assets/previews/the-complete-rucking-blueprint-1.webp",
+          "label": "Sample page 3",
+          "alt": "Rucking Blueprint — sample PDF page 3"
+        },
+        {
+          "src": "/assets/previews/the-complete-rucking-blueprint-2.webp",
+          "label": "Sample page 6",
+          "alt": "Rucking Blueprint — sample PDF page 6"
+        }
+      ]
+    },
+    {
+      "handle": "ai-compliance-for-small-business-uk-edition",
+      "pageCount": 18,
+      "fileCount": 1,
+      "samples": [
+        {
+          "src": "/assets/previews/ai-compliance-for-small-business-uk-edition-1.webp",
+          "label": "Sample page 3",
+          "alt": "AI Compliance for Small Business (UK Edition) — sample PDF page 3"
+        },
+        {
+          "src": "/assets/previews/ai-compliance-for-small-business-uk-edition-2.webp",
+          "label": "Sample page 6",
+          "alt": "AI Compliance for Small Business (UK Edition) — sample PDF page 6"
+        }
+      ]
+    },
+    {
+      "handle": "ai-compliance-for-small-business-eu-edition",
+      "pageCount": 28,
+      "fileCount": 1,
+      "samples": [
+        {
+          "src": "/assets/previews/ai-compliance-for-small-business-eu-edition-1.webp",
+          "label": "Sample page 3",
+          "alt": "AI Compliance for Small Business (EU Edition) — sample PDF page 3"
+        },
+        {
+          "src": "/assets/previews/ai-compliance-for-small-business-eu-edition-2.webp",
+          "label": "Sample page 6",
+          "alt": "AI Compliance for Small Business (EU Edition) — sample PDF page 6"
+        }
+      ]
+    },
+    {
+      "handle": "ai-compliance-for-small-business",
+      "pageCount": 58,
+      "fileCount": 1,
+      "samples": [
+        {
+          "src": "/assets/previews/ai-compliance-for-small-business-1.webp",
+          "label": "Sample page 3",
+          "alt": "AI Compliance for Small Business — sample PDF page 3"
+        },
+        {
+          "src": "/assets/previews/ai-compliance-for-small-business-2.webp",
+          "label": "Sample page 6",
+          "alt": "AI Compliance for Small Business — sample PDF page 6"
+        }
+      ]
+    },
+    {
+      "handle": "digital-nomad-visa-comparison-guide",
+      "pageCount": 35,
+      "fileCount": 1,
+      "samples": [
+        {
+          "src": "/assets/previews/digital-nomad-visa-comparison-guide-1.webp",
+          "label": "Sample page 3",
+          "alt": "Digital Nomad Visa Comparison Guide — sample PDF page 3"
+        },
+        {
+          "src": "/assets/previews/digital-nomad-visa-comparison-guide-2.webp",
+          "label": "Sample page 6",
+          "alt": "Digital Nomad Visa Comparison Guide — sample PDF page 6"
+        }
+      ]
+    },
+    {
+      "handle": "the-college-dorm-survival-blueprint-2026",
+      "pageCount": 83,
+      "fileCount": 1,
+      "samples": [
+        {
+          "src": "/assets/previews/the-college-dorm-survival-blueprint-2026-1.webp",
+          "label": "Sample page 3",
+          "alt": "College Dorm Survival Blueprint 2026 — sample PDF page 3"
+        },
+        {
+          "src": "/assets/previews/the-college-dorm-survival-blueprint-2026-2.webp",
+          "label": "Sample page 6",
+          "alt": "College Dorm Survival Blueprint 2026 — sample PDF page 6"
+        }
+      ]
+    },
+    {
+      "handle": "the-menopause-equality-action-plan-compliance",
+      "pageCount": 57,
+      "fileCount": 1,
+      "samples": [
+        {
+          "src": "/assets/previews/the-menopause-equality-action-plan-compliance-1.webp",
+          "label": "Sample page 3",
+          "alt": "Menopause & Equality Action Plan Compliance — sample PDF page 3"
+        },
+        {
+          "src": "/assets/previews/the-menopause-equality-action-plan-compliance-2.webp",
+          "label": "Sample page 6",
+          "alt": "Menopause & Equality Action Plan Compliance — sample PDF page 6"
+        }
+      ]
+    },
+    {
+      "handle": "the-complete-menopause-at-work-blueprint",
+      "pageCount": 49,
+      "fileCount": 1,
+      "samples": [
+        {
+          "src": "/assets/previews/the-complete-menopause-at-work-blueprint-1.webp",
+          "label": "Sample page 3",
+          "alt": "Menopause at Work Blueprint — sample PDF page 3"
+        },
+        {
+          "src": "/assets/previews/the-complete-menopause-at-work-blueprint-2.webp",
+          "label": "Sample page 6",
+          "alt": "Menopause at Work Blueprint — sample PDF page 6"
+        }
+      ]
+    },
+    {
+      "handle": "the-making-tax-digital-survival-blueprint",
+      "pageCount": 102,
+      "fileCount": 1,
+      "samples": [
+        {
+          "src": "/assets/previews/the-making-tax-digital-survival-blueprint-1.webp",
+          "label": "Sample page 3",
+          "alt": "Making Tax Digital Survival Blueprint – UK Edition — sample PDF page 3"
+        },
+        {
+          "src": "/assets/previews/the-making-tax-digital-survival-blueprint-2.webp",
+          "label": "Sample page 6",
+          "alt": "Making Tax Digital Survival Blueprint – UK Edition — sample PDF page 6"
+        }
+      ]
+    },
+    {
+      "handle": "property-buyers-complete-pack",
+      "pageCount": 108,
+      "fileCount": 2,
+      "samples": [
+        {
+          "src": "/assets/previews/property-buyers-complete-pack-1.webp",
+          "label": "Guide 1 · Sample page 3",
+          "alt": "First-Time Home Buyer's Workbook — sample PDF page 3"
+        },
+        {
+          "src": "/assets/previews/property-buyers-complete-pack-2.webp",
+          "label": "Guide 2 · Sample page 3",
+          "alt": "First-Time Landlord Blueprint – UK Edition (England) — sample PDF page 3"
+        }
+      ]
+    },
+    {
+      "handle": "over-50-career-pack",
+      "pageCount": 136,
+      "fileCount": 2,
+      "samples": [
+        {
+          "src": "/assets/previews/over-50-career-pack-1.webp",
+          "label": "Guide 1 · Sample page 3",
+          "alt": "Over-50 Job Loss & Career Reinvention Blueprint (UK Edition) — sample PDF page 3"
+        },
+        {
+          "src": "/assets/previews/over-50-career-pack-2.webp",
+          "label": "Guide 2 · Sample page 3",
+          "alt": "Redundancy & Settlement Agreement Survival Blueprint – UK Edition — sample PDF page 3"
+        }
+      ]
+    },
+    {
+      "handle": "career-pivot-pack",
+      "pageCount": 140,
+      "fileCount": 2,
+      "samples": [
+        {
+          "src": "/assets/previews/career-pivot-pack-1.webp",
+          "label": "Guide 1 · Sample page 3",
+          "alt": "Redundancy & Settlement Agreement Survival Blueprint – UK Edition — sample PDF page 3"
+        },
+        {
+          "src": "/assets/previews/career-pivot-pack-2.webp",
+          "label": "Guide 2 · Sample page 3",
+          "alt": "AI Career Survival and Pivot Blueprint — sample PDF page 3"
+        }
+      ]
+    },
+    {
+      "handle": "career-survival-pack",
+      "pageCount": 102,
+      "fileCount": 2,
+      "samples": [
+        {
+          "src": "/assets/previews/career-survival-pack-1.webp",
+          "label": "Guide 1 · Sample page 3",
+          "alt": "Salary Negotiation Blueprint — sample PDF page 3"
+        },
+        {
+          "src": "/assets/previews/career-survival-pack-2.webp",
+          "label": "Guide 2 · Sample page 3",
+          "alt": "Redundancy & Settlement Agreement Survival Blueprint – UK Edition — sample PDF page 3"
+        }
+      ]
+    },
+    {
+      "handle": "uk-business-formation-pack",
+      "pageCount": 94,
+      "fileCount": 2,
+      "samples": [
+        {
+          "src": "/assets/previews/uk-business-formation-pack-1.webp",
+          "label": "Guide 1 · Sample page 3",
+          "alt": "UK Limited Company Formation Guide — sample PDF page 3"
+        },
+        {
+          "src": "/assets/previews/uk-business-formation-pack-2.webp",
+          "label": "Guide 2 · Sample page 3",
+          "alt": "Companies House Identity Verification Compliance Blueprint — sample PDF page 3"
+        }
+      ]
+    },
+    {
+      "handle": "uk-landlord-starter-pack",
+      "pageCount": 104,
+      "fileCount": 2,
+      "samples": [
+        {
+          "src": "/assets/previews/uk-landlord-starter-pack-1.webp",
+          "label": "Guide 1 · Sample page 3",
+          "alt": "First-Time Landlord Blueprint – UK Edition (England) — sample PDF page 3"
+        },
+        {
+          "src": "/assets/previews/uk-landlord-starter-pack-2.webp",
+          "label": "Guide 2 · Sample page 3",
+          "alt": "Renters' Rights Act 2025 Compliance Blueprint — 2026 Edition — sample PDF page 3"
+        }
+      ]
+    },
+    {
+      "handle": "the-complete-making-friends-as-an-adult-blueprint",
+      "pageCount": 76,
+      "fileCount": 1,
+      "samples": [
+        {
+          "src": "/assets/previews/the-complete-making-friends-as-an-adult-blueprint-1.webp",
+          "label": "Sample page 3",
+          "alt": "Making Friends as an Adult Blueprint — sample PDF page 3"
+        },
+        {
+          "src": "/assets/previews/the-complete-making-friends-as-an-adult-blueprint-2.webp",
+          "label": "Sample page 6",
+          "alt": "Making Friends as an Adult Blueprint — sample PDF page 6"
+        }
+      ]
+    },
+    {
+      "handle": "uk-redundancy-settlement-agreement-survival-blueprint",
+      "pageCount": 85,
+      "fileCount": 1,
+      "samples": [
+        {
+          "src": "/assets/previews/uk-redundancy-settlement-agreement-survival-blueprint-1.webp",
+          "label": "Sample page 3",
+          "alt": "Redundancy & Settlement Agreement Survival Blueprint – UK Edition — sample PDF page 3"
+        },
+        {
+          "src": "/assets/previews/uk-redundancy-settlement-agreement-survival-blueprint-2.webp",
+          "label": "Sample page 6",
+          "alt": "Redundancy & Settlement Agreement Survival Blueprint – UK Edition — sample PDF page 6"
+        }
+      ]
+    },
+    {
+      "handle": "nigerian-pidgin-english-the-afrobeats-guide",
+      "pageCount": 143,
+      "fileCount": 1,
+      "samples": [
+        {
+          "src": "/assets/previews/nigerian-pidgin-english-the-afrobeats-guide-1.webp",
+          "label": "Sample page 3",
+          "alt": "Nigerian Pidgin English: The Afrobeats Guide — sample PDF page 3"
+        },
+        {
+          "src": "/assets/previews/nigerian-pidgin-english-the-afrobeats-guide-2.webp",
+          "label": "Sample page 6",
+          "alt": "Nigerian Pidgin English: The Afrobeats Guide — sample PDF page 6"
+        }
+      ]
+    },
+    {
+      "handle": "the-complete-modern-birding-for-beginners-blueprint",
+      "pageCount": 58,
+      "fileCount": 1,
+      "samples": [
+        {
+          "src": "/assets/previews/the-complete-modern-birding-for-beginners-blueprint-1.webp",
+          "label": "Sample page 3",
+          "alt": "Modern Birding for Beginners Blueprint — sample PDF page 3"
+        },
+        {
+          "src": "/assets/previews/the-complete-modern-birding-for-beginners-blueprint-2.webp",
+          "label": "Sample page 6",
+          "alt": "Modern Birding for Beginners Blueprint — sample PDF page 6"
+        }
+      ]
+    },
+    {
+      "handle": "renters-rights-act-2025-landlord-compliance-blueprint",
+      "pageCount": 48,
+      "fileCount": 1,
+      "samples": [
+        {
+          "src": "/assets/previews/renters-rights-act-2025-landlord-compliance-blueprint-1.webp",
+          "label": "Sample page 3",
+          "alt": "Renters' Rights Act 2025 Compliance Blueprint — 2026 Edition — sample PDF page 3"
+        },
+        {
+          "src": "/assets/previews/renters-rights-act-2025-landlord-compliance-blueprint-2.webp",
+          "label": "Sample page 6",
+          "alt": "Renters' Rights Act 2025 Compliance Blueprint — 2026 Edition — sample PDF page 6"
+        }
+      ]
+    },
+    {
+      "handle": "the-complete-companies-house-identity-verification-compliance-blueprint-premium-edition",
+      "pageCount": 61,
+      "fileCount": 1,
+      "samples": [
+        {
+          "src": "/assets/previews/the-complete-companies-house-identity-verification-compliance-blueprint-premium-edition-1.webp",
+          "label": "Sample page 3",
+          "alt": "Companies House Identity Verification Compliance Blueprint — sample PDF page 3"
+        },
+        {
+          "src": "/assets/previews/the-complete-companies-house-identity-verification-compliance-blueprint-premium-edition-2.webp",
+          "label": "Sample page 6",
+          "alt": "Companies House Identity Verification Compliance Blueprint — sample PDF page 6"
+        }
+      ]
+    },
+    {
+      "handle": "the-complete-over-50-job-loss-career-reinvention-blueprint-uk-edition",
+      "pageCount": 51,
+      "fileCount": 1,
+      "samples": [
+        {
+          "src": "/assets/previews/the-complete-over-50-job-loss-career-reinvention-blueprint-uk-edition-1.webp",
+          "label": "Sample page 3",
+          "alt": "Over-50 Job Loss & Career Reinvention Blueprint (UK Edition) — sample PDF page 3"
+        },
+        {
+          "src": "/assets/previews/the-complete-over-50-job-loss-career-reinvention-blueprint-uk-edition-2.webp",
+          "label": "Sample page 6",
+          "alt": "Over-50 Job Loss & Career Reinvention Blueprint (UK Edition) — sample PDF page 6"
+        }
+      ]
+    },
+    {
+      "handle": "the-complete-over-50-job-loss-career-reinvention-blueprint-us-edition",
+      "pageCount": 57,
+      "fileCount": 1,
+      "samples": [
+        {
+          "src": "/assets/previews/the-complete-over-50-job-loss-career-reinvention-blueprint-us-edition-1.webp",
+          "label": "Sample page 3",
+          "alt": "Over-50 Job Loss & Career Reinvention Blueprint (US Edition) — sample PDF page 3"
+        },
+        {
+          "src": "/assets/previews/the-complete-over-50-job-loss-career-reinvention-blueprint-us-edition-2.webp",
+          "label": "Sample page 6",
+          "alt": "Over-50 Job Loss & Career Reinvention Blueprint (US Edition) — sample PDF page 6"
+        }
+      ]
+    },
+    {
+      "handle": "the-ai-career-survival-and-pivot-blueprint",
+      "pageCount": 55,
+      "fileCount": 1,
+      "samples": [
+        {
+          "src": "/assets/previews/the-ai-career-survival-and-pivot-blueprint-1.webp",
+          "label": "Sample page 3",
+          "alt": "AI Career Survival and Pivot Blueprint — sample PDF page 3"
+        },
+        {
+          "src": "/assets/previews/the-ai-career-survival-and-pivot-blueprint-2.webp",
+          "label": "Sample page 6",
+          "alt": "AI Career Survival and Pivot Blueprint — sample PDF page 6"
+        }
+      ]
+    },
+    {
+      "handle": "the-complete-layoff-severance-survival-blueprint",
+      "pageCount": 61,
+      "fileCount": 1,
+      "samples": [
+        {
+          "src": "/assets/previews/the-complete-layoff-severance-survival-blueprint-1.webp",
+          "label": "Sample page 3",
+          "alt": "Layoff & Severance Survival Blueprint — sample PDF page 3"
+        },
+        {
+          "src": "/assets/previews/the-complete-layoff-severance-survival-blueprint-2.webp",
+          "label": "Sample page 6",
+          "alt": "Layoff & Severance Survival Blueprint — sample PDF page 6"
+        }
+      ]
+    },
+    {
+      "handle": "the-complete-salary-negotiation-blueprint",
+      "pageCount": 17,
+      "fileCount": 1,
+      "samples": [
+        {
+          "src": "/assets/previews/the-complete-salary-negotiation-blueprint-1.webp",
+          "label": "Sample page 3",
+          "alt": "Salary Negotiation Blueprint — sample PDF page 3"
+        },
+        {
+          "src": "/assets/previews/the-complete-salary-negotiation-blueprint-2.webp",
+          "label": "Sample page 6",
+          "alt": "Salary Negotiation Blueprint — sample PDF page 6"
+        }
+      ]
+    },
+    {
+      "handle": "the-complete-fraud-scam-prevention-blueprint-premium-edition",
+      "pageCount": 104,
+      "fileCount": 1,
+      "samples": [
+        {
+          "src": "/assets/previews/the-complete-fraud-scam-prevention-blueprint-premium-edition-1.webp",
+          "label": "Sample page 3",
+          "alt": "Fraud and Scam Prevention Blueprint — sample PDF page 3"
+        },
+        {
+          "src": "/assets/previews/the-complete-fraud-scam-prevention-blueprint-premium-edition-2.webp",
+          "label": "Sample page 6",
+          "alt": "Fraud and Scam Prevention Blueprint — sample PDF page 6"
+        }
+      ]
+    },
+    {
+      "handle": "crypto-tax-reporting-compliance-guide",
+      "pageCount": 44,
+      "fileCount": 1,
+      "samples": [
+        {
+          "src": "/assets/previews/crypto-tax-reporting-compliance-guide-1.webp",
+          "label": "Sample page 3",
+          "alt": "Crypto Tax Reporting & Compliance Guide — sample PDF page 3"
+        },
+        {
+          "src": "/assets/previews/crypto-tax-reporting-compliance-guide-2.webp",
+          "label": "Sample page 6",
+          "alt": "Crypto Tax Reporting & Compliance Guide — sample PDF page 6"
+        }
+      ]
+    },
+    {
+      "handle": "wills-and-power-of-attorney-guide",
+      "pageCount": 29,
+      "fileCount": 1,
+      "samples": [
+        {
+          "src": "/assets/previews/wills-and-power-of-attorney-guide-1.webp",
+          "label": "Sample page 3",
+          "alt": "Wills & Power of Attorney Guide — sample PDF page 3"
+        },
+        {
+          "src": "/assets/previews/wills-and-power-of-attorney-guide-2.webp",
+          "label": "Sample page 6",
+          "alt": "Wills & Power of Attorney Guide — sample PDF page 6"
+        }
+      ]
+    },
+    {
+      "handle": "first-time-home-buyers-workbook",
+      "pageCount": 52,
+      "fileCount": 1,
+      "samples": [
+        {
+          "src": "/assets/previews/first-time-home-buyers-workbook-1.webp",
+          "label": "Sample page 3",
+          "alt": "First-Time Home Buyer's Workbook — sample PDF page 3"
+        },
+        {
+          "src": "/assets/previews/first-time-home-buyers-workbook-2.webp",
+          "label": "Sample page 6",
+          "alt": "First-Time Home Buyer's Workbook — sample PDF page 6"
+        }
+      ]
+    },
+    {
+      "handle": "uk-first-time-landlord-blueprint",
+      "pageCount": 56,
+      "fileCount": 1,
+      "samples": [
+        {
+          "src": "/assets/previews/uk-first-time-landlord-blueprint-1.webp",
+          "label": "Sample page 3",
+          "alt": "First-Time Landlord Blueprint – UK Edition (England) — sample PDF page 3"
+        },
+        {
+          "src": "/assets/previews/uk-first-time-landlord-blueprint-2.webp",
+          "label": "Sample page 6",
+          "alt": "First-Time Landlord Blueprint – UK Edition (England) — sample PDF page 6"
+        }
+      ]
+    },
+    {
+      "handle": "us-first-time-landlord-blueprint",
+      "pageCount": 68,
+      "fileCount": 1,
+      "samples": [
+        {
+          "src": "/assets/previews/us-first-time-landlord-blueprint-1.webp",
+          "label": "Sample page 3",
+          "alt": "First-Time Landlord Blueprint – US Edition — sample PDF page 3"
+        },
+        {
+          "src": "/assets/previews/us-first-time-landlord-blueprint-2.webp",
+          "label": "Sample page 6",
+          "alt": "First-Time Landlord Blueprint – US Edition — sample PDF page 6"
+        }
+      ]
+    },
+    {
+      "handle": "usa-llc-formation-guide",
+      "pageCount": 44,
+      "fileCount": 1,
+      "samples": [
+        {
+          "src": "/assets/previews/usa-llc-formation-guide-1.webp",
+          "label": "Sample page 3",
+          "alt": "USA LLC Formation Guide — sample PDF page 3"
+        },
+        {
+          "src": "/assets/previews/usa-llc-formation-guide-2.webp",
+          "label": "Sample page 6",
+          "alt": "USA LLC Formation Guide — sample PDF page 6"
+        }
+      ]
+    },
+    {
+      "handle": "uk-limited-company-formation-guide",
+      "pageCount": 33,
+      "fileCount": 1,
+      "samples": [
+        {
+          "src": "/assets/previews/uk-limited-company-formation-guide-1.webp",
+          "label": "Sample page 3",
+          "alt": "UK Limited Company Formation Guide — sample PDF page 3"
+        },
+        {
+          "src": "/assets/previews/uk-limited-company-formation-guide-2.webp",
+          "label": "Sample page 6",
+          "alt": "UK Limited Company Formation Guide — sample PDF page 6"
+        }
+      ]
+    },
+    {
+      "handle": "uk-subscription-cancellation-compliance-blueprint",
+      "pageCount": 30,
+      "fileCount": 1,
+      "samples": [
+        {
+          "src": "/assets/previews/uk-subscription-cancellation-compliance-blueprint-1.webp",
+          "label": "Contents",
+          "alt": "UK Subscription Cancellation Compliance Blueprint — PDF page 2"
+        },
+        {
+          "src": "/assets/previews/uk-subscription-cancellation-compliance-blueprint-2.webp",
+          "label": "Sample page 7",
+          "alt": "UK Subscription Cancellation Compliance Blueprint — PDF page 7"
+        }
+      ]
+    }
+  ]
 }
