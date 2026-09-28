@@ -73,11 +73,15 @@ collections:
           - label: Posts
             name: posts
             widget: list
-            summary: "{{fields.title}}"
+            add_to_top: true
+            summary: "{{fields.date}} — {{fields.title}}"
             fields:
               - {label: Title, name: title, widget: string}
-              - {label: "Slug (URL)", name: slug, widget: string, hint: "Used in the post URL, e.g. /blogs/guides/<slug>/"}
-              - {label: "Body (HTML)", name: html, widget: markdown}
+              - {label: "Slug (URL)", name: slug, widget: string, pattern: ['^[a-z0-9]+(-[a-z0-9]+)*$', "Lowercase letters, numbers and hyphens only, e.g. my-post-title"], hint: "Used in the post URL, e.g. /blogs/guides/<slug>/ . Must be unique. Do not change it after publishing."}
+              - {label: "Excerpt (about 150 characters)", name: excerpt, widget: text, hint: "Shown on the journal card and used as the page's meta description for Google."}
+              - {label: "Date", name: date, widget: datetime, date_format: "YYYY-MM-DD", time_format: false, format: "YYYY-MM-DD", picker_utc: true, hint: "Display date only. The post goes live as soon as you publish."}
+              - {label: Author, name: author, widget: string, default: "Edward Lufadeju"}
+              - {label: "Body (write HTML: <p>, <h2>, <a href>, <ul>)", name: html, widget: text, hint: "Plain HTML, not markdown. Example: <p>Paragraph</p><h2>Heading</h2>. Product links: /products/<handle>/"}
 
   - name: collections_page
     label: "Curated collections"
