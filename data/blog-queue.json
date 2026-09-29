@@ -1,0 +1,56 @@
+{
+  "cycle": 1,
+  "started": "2026-09-29",
+  "queue": [
+    {
+      "handle": "uk-subscription-cancellation-compliance-blueprint",
+      "existing": []
+    },
+    {
+      "handle": "ai-compliance-for-small-business-uk-edition",
+      "existing": []
+    },
+    {
+      "handle": "ai-compliance-for-small-business-eu-edition",
+      "existing": []
+    },
+    {
+      "handle": "the-college-dorm-survival-blueprint-2026",
+      "existing": []
+    },
+    {
+      "handle": "the-menopause-equality-action-plan-compliance",
+      "existing": []
+    },
+    {
+      "handle": "the-complete-menopause-at-work-blueprint",
+      "existing": []
+    },
+    {
+      "handle": "the-complete-salary-negotiation-blueprint",
+      "existing": []
+    },
+    {
+      "handle": "the-complete-fraud-scam-prevention-blueprint-premium-edition",
+      "existing": []
+    },
+    {
+      "handle": "uk-first-time-landlord-blueprint",
+      "existing": []
+    },
+    {
+      "handle": "us-first-time-landlord-blueprint",
+      "existing": []
+    }
+  ],
+  "next_index": 1,
+  "log": [
+    {
+      "date": "2026-09-29",
+      "cycle": 1,
+      "handle": "uk-subscription-cancellation-compliance-blueprint",
+      "slug": "uk-subscription-rules-january-2027-business-checklist",
+      "angle": "13-week countdown checklist to the January 2027 start"
+    }
+  ]
+}
