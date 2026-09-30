@@ -43,7 +43,7 @@
       "existing": []
     }
   ],
-  "next_index": 1,
+  "next_index": 2,
   "log": [
     {
       "date": "2026-09-29",
@@ -51,6 +51,13 @@
       "handle": "uk-subscription-cancellation-compliance-blueprint",
       "slug": "uk-subscription-rules-january-2027-business-checklist",
       "angle": "13-week countdown checklist to the January 2027 start"
+    },
+    {
+      "date": "2026-09-30",
+      "cycle": 1,
+      "handle": "ai-compliance-for-small-business-uk-edition",
+      "slug": "uk-ai-rules-small-business-myths-vs-facts",
+      "angle": "seven myths vs facts on UK AI rules"
     }
   ]
 }
