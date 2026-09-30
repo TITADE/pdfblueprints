@@ -1,0 +1,30 @@
+.pack-artwork{background:#eef1fa;padding:32px;border:1px solid #e1e5ef;border-radius:8px;text-align:center;color:#15213e}
+.pack-artwork>.micro{display:block;margin-bottom:28px;color:#364ad3}
+.pack-book-pair{display:flex;align-items:center;justify-content:center;gap:7%;padding:12px 0 30px}
+.pack-book-pair img{width:43%;height:260px;object-fit:contain;filter:drop-shadow(5px 10px 8px #18213d26)}
+.pack-artwork>strong{display:block;font-size:24px;line-height:1.3}
+.pack-art-caption{font-size:14px;color:#555e6b;text-align:center;margin-top:16px}
+.pack-card-art{padding:0!important;display:block!important;background:#eef1fa!important}
+.pack-card-art .pack-artwork{height:100%;border:0;border-radius:0;padding:20px 14px}
+.pack-card-art .pack-book-pair img{width:43%!important;height:180px!important;object-fit:contain!important}
+.pack-card-art .pack-book-pair{gap:7%;padding-bottom:20px}
+.pack-card-art .pack-artwork>strong{font-size:17px}
+.pack-card-art .micro{font-size:10px;margin-bottom:8px}
+.pack-card-includes{padding-left:18px;margin:14px 0 22px;font-size:13px;line-height:1.55;color:#535b69}
+.pack-card-includes li+li{margin-top:7px}
+.pack-summary{padding:22px 24px;background:#f5f7fd;border-left:3px solid #364ded;margin:24px 0}
+.pack-summary h2{font-size:19px;margin:0 0 12px;letter-spacing:0}
+.pack-summary ul{margin:0;padding-left:20px;line-height:1.6}
+.pack-summary li+li{margin-top:10px}
+.pack-summary a{text-decoration:underline;text-underline-offset:3px}
+.pack-savings{font-size:15px;color:#495366;margin:0 0 20px}
+.pack-savings strong{color:#254a35;white-space:nowrap}
+.pack-members{display:grid;gap:24px}
+.pack-member{display:grid;grid-template-columns:150px 1fr;gap:32px;border:1px solid #e1e5ef;border-radius:8px;padding:30px;scroll-margin-top:110px}
+.pack-member-cover img{display:block;width:100%;height:210px;object-fit:contain}
+.pack-member h3{font-size:24px;line-height:1.3;margin:8px 0 16px}
+.pack-member p{line-height:1.65}
+.pack-member-price{font-size:14px;color:#536150}
+.pack-member-actions{display:flex;align-items:center;gap:20px;flex-wrap:wrap;margin-top:18px}
+.pack-member-actions .button{white-space:normal;text-align:left;font-size:14px;line-height:1.5}
+@media(max-width:650px){.pack-artwork{padding:24px 18px}.pack-book-pair img{height:220px}.pack-member{grid-template-columns:1fr;padding:22px;gap:20px}.pack-member-cover{width:120px}.pack-member-cover img{height:170px}.pack-member h3{font-size:22px}.pack-member-actions{align-items:stretch;flex-direction:column}.pack-member-actions .button{width:100%}.pack-summary{padding:18px}.pack-artwork>strong{font-size:22px}}

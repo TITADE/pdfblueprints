@@ -2,7 +2,7 @@ import {mkdir,readdir,readFile,writeFile,chmod,rm} from 'node:fs/promises';
 async function forceWrite(url,content){try{await chmod(url,0o644)}catch(e){if(e.code!=='ENOENT')throw e}try{await writeFile(url,content,{mode:0o644})}catch(e){if(e.code!=='EACCES'&&e.code!=='EPERM')throw e;await rm(url,{force:true});await writeFile(url,content,{mode:0o644})}}
 import {home,productPage,catalogue,infoPage,layout} from '../src/site.mjs';
 import {blogIndex,articlePage,collectionPage,textPage} from '../src/editorial.mjs';
-const root=new URL('../',import.meta.url),dist=new URL('dist/',root);
+const root=new URL('../',import.meta.url),dist=new URL((process.env.SITE_OUTPUT||'dist')+'/',root);
 const products=JSON.parse(await readFile(new URL('data/products.json',root),'utf8')).products;
 await mkdir(dist,{recursive:true});
 async function copyAssets(source,dest){await mkdir(dest,{recursive:true});for(const entry of await readdir(source,{withFileTypes:true})){const from=new URL(entry.name+(entry.isDirectory()?'/':''),source),to=new URL(entry.name+(entry.isDirectory()?'/':''),dest);if(entry.isDirectory())await copyAssets(from,to);else {const content=await readFile(from);let previous;try{previous=await readFile(to)}catch(e){if(e.code!=='ENOENT')throw e;}if(!previous||!content.equals(previous))await writeFile(to,content);}}}
