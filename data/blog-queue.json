@@ -43,7 +43,7 @@
       "existing": []
     }
   ],
-  "next_index": 2,
+  "next_index": 3,
   "log": [
     {
       "date": "2026-09-29",
@@ -58,6 +58,13 @@
       "handle": "ai-compliance-for-small-business-uk-edition",
       "slug": "uk-ai-rules-small-business-myths-vs-facts",
       "angle": "seven myths vs facts on UK AI rules"
+    },
+    {
+      "date": "2026-10-01",
+      "cycle": 1,
+      "handle": "ai-compliance-for-small-business-eu-edition",
+      "slug": "eu-ai-act-small-business-walkthrough-chatbot-rules",
+      "angle": "realistic scenario walk-through: small online shop with EU customers"
     }
   ]
 }
