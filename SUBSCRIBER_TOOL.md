@@ -39,7 +39,7 @@ Verified browser paths: service cancellation, digital-content waiver/renewal, di
 
 ## Release
 
-The modified source is in the existing local repository. No commit, push, Cloudflare deployment or live-site change was made. Local notes describe Cloudflare Pages; a Wrangler Worker static-assets configuration also exists. Confirm the active production build and latest GitHub state before publishing. Do not replace the live site wholesale from an old snapshot if newer content exists. Apply the focused source changes, rebuild through the existing production pipeline, then verify the exact product URL, its anchor, PDF previews, Payhip link and downloads.
+Publish through the existing GitHub main → Cloudflare production pipeline. Preserve newer GitHub content before committing. Verify the exact product URL, tool anchor, PDF previews, Payhip link and browser downloads after deployment. The October 2026 release passed 32 automated checks and a production build, with desktop/mobile browser checks. See the release QA report for deployment confirmation.
 
 ## Updating the law
 
