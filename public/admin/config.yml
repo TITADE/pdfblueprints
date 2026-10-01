@@ -143,3 +143,27 @@ collections:
               - {label: Title, name: title, widget: string}
               - {label: "Slug (URL)", name: slug, widget: string}
               - {label: "Body (HTML)", name: html, widget: markdown}
+
+  - name: subscription_tool
+    label: "Subscriber tool: wording & updates"
+    files:
+      - name: subscription_tool
+        label: "Subscriber tool content"
+        file: data/subscription-tool.json
+        fields:
+          - {label: "Version (updated by developer)", name: version, widget: hidden}
+          - {label: "Rules reviewed on (developer-maintained)", name: reviewedOn, widget: hidden, hint: "Changing this date does not review or update the rules. Ask the developer to verify and test legal changes first."}
+          - {label: "Legal review required from (developer-maintained)", name: reviewBefore, widget: hidden, hint: "YYYY-MM-DD. Do not extend without a review of commencement, transitional provisions and tests."}
+          - {label: "Introduction", name: intro, widget: text}
+          - label: "Dated updates"
+            name: updates
+            widget: list
+            fields:
+              - {label: Date, name: date, widget: string}
+              - {label: Update, name: text, widget: text}
+          - label: "Official source links"
+            name: sources
+            widget: list
+            fields:
+              - {label: Title, name: title, widget: string}
+              - {label: URL, name: url, widget: string}

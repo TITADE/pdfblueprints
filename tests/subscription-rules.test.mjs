@@ -1,0 +1,32 @@
+import test from 'node:test';import assert from 'node:assert/strict';import {assess,validate,addDays,addMonths,makeLetter,calendar,parseDate} from '../public/subscription-rules.js';
+const base={situation:'cancel',personal:'yes',uk:'yes',kind:'service',channel:'distance',start:'2026-09-20',info:'yes',serviceState:'none',early:'na',acknowledged:'na'};const options={today:'2026-10-01',reviewBefore:'2027-01-01'};
+const check=(over={},date='2026-10-01')=>assess({...base,...over},{...options,today:date});
+test('14 days excludes the contract day and includes the last day',()=>{assert.equal(check().deadline,'2026-10-04');assert.equal(check({},'2026-10-04').canUseCoolingOff,true);assert.equal(check({},'2026-10-05').canUseCoolingOff,false)});
+test('goods clock starts on first delivery',()=>{assert.equal(check({kind:'goods',delivery:'2026-09-28'}).deadline,'2026-10-12');assert.equal(check({kind:'goods',delivery:''}).deadline,null)});
+test('missing information adds 12 months to normal deadline',()=>{assert.equal(check({start:'2025-09-20',info:'no'}).deadline,'2026-10-04');assert.equal(check({start:'2025-09-20',info:'no'},'2026-10-05').within,false)});
+test('late information within information period resets to 14 days',()=>assert.equal(check({start:'2026-01-10',info:'late',informed:'2026-09-30'}).deadline,'2026-10-14'));
+test('late information outside period does not reset deadline',()=>assert.equal(check({start:'2025-09-01',info:'late',informed:'2026-09-30'}).deadline,'2026-09-15'));
+test('late information last permissible day is included',()=>assert.equal(check({start:'2025-09-20',info:'late',informed:'2026-09-20'}).deadline,'2026-10-04'));
+test('renewal and trial do not restart initial clock',()=>{for(const situation of ['trial','renewal']){const r=check({situation,start:'2026-01-01',renewal:'2026-09-30'});assert.equal(r.deadline,'2026-01-15');assert.equal(r.canUseCoolingOff,false)}});
+test('uncertain information never asserts cooling-off entitlement',()=>assert.equal(check({info:'unsure'}).canUseCoolingOff,false));
+test('digital waiver with supply ends initial right',()=>{const r=check({kind:'digital',digitalWaiver:'yes'});assert.equal(r.deadline,null);assert.equal(r.canUseCoolingOff,false)});
+test('uncertain digital consent is referred for review',()=>assert.equal(check({kind:'digital',digitalWaiver:'unsure'}).canUseCoolingOff,false));
+test('digital without waiver can retain right',()=>assert.equal(check({kind:'digital',digitalWaiver:'no'}).canUseCoolingOff,true));
+test('fully performed service with request and acknowledgement ends right',()=>assert.equal(check({serviceState:'complete',early:'yes',acknowledged:'yes'}).deadline,null));
+test('ongoing service points to proportionate charge',()=>assert.match(check({serviceState:'partial',early:'yes',chargeInfo:'yes'}).refund,/proportionate/));
+test('unknown early start cannot assert a right',()=>assert.equal(check({serviceState:'partial',early:'unsure'}).canUseCoolingOff,false));
+test('in-person, off-premises, cross-border, business and excluded categories not calculated',()=>{for(const over of [{channel:'premises'},{channel:'offpremises'},{channel:'unsure'},{personal:'no'},{personal:'unsure'},{uk:'no'},{uk:'unsure'},{kind:'special'},{kind:'regulated'},{kind:'unsure'}])assert.equal(check(over).deadline,null)});
+test('charge dispute does not declare payment wrong merely because request made',()=>{const r=check({situation:'charged'});assert.equal(r.canUseCoolingOff,false);assert.match(r.summary,/contractual end date/);assert.match(makeLetter({...base,situation:'charged'},r),/If it was taken in error/)});
+test('review gate prevents post-2026 stale rights assessments',()=>{const r=check({},'2027-01-01');assert.equal(r.deadline,null);assert.equal(r.canUseCoolingOff,false);assert.match(r.notes[0],/legal update/)});
+test('calendar maths handles leap years and month ends',()=>{assert.equal(addDays('2028-02-28',1),'2028-02-29');assert.equal(addDays('2026-12-31',1),'2027-01-01');assert.equal(addMonths('2028-02-29',12),'2029-02-28');assert.equal(parseDate('2026-02-30'),null)});
+test('validation rejects reversed dates and missing late info',()=>{assert.ok(validate({...base,delivery:'2026-09-10'},options.today).length);assert.ok(validate({...base,start:'2026-10-02'},options.today).length);assert.ok(validate({...base,info:'late'},options.today).length);assert.ok(validate({...base,next:'2026-10-01'},options.today).length)});
+test('letters preserve placeholders, use actual facts and never promise amount',()=>{const r=check();const letter=makeLetter(base,r,{provider:'Example',name:'Reader',reference:'AB123'});assert.match(letter,/To: Example/);assert.match(letter,/AB123/);assert.match(letter,/20 September 2026/);assert.match(letter,/any amount due/);assert.ok(letter.endsWith('Reader'))});
+test('future renewal can create a reminder even on unsupported branch',()=>{const r=check({kind:'regulated',next:'2026-11-01'});assert.equal(r.reminder.date,'2026-10-31')});
+test('ICS uses all-day dates and contains no personal details',()=>{const r=check({next:'2026-12-01'});const ics=calendar(r.reminder);assert.match(ics,/BEGIN:VCALENDAR/);assert.match(ics,/DTSTART;VALUE=DATE:20261003/);assert.match(ics,/DTEND;VALUE=DATE:20261004/);assert.doesNotMatch(ics,/AB123|Reader/)});
+
+test('editable content cannot extend the legal review gate',()=>{assert.equal(assess(base,{today:'2027-01-01',reviewBefore:'2030-01-01'}).deadline,null)});
+
+test('information before first goods delivery cannot shorten normal window',()=>{assert.equal(check({kind:'goods',start:'2026-09-01',delivery:'2026-09-25',info:'late',informed:'2026-09-10'}).deadline,'2026-10-09')});
+test('fully performed service can end right regardless of charge information',()=>{assert.equal(check({serviceState:'complete',early:'yes',chargeInfo:'no',acknowledged:'yes'}).canUseCoolingOff,false)});
+test('missing service charge information is not treated as informed deduction',()=>{assert.match(check({serviceState:'partial',early:'yes',chargeInfo:'no'}).refund,/prevents a charge/)});
+test('unsupported cases do not insert CCR legal claims into letters',()=>{for(const over of [{personal:'no'},{uk:'no'},{channel:'premises'},{kind:'regulated'}]){const a={...base,...over,info:'no'};assert.doesNotMatch(makeLetter(a,check({...over,info:'no'})),/regulation 31/);}});

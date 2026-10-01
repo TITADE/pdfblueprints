@@ -1,0 +1,30 @@
+{
+  "version": "1.0.0",
+  "reviewedOn": "2026-10-01",
+  "reviewBefore": "2027-01-01",
+  "intro": "Check your options and prepare a cancellation or refund-request letter. Free to use, with no purchase or account required.",
+  "updates": [
+    {
+      "date": "2026-10-01",
+      "text": "First release: existing Consumer Contracts Regulations guidance, cancellation letters and evidence checklist. Announced subscription reforms are kept separate from current rights."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Consumer Contracts Regulations 2013 \u2014 cancellation, refunds and exceptions",
+      "url": "https://www.legislation.gov.uk/uksi/2013/3134"
+    },
+    {
+      "title": "FCA \u2014 recurring card payments",
+      "url": "https://www.fca.org.uk/consumers/recurring-card-payments"
+    },
+    {
+      "title": "Government \u2014 subscription reform announcement, 9 August 2026",
+      "url": "https://www.gov.uk/government/news/pm-starts-roll-out-of-everyday-fixes-on-the-cost-of-living-ending-rip-off-discounts-and-subscription-traps"
+    },
+    {
+      "title": "Citizens Advice \u2014 consumer help",
+      "url": "https://www.citizensadvice.org.uk/consumer/"
+    }
+  ]
+}
