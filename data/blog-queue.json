@@ -43,7 +43,7 @@
       "existing": []
     }
   ],
-  "next_index": 4,
+  "next_index": 5,
   "log": [
     {
       "date": "2026-09-29",
@@ -72,6 +72,13 @@
       "handle": "the-college-dorm-survival-blueprint-2026",
       "slug": "questions-to-ask-before-moving-into-halls-or-a-dorm",
       "angle": "ten questions to ask before moving in"
+    },
+    {
+      "date": "2026-10-03",
+      "cycle": 1,
+      "handle": "the-menopause-equality-action-plan-compliance",
+      "slug": "menopause-equality-action-plan-mistakes-uk-employers",
+      "angle": "six common mistakes with equality action plans"
     }
   ]
 }
