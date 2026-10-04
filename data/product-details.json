@@ -1,8 +1,8 @@
 {
  "renters-rights-act-2025-landlord-compliance-blueprint": {
+  "heading": "Built for landlords<br><em>in England.</em>",
   "who": "Designed for private landlords in England — including portfolio landlords, accidental landlords, first-time landlords, student landlords and property owners who use letting or managing agents.",
   "scope": "This Blueprint covers the private rented sector in England only. Different tenancy legislation applies in Scotland, Wales and Northern Ireland.",
-  "learnHeading": "What you’ll learn",
   "learn": [
    "Understand the new assured periodic tenancy system",
    "Audit existing tenancies for compliance gaps",
@@ -28,8 +28,7 @@
    "Track future Decent Homes Standard and Awaab's Law requirements",
    "Manage compliance across multiple properties and letting agents"
   ],
-  "toolsHeading": "23 practical compliance tools included",
-  "tools": [
+  "inc": [
    "15-minute landlord compliance diagnostic",
    "Existing tenancy audit",
    "Tenant information checklist",
@@ -54,7 +53,765 @@
    "30-day landlord compliance action plan",
    "Quick-reference landlord decision centre"
   ],
-  "source": "Product listing text, pdfblueprints.store (Shopify), migrated 24 Sep 2026; not re-checked against the PDF",
+  "incTitle": "23 practical compliance tools included",
+  "author": {
+   "heading": "Edward Omoba writes to make the law make sense.",
+   "bio": "A qualified solicitor in the UK, Edward stepped back from active legal practice to devote his time to a different kind of work: helping ordinary people understand the legal and regulatory issues that affect their everyday lives.",
+   "note": "Edward’s books are written for general informational and educational purposes only. Nothing in them should be taken as legal advice, and readers facing a specific legal issue should consult a qualified professional."
+  },
+  "source": "Product listing text, pdfblueprints.store (Shopify), migrated 24 Sep 2026; not re-checked against the PDF"
+ },
+ "the-complete-uk-right-to-work-checks-blueprint": {
+  "learn": [
+   "A chapter-by-chapter breakdown of the 1 October 2026 reform, with every legal claim labelled LAW, GUIDANCE, BEST PRACTICE, or WATCH so you always know what is settled and what is still developing",
+   "A plain-English walkthrough of the new extended/chain liability rules (sections 14A and 15A of the Immigration, Asylum and Nationality Act 2006), including the “Three Questions to Trace Through the Chain” framework",
+   "Dedicated chapters on contractors, freelancers, gig and platform workers, and agency staff — with the specific evidence each arrangement requires",
+   "A criminal liability chapter that separates the civil penalty test from the section 21 criminal test, so you know exactly where the line sits",
+   "A Minimum Evidence File checklist and a full compliance toolkit for building an audit-ready right to work system",
+   "Illustrative, clearly-labelled worked scenarios covering the situations most likely to catch employers out",
+   "This is a working compliance system, not a summary of the news. Every chapter is written to be operated, not just read."
+  ],
+  "source": "Product listing text, pdfblueprints.store (Shopify), migrated 24 Sep 2026",
+  "author": {
+   "heading": "Edward Omoba writes to make the law make sense.",
+   "bio": "A qualified solicitor in the UK, Edward stepped back from active legal practice to devote his time to a different kind of work: helping ordinary people understand the legal and regulatory issues that affect their everyday lives.",
+   "note": "Edward’s books are written for general informational and educational purposes only. Nothing in them should be taken as legal advice, and readers facing a specific legal issue should consult a qualified professional."
+  }
+ },
+ "the-complete-rucking-blueprint": {
+  "who": [
+   "Written specifically for rucking beginners — including anyone returning to exercise after a break, or looking for a lower-impact alternative to running. If you can walk, you can ruck. This blueprint tells you exactly how."
+  ],
+  "source": "Product listing text, pdfblueprints.store (Shopify), migrated 24 Sep 2026"
+ },
+ "ai-compliance-for-small-business-uk-edition": {
+  "who": [
+   "Whether you're a solo freelancer using AI tools for the first time or a small employer with AI in your hiring pipeline, this guide gives you a practical starting point — and tells you honestly when it's time to call a lawyer instead."
+  ],
+  "learn": [
+   "Why \"no UK AI Act\" doesn't mean unregulated — the five overlapping regimes that actually apply",
+   "The single biggest legal change: UK GDPR's old Article 22 replaced by new Articles 22A–22D, and the one exception (special category data) that got stricter, not looser",
+   "What's actually law today versus the ICO's Code of Practice — which hasn't been published yet",
+   "FCA, Ofcom, and other sector regulators — honestly scoped to what's relevant, not padded",
+   "A 30-day compliance plan and a £0 programme you can run yourself — no lawyer required",
+   "Fillable worksheets: AI inventory log, Article 22 classification tool, vendor due-diligence questionnaire, and a ready-to-adapt AI use policy"
+  ],
+  "source": "Product listing text, pdfblueprints.store (Shopify), migrated 24 Sep 2026",
+  "author": {
+   "heading": "Edward Omoba writes to make the law make sense.",
+   "bio": "A qualified solicitor in the UK, Edward stepped back from active legal practice to devote his time to a different kind of work: helping ordinary people understand the legal and regulatory issues that affect their everyday lives.",
+   "note": "Edward’s books are written for general informational and educational purposes only. Nothing in them should be taken as legal advice, and readers facing a specific legal issue should consult a qualified professional."
+  }
+ },
+ "ai-compliance-for-small-business-eu-edition": {
+  "who": [
+   "Whether you're a solo freelancer using AI tools for the first time or a small employer with AI in your hiring pipeline, this guide gives you a practical starting point — and tells you honestly when it's time to call a lawyer instead."
+  ],
+  "learn": [
+   "The corrected 2026–2028 compliance timeline after the Digital Omnibus — what's in force now versus deferred",
+   "The provider vs. deployer distinction that determines everything else",
+   "Article 5 prohibited practices, Article 50 transparency rules, and what using ChatGPT or Claude does (and doesn't) make you responsible for",
+   "The GDPR overlap most small businesses actually live in day to day — including the SCHUFA judgment's real teeth",
+   "Dated member-state profiles for Ireland, Germany, France, Spain, Netherlands, Poland, Belgium, and Italy",
+   "SME concessions most businesses don't know exist, including a fine-cap rule most explainers get backwards",
+   "A 30-day compliance plan and a €0 programme you can run yourself — no lawyer required",
+   "Fillable worksheets: AI inventory log, risk classification tool, GPAI vendor questionnaire, and ready-to-use Article 50 disclosure templates"
+  ],
+  "source": "Product listing text, pdfblueprints.store (Shopify), migrated 24 Sep 2026",
+  "author": {
+   "heading": "Edward Omoba writes to make the law make sense.",
+   "bio": "A qualified solicitor in the UK, Edward stepped back from active legal practice to devote his time to a different kind of work: helping ordinary people understand the legal and regulatory issues that affect their everyday lives.",
+   "note": "Edward’s books are written for general informational and educational purposes only. Nothing in them should be taken as legal advice, and readers facing a specific legal issue should consult a qualified professional."
+  }
+ },
+ "ai-compliance-for-small-business": {
+  "who": [
+   "Whether you're a solo freelancer using AI tools for the first time or a small employer with AI in your hiring pipeline, this guide gives you a practical starting point — and tells you honestly when it's time to call a lawyer instead."
+  ],
+  "learn": [
+   "The 5-Minute \"Does This Apply to Me?\" self-test",
+   "The LAW vs. GUIDANCE vs. BEST PRACTICE vs. WATCH decision framework — so you always know what's mandatory versus merely prudent",
+   "Deep-dive chapters on California, Colorado, Illinois, Texas, New York, and Connecticut — plus fast-spreading chatbot-disclosure laws explained plainly",
+   "An honest, clearly-dated quick-reference for every other US state",
+   "A 30-day execution roadmap and a $0 compliance strategy you can run yourself — no lawyer required",
+   "Production-ready templates: AI inventory log, vendor due-diligence questionnaire, risk assessment, and a ready-to-adapt AI Acceptable-Use Policy"
+  ],
+  "source": "Product listing text, pdfblueprints.store (Shopify), migrated 24 Sep 2026"
+ },
+ "digital-nomad-visa-comparison-guide": {
+  "who": [
+   "Remote workers and freelancers",
+   "Consultants and online business owners",
+   "Digital entrepreneurs and content creators",
+   "Software developers and designers",
+   "Remote employees planning to relocate",
+   "Anyone exploring a location-independent lifestyle"
+  ],
+  "learn": [
+   "How Digital Nomad Visas Work — Understand what these visas actually permit, who qualifies, and why they are different from tourist visas or work permits.",
+   "Compare 20+ Destinations Side by Side — Evaluate countries based on income requirements, application costs, processing times, permitted stay, internet quality, safety, healthcare and lifestyle — all in one place.",
+   "Choose the Right Country for You — Use practical decision frameworks to match your income, career, budget, family situation and long-term goals to the right destination.",
+   "Navigate the Application Process — Follow step-by-step guidance on documentation, application preparation, and what to expect at each stage.",
+   "Understand the Tax Implications — Learn how moving abroad may affect your tax residency, reporting obligations, and financial planning — and why this matters before you book a flight.",
+   "Healthcare, Insurance and Banking Abroad — Understand international health insurance requirements, medical coverage options, and practical strategies for managing money across currencies.",
+   "Avoid the Common Mistakes — Learn the planning errors that cause delays, extra costs, and visa rejections — and how to avoid them."
+  ],
+  "inc": [
+   "Premium Digital PDF — 45+ pages",
+   "20+ Country Comparison Tables",
+   "30+ Practical Worksheets",
+   "Digital Nomad Visa Comparison Matrix",
+   "Budget Planning Worksheets",
+   "Visa Application Checklists",
+   "Tax Planning Worksheets",
+   "Banking & Finance Guidance",
+   "Cost of Living Comparison across 20+ destinations"
+  ],
+  "highlights": [
+   "45+ pages | 20+ country comparison tables | 30+ practical worksheets",
+   "Income thresholds, application costs and processing times compared",
+   "Tax residency rules explained — what changes when you move abroad",
+   "Healthcare, banking and cost of living covered for every destination",
+   "Visa Application Checklists and Budget Planning Worksheets included",
+   "Covers Portugal, Georgia, Costa Rica, UAE, Albania and 15+ more",
+   "Premium Digital PDF — 45+ pages",
+   "20+ Country Comparison Tables",
+   "30+ Practical Worksheets",
+   "Digital Nomad Visa Comparison Matrix",
+   "Budget Planning Worksheets",
+   "Visa Application Checklists",
+   "Tax Planning Worksheets",
+   "Banking & Finance Guidance",
+   "Cost of Living Comparison across 20+ destinations"
+  ],
+  "incTitle": "What's Included",
+  "source": "Product listing text, pdfblueprints.store (Shopify), migrated 24 Sep 2026"
+ },
+ "the-college-dorm-survival-blueprint-2026": {
+  "learn": [
+   "Housing contract review checklist, budgeting framework, and a dorm-vs-apartment-vs-commuting cost calculator",
+   "A complete smart-shopping system: what to buy, share, borrow, or skip entirely",
+   "Move-in planning timeline, room setup guide, and a documented room-condition record",
+   "Roommate compatibility tools, a real roommate agreement template, and conflict resolution scripts",
+   "Financial aid explained for both the UK and USA, plus weekly budgeting worksheets",
+   "Food, laundry, and shared-kitchen systems that prevent arguments before they start",
+   "Digital security, scam awareness, and AI/academic integrity guidance",
+   "A full safety and security workbook — fire safety, emergency planning, and personal safety",
+   "Health, homesickness, and study-environment tools for the full academic year",
+   "A semester-by-semester survival system from Week 1 through move-out day"
+  ],
+  "source": "Product listing text, pdfblueprints.store (Shopify), migrated 24 Sep 2026"
+ },
+ "the-menopause-equality-action-plan-compliance": {
+  "learn": [
+   "What an Equality Action Plan actually requires — and the common misunderstanding that trips employers up",
+   "Your existing legal exposure under the Equality Act 2010, with six real, named tribunal cases and what they cost employers",
+   "Six practical, government-recommended menopause support actions, explained in depth",
+   "How to write, publish, and track your Equality Action Plan properly",
+   "How to manage individual situations — disclosure, adjustments, absence, redundancy — without discriminating",
+   "What a grievance, an ACAS conciliation, and an uncapped tribunal award actually cost",
+   "A 90-day readiness plan for the 2027 mandatory deadline",
+   "Fillable policy and risk-assessment templates, manager scripts, and a compliance checklist"
+  ],
+  "inc": [
+   "Premium Digital PDF",
+   "6 Named UK Tribunal Cases with Cost Outcomes",
+   "Equality Action Plan Writing Guide",
+   "Fillable Policy & Risk-Assessment Templates",
+   "Manager Scripts for Sensitive Conversations",
+   "Compliance Checklist",
+   "90-Day Readiness Plan for 2027 Deadline",
+   "Built for HR professionals who need to move from \"aware of the requirement\" to \"genuinely compliant\" — grounded in real UK case law and the actual mechanics of the regime, not a generic HR policy template."
+  ],
+  "incTitle": "What's Included",
+  "source": "Product listing text, pdfblueprints.store (Shopify), migrated 24 Sep 2026",
+  "author": {
+   "heading": "Edward Omoba writes to make the law make sense.",
+   "bio": "A qualified solicitor in the UK, Edward stepped back from active legal practice to devote his time to a different kind of work: helping ordinary people understand the legal and regulatory issues that affect their everyday lives.",
+   "note": "Edward’s books are written for general informational and educational purposes only. Nothing in them should be taken as legal advice, and readers facing a specific legal issue should consult a qualified professional."
+  }
+ },
+ "the-complete-menopause-at-work-blueprint": {
+  "learn": [
+   "Your legal rights under the Equality Act 2010, explained in plain English",
+   "Eight real, named UK tribunal cases and what they actually decided",
+   "How to request workplace adjustments — and what to do if you're refused",
+   "Ready-to-use scripts for talking to your manager and HR",
+   "A step-by-step guide to grievances, ACAS conciliation, and employment tribunals",
+   "The financial picture: pensions, HRT costs, and reduced-hours decisions",
+   "A 7-day, 30-day, and 90-day action plan",
+   "Fillable worksheets, trackers, and a full resource directory"
+  ],
+  "inc": [
+   "Premium Digital PDF",
+   "8 Named UK Tribunal Cases",
+   "Ready-to-Use Manager & HR Scripts",
+   "Grievance & ACAS Step-by-Step Guide",
+   "7-Day, 30-Day & 90-Day Action Plan",
+   "Fillable Worksheets & Trackers",
+   "This isn't a generic wellness guide. It's a legal and practical toolkit built specifically for the UK employee navigating menopause at work in 2026 and beyond — covering the exact law as it stands today, and exactly how it's about to change."
+  ],
+  "incTitle": "What's Included",
+  "source": "Product listing text, pdfblueprints.store (Shopify), migrated 24 Sep 2026",
+  "author": {
+   "heading": "Edward Omoba writes to make the law make sense.",
+   "bio": "A qualified solicitor in the UK, Edward stepped back from active legal practice to devote his time to a different kind of work: helping ordinary people understand the legal and regulatory issues that affect their everyday lives.",
+   "note": "Edward’s books are written for general informational and educational purposes only. Nothing in them should be taken as legal advice, and readers facing a specific legal issue should consult a qualified professional."
+  }
+ },
+ "the-making-tax-digital-survival-blueprint": {
+  "who": [
+   "Self-employed sole traders approaching the £50,000, £30,000 or £20,000 thresholds",
+   "UK landlords with rental income above the MTD thresholds",
+   "Side hustlers with PAYE employment plus self-employment income",
+   "Anyone who wants to understand MTD before their accountant does",
+   "Small business owners managing their own tax affairs"
+  ],
+  "learn": [
+   "Whether MTD Applies to You — Understand the income thresholds, phase dates, and exemptions — and use the decision trees to confirm your exact position quickly.",
+   "How Quarterly Reporting Works — Learn what a quarterly update actually contains, when it's due, and what happens if you miss a deadline — including how the new penalty points system works.",
+   "Choosing and Setting Up Your Software — Compare HMRC-recognised MTD software options and follow step-by-step setup guidance to get your digital records in order before your first submission.",
+   "Digital Record-Keeping Done Right — Understand what counts as a digital record, what you must capture for each transaction, and how to organise your records to make quarterly submissions straightforward.",
+   "Quarterly Submissions Step by Step — Follow a clear walkthrough of each quarterly update — what to include, how to submit, and how to correct errors.",
+   "The End-of-Year Final Declaration — Understand how the annual final declaration works, how it differs from your quarterly updates, and what adjustments you can make at year end.",
+   "Mixed Income and PAYE Situations — Get specific guidance for sole traders with rental income, landlords with employment income, and anyone with multiple income sources under MTD."
+  ],
+  "inc": [
+   "Premium Digital PDF",
+   "5 Decision Trees — find your exact MTD position fast",
+   "Quarterly Submission Checklists",
+   "Software Comparison Guide",
+   "Digital Record-Keeping Templates",
+   "Compliance Dashboard",
+   "Worked Examples Throughout",
+   "Penalty Points Explainer"
+  ],
+  "highlights": [
+   "Every threshold and deadline explained with worked examples",
+   "Covers sole traders, landlords, and side hustlers — including mixed income and PAYE-plus-side-income",
+   "Step-by-step software setup and digital record-keeping guide",
+   "5 decision trees to identify your exact situation fast",
+   "Full workbook: checklists, calculators, and a compliance dashboard",
+   "Covers all three MTD phases: April 2026 (£50k), 2027 (£30k), 2028 (£20k)",
+   "Premium Digital PDF",
+   "5 Decision Trees — find your exact MTD position fast",
+   "Quarterly Submission Checklists",
+   "Software Comparison Guide",
+   "Digital Record-Keeping Templates",
+   "Compliance Dashboard",
+   "Worked Examples Throughout",
+   "Penalty Points Explainer"
+  ],
+  "incTitle": "What's Included",
+  "source": "Product listing text, pdfblueprints.store (Shopify), migrated 24 Sep 2026",
+  "author": {
+   "heading": "Edward Omoba writes to make the law make sense.",
+   "bio": "A qualified solicitor in the UK, Edward stepped back from active legal practice to devote his time to a different kind of work: helping ordinary people understand the legal and regulatory issues that affect their everyday lives.",
+   "note": "Edward’s books are written for general informational and educational purposes only. Nothing in them should be taken as legal advice, and readers facing a specific legal issue should consult a qualified professional."
+  }
+ },
+ "the-complete-making-friends-as-an-adult-blueprint": {
+  "who": [
+   "Special strategies are included for:",
+   "Introverts and socially anxious adults",
+   "Remote workers and people who work from home",
+   "Parents, carers and shift workers",
+   "People starting again in a new city",
+   "Adults in their 30s, 40s, 50s and 60s",
+   "People on limited budgets and non-drinkers",
+   "Men who find adult friendship particularly difficult",
+   "This isn't a guide about becoming more popular. It's a practical Blueprint for creating more opportunities, more conversations, more plans and more genuine connection.",
+   "Stop searching for friends. Start building a social life."
+  ],
+  "learn": [
+   "50+ realistic ways to meet people as an adult",
+   "The Friendship Portfolio — identify which kinds of connection are missing from your life",
+   "The Personal Social Infrastructure Map — create places and routines where you repeatedly encounter potential friends",
+   "The Familiar Stranger Challenge — turn everyday faces into low-pressure social connection",
+   "The Friendship Funnel and Social Life Ladder — understand how relationships progress from stranger to acquaintance to genuine friend",
+   "50 natural conversation starters",
+   "Invitation and follow-up scripts you can use immediately",
+   "The Friendship Budget — build an active social life without spending a fortune",
+   "The Age-Range Reset — widen friendship opportunities across generations",
+   "The 30-Day Friendship Experiment — test new social environments without making every outing a pass-or-fail event",
+   "The 90-Day Friendship Builder — a week-by-week system for putting everything into action"
+  ],
+  "source": "Product listing text, pdfblueprints.store (Shopify), migrated 24 Sep 2026"
+ },
+ "uk-redundancy-settlement-agreement-survival-blueprint": {
+  "learn": [
+   "Understand whether you are facing a genuine redundancy situation",
+   "Prepare for an \"at risk\" meeting and consultation",
+   "Understand individual and collective redundancy consultation rights",
+   "Assess selection pools, criteria and scoring — and challenge unfair selection",
+   "Explore redeployment and suitable alternative employment options",
+   "Calculate statutory redundancy pay and identify other money you may be owed",
+   "Understand notice pay, PILON, garden leave and final pay",
+   "Use your rights to look for work or arrange training during notice",
+   "Understand the risks of leaving early and the counter-notice process",
+   "Know what a settlement agreement actually requires you to give up",
+   "Review key settlement agreement clauses before signing",
+   "Understand protected conversations, \"without prejudice\" and \"subject to contract\"",
+   "Evaluate the real financial value of an exit package",
+   "Build and present a structured settlement counterproposal",
+   "Understand the tax treatment of redundancy and settlement payments",
+   "Consider pensions, benefits, bonuses and equity in your exit package",
+   "Recognise TUPE, protected groups, sponsored workers and employer insolvency situations",
+   "Understand redundancy appeals, grievances, Acas Early Conciliation and tribunal claims",
+   "Build an emergency financial plan",
+   "Reposition yourself for your next career opportunity",
+   "Follow a structured 90-day redundancy recovery programme"
+  ],
+  "inc": [
+   "Checklists, worksheets, question banks, calculation tools, negotiation aids, a redundancy appeal letter builder, a protected-conversation record, a TUPE checklist and a weekly recovery scorecard."
+  ],
+  "incTitle": "32 Practical Tools Included",
+  "source": "Product listing text, pdfblueprints.store (Shopify), migrated 24 Sep 2026",
+  "author": {
+   "heading": "Edward Omoba writes to make the law make sense.",
+   "bio": "A qualified solicitor in the UK, Edward stepped back from active legal practice to devote his time to a different kind of work: helping ordinary people understand the legal and regulatory issues that affect their everyday lives.",
+   "note": "Edward’s books are written for general informational and educational purposes only. Nothing in them should be taken as legal advice, and readers facing a specific legal issue should consult a qualified professional."
+  }
+ },
+ "nigerian-pidgin-english-the-afrobeats-guide": {
+  "learn": [
+   "How Nigerian Pidgin works — and why it isn't simply \"broken English\"",
+   "Essential words: dey, don, go, fit, na, una, dem and more",
+   "How pronunciation, tone and emphasis affect meaning",
+   "Love, heartbreak, money, hustle, nightlife and street vocabulary",
+   "Modern expressions: japa, sapa, wahala, cruise and more",
+   "How Nigerian artists move between Pidgin, English and Nigerian languages",
+   "Why literal translations often miss the real meaning",
+   "The Afrobeats Phrase Decoder Method",
+   "50 original Afrobeats-style lines, broken down and decoded",
+   "A Pidgin-to-English A–Z Decoder",
+   "An English-to-Pidgin Quick Finder",
+   "An Afrobeats & Street Slang Quick Reference",
+   "Listening challenges and practical exercises",
+   "A 30-Day Afrobeats Pidgin Listening Plan",
+   "A comprehensive 300+ documented-form recognition index",
+   "Who Is This For?",
+   "Whether you're an Afrobeats fan, a traveller, a member of the African diaspora, a language enthusiast, or simply curious about Nigerian culture and music — this guide gives you a structured way into the language behind the sound.",
+   "You don't need to speak Nigerian Pidgin already. You don't need to imitate a Nigerian accent. The objective is much simpler: hear more, recognise more and understand more."
+  ],
+  "highlights": [
+   "45+ pages | Pidgin A–Z Decoder | 30-Day Listening Plan | Instant PDF",
+   "No prior knowledge needed — built for complete beginners"
+  ],
+  "source": "Product listing text, pdfblueprints.store (Shopify), migrated 24 Sep 2026"
+ },
+ "the-complete-modern-birding-for-beginners-blueprint": {
+  "learn": [
+   "Start birding with little or no equipment",
+   "Choose and use your first binoculars",
+   "Turn your phone into a practical birding toolkit",
+   "Use Merlin Bird ID and eBird intelligently",
+   "Find birds by habitat, season, weather and time of day",
+   "Identify birds using size, shape, behaviour, habitat, sound and pattern",
+   "Start recognising birds by ear",
+   "Build your personal First 25 Birds list",
+   "Take useful bird photographs with your phone",
+   "Record sightings and build meaningful birding lists",
+   "Find local hotspots, walks, groups and birding communities",
+   "Bird responsibly around nests, rare species and sensitive locations",
+   "Complete a 30-Day Modern Birding Challenge",
+   "Follow a practical 90-day plan to keep progressing",
+   "Troubleshoot common beginner frustrations"
+  ],
+  "inc": [
+   "Worksheets, trackers, checklists and quick-reference guides designed to turn reading into real-world birding."
+  ],
+  "incTitle": "Practical Tools Included",
+  "source": "Product listing text, pdfblueprints.store (Shopify), migrated 24 Sep 2026"
+ },
+ "the-complete-companies-house-identity-verification-compliance-blueprint-premium-edition": {
+  "who": [
+   "UK limited company directors",
+   "People with Significant Control (PSCs)",
+   "Directors who are also PSCs",
+   "Those with directorships across multiple companies",
+   "Family and owner-managed company owners",
+   "Those forming a new UK company",
+   "Overseas directors with roles in UK companies",
+   "Accountants and company administrators managing compliance for clients",
+   "Identity verification only needs to be completed once, but your personal code may need to be linked to multiple appointments and roles. Directors and PSCs can also have different compliance actions and deadlines.",
+   "Don't wait until a confirmation statement or verification deadline exposes something you've missed.",
+   "Use the Blueprint to identify your responsibilities, organise your information, complete the required steps and maintain a documented compliance process."
+  ],
+  "learn": [
+   "Who must complete Companies House identity verification",
+   "How to determine your individual compliance deadline",
+   "How director and PSC verification requirements differ",
+   "What to do if you are both a director and a PSC",
+   "How to verify using GOV.UK One Login",
+   "When an Authorised Corporate Service Provider (ACSP) may be appropriate",
+   "How your 11-character Companies House personal code works",
+   "How to manage verification across multiple companies",
+   "What new directors and newly incorporated companies need to know",
+   "Requirements affecting overseas directors and international company owners",
+   "How to troubleshoot common verification problems",
+   "What can happen if verification requirements are ignored",
+   "How to recognise scams targeting company directors",
+   "How accountants and company administrators can manage verification across multiple clients",
+   "How to build a simple ongoing Companies House compliance process"
+  ],
+  "inc": [
+   "Identity Verification Quick-Start Checklist",
+   "Who Must Verify? Decision Tree",
+   "Director & PSC Deadline Worksheets",
+   "Pre-Verification Document Checklist",
+   "Companies House Record Audit",
+   "Director Verification Register",
+   "PSC Compliance Tracker",
+   "Multi-Company Compliance Dashboard",
+   "Troubleshooting Decision Tree",
+   "Overseas Director Checklist",
+   "Annual Compliance Calendar",
+   "Regulatory Change Log",
+   "Final Compliance Sign-Off Checklist",
+   "Ready-to-use director, PSC and accountant communication templates"
+  ],
+  "incTitle": "14 Compliance Tools Included",
+  "source": "Product listing text, pdfblueprints.store (Shopify), migrated 24 Sep 2026",
+  "author": {
+   "heading": "Edward Omoba writes to make the law make sense.",
+   "bio": "A qualified solicitor in the UK, Edward stepped back from active legal practice to devote his time to a different kind of work: helping ordinary people understand the legal and regulatory issues that affect their everyday lives.",
+   "note": "Edward’s books are written for general informational and educational purposes only. Nothing in them should be taken as legal advice, and readers facing a specific legal issue should consult a qualified professional."
+  }
+ },
+ "the-complete-over-50-job-loss-career-reinvention-blueprint-us-edition": {
+  "learn": [
+   "The First 72 Hours — exactly what to do (and not do) the day you lose your job",
+   "Your Financial Survival Plan — COBRA vs. Marketplace vs. spousal coverage, 401(k) decisions, and the Rule of 55 explained in plain English",
+   "The Four Paths After 50 — full-time employment, consulting, self-employment, or a portfolio career — mapped out so you can choose deliberately, not by default",
+   "Beating Age Bias — your rights under the ADEA and OWBPA, how to recognize discrimination, and how to answer the questions employers won't ask directly but are definitely thinking",
+   "The Resume & LinkedIn De-Aging Playbook — modernize your positioning without hiding your experience",
+   "The AI-Changed Job Market — what AI actually means for experienced workers, and how to use it to get hired faster instead of feeling threatened by it",
+   "A Full Toolkit — 24 worksheets and calculators (financial runway, COBRA comparison, salary negotiation, consulting rate calculator) and 14 ready-to-use scripts for the exact conversations you're dreading",
+   "This isn't a motivational pep talk.",
+   "It's a practical, decision-by-decision manual — the kind of guidance you'd expect to pay a career coach hundreds of dollars for, built specifically around what it means to be job-searching in America after 50, right now, in today's market.",
+   "Instant digital download. PDF, formatted for print or screen reading."
+  ],
+  "source": "Product listing text, pdfblueprints.store (Shopify), migrated 24 Sep 2026"
+ },
+ "the-ai-career-survival-and-pivot-blueprint": {
+  "learn": [
+   "Part I: Understand Your AI Exposure — What AI can actually do to your job today, which careers are most exposed, and a personal, task-level self-assessment to score your own real risk — not your industry's average.",
+   "Part II: Recognise the Warning Signs — The early, often-quiet signals that AI is already changing your workplace, and how to build an emergency career plan before you need one.",
+   "Part III: Make Yourself Harder to Replace — How to become AI-augmented instead of AI-competed, which human skills are becoming more valuable, and how to build your own Career Moat — a durable combination of advantages that makes you specifically difficult to replace.",
+   "Part IV: Decide Whether to Stay, Adapt or Pivot — A structured decision framework covering seven realistic options, your transferable skills inventory, and how to shortlist and compare genuine pivot paths.",
+   "Part V: Retrain Without Wasting Money — How to identify your actual skills gap, compare learning routes on real cost and time, and build proof — not just qualifications — that convinces employers.",
+   "Parts VI & VII: Reposition Yourself and Get the Next Job — How to reframe your experience for a new direction, update your CV and LinkedIn, and navigate the AI-era hiring process."
+  ],
+  "highlights": [
+   "A real self-assessment framework — not a generic “is my job safe” list",
+   "The Career Moat framework for becoming genuinely harder to replace",
+   "A structured decision framework for stay vs. adapt vs. pivot — seven realistic options",
+   "20-item toolkit, 14 ready-to-use scripts, and 12 tool-agnostic AI prompts",
+   "A dedicated chapter for career pivots at 40, 50, and 60+",
+   "Grounded in real research — WEF, Stanford, Anthropic Economic Index, Challenger Gray & Christmas"
+  ],
+  "source": "Product listing text, pdfblueprints.store (Shopify), migrated 24 Sep 2026"
+ },
+ "the-complete-layoff-severance-survival-blueprint": {
+  "who": [
+   "Anyone who has just been laid off or made redundant",
+   "Employees who can see the warning signs and want to prepare",
+   "Executives with equity-heavy or change-of-control severance packages",
+   "International and visa-tied employees navigating a cross-border situation",
+   "Anyone who wants a structured plan rather than scattered advice"
+  ],
+  "learn": [
+   "Part I: Understanding Layoffs — Why layoffs actually happen, your legal rights beforehand (including the US WARN Act and UK collective consultation rules), and the warning signs worth watching for.",
+   "Part II: The Layoff Meeting — What typically happens in the room, exactly what to say (and not say), and a full breakdown of every document you'll be asked to sign — severance agreement, waiver of claims, NDA, non-compete, and more.",
+   "Part III: Negotiating Your Exit — What severance actually includes, what's negotiable, the psychology and tactics that work, ready-to-use negotiation scripts, the mistakes that cost thousands, and a full FAQ chapter.",
+   "Part IV: Your Financial Survival Plan — A day-by-day plan for your first 30 days, how severance is actually taxed in different countries, and how to navigate healthcare and benefits continuation — including COBRA in the US.",
+   "Part V: Finding Your Next Opportunity — Recovering professionally, rebuilding your CV and LinkedIn profile, answering the interview questions every laid-off candidate faces, and alternative income options to bridge the gap.",
+   "Part VI: Special Situations — Executive severance and golden parachutes, international and visa-tied employment, and a full chapter on AI — which jobs are most at risk, which are growing, and how to use AI tools in your own job search.",
+   "Why This Guide Is Different — Most severance advice online is generic, US-only, and light on anything you can actually act on in the moment. This guide is built to be used, not just read: every chapter ends with an action checklist, key decisions are mapped out as decision trees, and multi-step processes are laid out as clear flowcharts. Coverage is genuinely global, with dedicated comparison tables for the US, UK, Canada, and Australia throughout."
+  ],
+  "highlights": [
+   "A complete, structured system covering before, during, and after a layoff",
+   "22 chapters across 6 parts — from warning signs to your next opportunity",
+   "Real negotiation scripts and email templates you can copy, edit, and send",
+   "15 global comparison tables covering the US, UK, Canada, and Australia",
+   "12 flowcharts and 10 decision trees to guide you through key moments",
+   "7 fillable worksheets, from a financial runway calculator to a 90-day career plan",
+   "A dedicated chapter on AI and the future of work"
+  ],
+  "source": "Product listing text, pdfblueprints.store (Shopify), migrated 24 Sep 2026"
+ },
+ "the-complete-salary-negotiation-blueprint": {
+  "who": [
+   "Anyone evaluating a new job offer",
+   "Employees preparing to ask for a raise",
+   "First-time negotiators who don't know where to start",
+   "Managers and professionals negotiating international or remote roles",
+   "Anyone who has ever accepted the first number offered"
+  ],
+  "learn": [
+   "Why Negotiation Matters — Understand the true cost of not negotiating, the statistical evidence that it pays off, and the common myths that stop people from asking in the first place.",
+   "Preparation — Learn where to find reliable market salary data, how to build a defensible number, and how to time the conversation for maximum impact.",
+   "The New Job Offer Negotiation — Handle the “salary expectation” question, counter a lowball offer, negotiate beyond base salary, and manage multiple competing offers with a real-world worked example.",
+   "The Raise Conversation — Build a compelling case with your manager, use ready-made scripts for the actual conversation, and know exactly what to do if the answer is “no.”",
+   "Tactics & Psychology — Learn anchoring, calibrated questions, labeling and mirroring, how to handle objections, and why silence is one of the most powerful tools in any negotiation.",
+   "Common Mistakes to Avoid — Learn the mistakes that quietly derail negotiations — including the one that can permanently damage trust — and how to avoid every one of them.",
+   "Templates & Scripts — Ready-to-use email templates for countering an offer, requesting a raise review, and following up after a verbal agreement, plus a full Negotiation Prep Worksheet.",
+   "Bonus: International Nuance — A country-by-country orientation on how negotiation norms and expectations shift across the US, UK, Europe, Asia, the Middle East, and beyond.",
+   "Why This Guide Is Different — Most negotiation advice online is either vague motivational talk or generic scripts that don't hold up in a real conversation. This guide pairs the psychology of why a tactic works with the exact words to use, plus a real-world example showing it play out. It's built to be used, not just read — with action checklists at the end of every chapter and a prep worksheet you'll return to before every future negotiation."
+  ],
+  "highlights": [
+   "A complete step-by-step system for new offers and raise conversations",
+   "Real scripts and email templates you can copy, edit, and send",
+   "The psychology and tactics professional negotiators actually use",
+   "A Negotiation Prep Worksheet to fill in before every conversation",
+   "International nuance — how negotiation norms shift by country and culture"
+  ],
+  "source": "Product listing text, pdfblueprints.store (Shopify), migrated 24 Sep 2026"
+ },
+ "the-complete-fraud-scam-prevention-blueprint-premium-edition": {
+  "who": [
+   "Individuals and families",
+   "Older adults and their caregivers",
+   "Small business owners",
+   "Online shoppers and digital banking users",
+   "Anyone who wants a practical, no-jargon fraud-prevention reference"
+  ],
+  "learn": [
+   "How Modern Fraud Actually Works — Understand the psychological tactics scammers rely on and the platforms and channels they most commonly exploit — so you can spot the approach before you're drawn in.",
+   "Recognise the Red Flags — Learn the warning signs that appear across almost every scam type, regardless of how the approach is dressed up.",
+   "Protect Your Information and Accounts — Understand the everyday habits — from passwords to data-sharing — that keep your personal information out of scammers' hands and your accounts locked down.",
+   "Verify Before You Trust — Use simple verification habits to check whether a person, company, offer, or message is legitimate before you act, click, or pay.",
+   "Common Scam Types Explained — Get clear breakdowns of phishing, impersonation, romance scams, investment fraud, identity theft and more — including the AI-driven variants emerging in 2026.",
+   "Report and Recover — Follow country-specific guidance for reporting fraud to the right authorities and taking the right recovery steps immediately after an incident.",
+   "Protect Your Family — Understand the specific risks facing children, older relatives, and other vulnerable family members — and how to help protect them."
+  ],
+  "inc": [
+   "Premium Digital PDF — 148 pages",
+   "Fraud Recognition Checklists",
+   "Account Security Worksheets",
+   "Scam Type Breakdown Guides",
+   "Country-Specific Reporting Guides (US, UK, Canada, Australia, EU)",
+   "Identity Theft Response Protocol",
+   "Family Protection Planning Pages"
+  ],
+  "highlights": [
+   "148 pages | practical checklists and worksheets throughout",
+   "Covers the full range of modern scams — online, phone, in-person and AI-driven",
+   "Global coverage: US, UK, Canada, Australia and the EU",
+   "Step-by-step reporting and recovery guidance by country",
+   "Specific guidance for protecting older relatives and children",
+   "One repeatable framework: Recognise, Protect, Verify, Report & Recover",
+   "Premium Digital PDF — 148 pages",
+   "Fraud Recognition Checklists",
+   "Account Security Worksheets",
+   "Scam Type Breakdown Guides",
+   "Country-Specific Reporting Guides (US, UK, Canada, Australia, EU)",
+   "Identity Theft Response Protocol",
+   "Family Protection Planning Pages"
+  ],
+  "incTitle": "What's Included",
+  "source": "Product listing text, pdfblueprints.store (Shopify), migrated 24 Sep 2026"
+ },
+ "crypto-tax-reporting-compliance-guide": {
+  "who": [
+   "Crypto traders and long-term holders",
+   "DeFi and yield farming participants",
+   "NFT collectors and creators",
+   "Freelancers and businesses paid in crypto",
+   "Digital nomads with crypto holdings across borders",
+   "Anyone who received a confusing 1099-DA or exchange tax form",
+   "Anyone filing crypto taxes for the first time"
+  ],
+  "learn": [
+   "How Crypto Is Taxed — Understand the property/asset principle that underpins crypto tax in nearly every country, and the two-bucket rule that determines whether a transaction is a capital gain or ordinary income.",
+   "Every Taxable Event, Asset by Asset — Understand exactly how trading, staking, mining, airdrops, hard forks, stablecoins, DeFi, gaming assets and NFTs are each taxed — including the grey areas most guides skip.",
+   "Record-Keeping and Cost Basis — Learn which cost-basis method your jurisdiction requires and how the 2025 shift to per-wallet tracking changes what good records look like.",
+   "The New Global Reporting Regime — Get a clear breakdown of CARF, DAC8 and Form 1099-DA — the frameworks now giving tax authorities direct visibility into exchange data — and what it means for your compliance strategy.",
+   "Country Compliance Quick-Reference — Compare rates, exemptions, forms and deadlines across the US, UK, Germany, France, Canada, Australia, Portugal and the Netherlands.",
+   "Staying Out of Trouble — Learn the most common DIY reporting mistakes, the factors that actually trigger an audit, and exactly what documentation to keep — and for how long.",
+   "Year-Round Tax Strategy — Build a quarterly review habit, understand tax-efficient withdrawal strategies, and get guidance on DAO income and crypto estate planning."
+  ],
+  "inc": [
+   "Premium Digital PDF — 42 pages",
+   "8 Country Compliance Chapters",
+   "11 Practical Fillable Worksheets",
+   "Global Reporting Timeline (CARF/DAC8/1099-DA)",
+   "Cost Basis Tracker and DeFi Transaction Log",
+   "Audit Response Protocol Checklist",
+   "DIY vs Hire-a-Professional Decision Matrix",
+   "Year-End Tax Calculation Dashboard"
+  ],
+  "highlights": [
+   "42 pages | 11 fillable worksheets and trackers",
+   "Covers US, UK, Germany, France, Canada, Australia and more",
+   "Every taxable event explained: trading, staking, DeFi, NFTs, airdrops",
+   "CARF, DAC8 and Form 1099-DA — the new global reporting rules decoded",
+   "Cost basis methods by country: FIFO, Section 104, ACB and more",
+   "Audit response protocol and year-end tax dashboard included",
+   "Premium Digital PDF — 42 pages",
+   "8 Country Compliance Chapters",
+   "11 Practical Fillable Worksheets",
+   "Global Reporting Timeline (CARF/DAC8/1099-DA)",
+   "Cost Basis Tracker and DeFi Transaction Log",
+   "Audit Response Protocol Checklist",
+   "DIY vs Hire-a-Professional Decision Matrix",
+   "Year-End Tax Calculation Dashboard"
+  ],
+  "incTitle": "What's Included",
+  "source": "Product listing text, pdfblueprints.store (Shopify), migrated 24 Sep 2026"
+ },
+ "wills-and-power-of-attorney-guide": {
+  "who": [
+   "Adults of any age who don't yet have a will",
+   "Parents and homeowners",
+   "Business owners",
+   "Married or unmarried couples",
+   "People planning for retirement",
+   "Anyone who wants to protect their family and assets"
+  ],
+  "learn": [
+   "Wills Made Simple — Understand what a will is, why it matters, and what can happen if you die without one — including how the intestacy rules may distribute your estate in ways you wouldn't choose.",
+   "How to Structure Your Will — Learn exactly what information to include, how to appoint an executor, and how to make your wishes legally clear.",
+   "Powers of Attorney Explained — Understand the differences between financial, property, health and welfare powers of attorney — and why setting them up before you need them is critical.",
+   "UK Lasting Powers of Attorney — Understand how LPAs work, when they should be created, and the registration process with the Office of the Public Guardian.",
+   "US Powers of Attorney and Healthcare Directives — Learn how durable powers of attorney, healthcare proxies and living wills work across US states.",
+   "Estate Planning Essentials — Reduce unnecessary complications and help your beneficiaries manage your estate more effectively — including inheritance tax considerations for UK readers.",
+   "Guardianship Planning — Learn how to appoint guardians for children and protect those who depend on you.",
+   "Digital Estate Planning — Plan for online banking, email accounts, social media, password management, cloud storage, digital subscriptions, and cryptocurrency assets.",
+   "Avoid Expensive Mistakes — Discover the common errors that can invalidate wills or create costly legal problems for your family."
+  ],
+  "inc": [
+   "Premium Digital PDF — 50+ pages",
+   "35+ Practical Worksheets",
+   "10+ Comparison Tables",
+   "Estate Planning Templates",
+   "Asset Inventory Worksheets",
+   "Beneficiary Planning Pages",
+   "Will Planning Checklist",
+   "Power of Attorney Decision Guide",
+   "UK & USA Guidance"
+  ],
+  "highlights": [
+   "50+ pages | 35+ worksheets | 10+ comparison tables",
+   "Covers both UK and USA estate planning",
+   "Wills, Lasting Powers of Attorney (UK) and US equivalents explained",
+   "Guardianship planning for children included",
+   "Digital estate planning — online accounts, crypto and subscriptions",
+   "Asset inventory worksheets and beneficiary planning pages",
+   "Premium Digital PDF — 50+ pages",
+   "35+ Practical Worksheets",
+   "10+ Comparison Tables",
+   "Estate Planning Templates",
+   "Asset Inventory Worksheets",
+   "Beneficiary Planning Pages",
+   "Will Planning Checklist",
+   "Power of Attorney Decision Guide",
+   "UK & USA Guidance"
+  ],
+  "incTitle": "What's Included",
+  "source": "Product listing text, pdfblueprints.store (Shopify), migrated 24 Sep 2026"
+ },
+ "first-time-home-buyers-workbook": {
+  "highlights": [
+   "60–80+ pages | 40+ worksheets | 20+ comparison tables",
+   "Covers UK and USA home buying processes",
+   "Mortgage basics: fixed vs variable, affordability, and deposit strategies",
+   "Property viewing checklists and red flag identifier",
+   "Negotiation templates and counter-offer strategies",
+   "90-day home buying roadmap — week by week"
+  ],
+  "source": "Product listing text, pdfblueprints.store (Shopify), migrated 24 Sep 2026"
+ },
+ "uk-first-time-landlord-blueprint": {
+  "highlights": [
+   "20 chapters | 7 worksheets | 15 templates | 90-day action plan",
+   "Covers England landlord legal obligations and the Renters' Rights Act 2025",
+   "Buy-to-let mortgages, ICR stress tests, and stamp duty planning",
+   "Section 24 tax changes, HMRC record keeping, and profit modelling",
+   "Tenant screening, tenancy management, and ending tenancies legally"
+  ],
+  "source": "Product listing text, pdfblueprints.store (Shopify), migrated 24 Sep 2026",
+  "author": {
+   "heading": "Edward Omoba writes to make the law make sense.",
+   "bio": "A qualified solicitor in the UK, Edward stepped back from active legal practice to devote his time to a different kind of work: helping ordinary people understand the legal and regulatory issues that affect their everyday lives.",
+   "note": "Edward’s books are written for general informational and educational purposes only. Nothing in them should be taken as legal advice, and readers facing a specific legal issue should consult a qualified professional."
+  }
+ },
+ "us-first-time-landlord-blueprint": {
+  "highlights": [
+   "20 chapters | 7 worksheets | 15 templates | 90-day action plan",
+   "Federal, state, and local landlord-tenant law explained",
+   "Conventional vs DSCR financing, DTI ratios, and down payment strategies",
+   "Schedule E tax rules, 27.5-year depreciation, and record keeping",
+   "LLC structures, landlord insurance, and risk management",
+   "Fair Housing-compliant tenant screening and legal eviction procedures"
+  ],
+  "source": "Product listing text, pdfblueprints.store (Shopify), migrated 24 Sep 2026"
+ },
+ "usa-llc-formation-guide": {
+  "who": [
+   "First-time entrepreneurs",
+   "Small business owners",
+   "Freelancers and consultants",
+   "Online business owners and e-commerce sellers",
+   "Side-hustle founders ready to go legit"
+  ],
+  "learn": [
+   "Understanding LLCs — Learn what an LLC is, how it works, and why it is one of the most popular business structures in the United States.",
+   "Choosing the Right State — Compare filing fees, annual reporting requirements, and ongoing obligations across the most popular states for LLC formation — including Delaware, Wyoming, and your home state.",
+   "Step-by-Step Formation Process — Follow a clear roadmap covering every stage of registration — from selecting your business name to receiving your official formation documents.",
+   "Business Names Explained — Understand naming rules, required suffixes, restricted words, and the common reasons business names are rejected.",
+   "Licences and Permits — Learn which licences, permits and registrations may be required depending on your business type and location.",
+   "Essential Business Documents — Understand the purpose of Articles of Organization, Operating Agreements, EIN registration and other key formation documents.",
+   "Tax Structure Options — Learn how LLCs are taxed by default and when electing S-Corp status makes financial sense — explained in plain English.",
+   "Ongoing Compliance — Stay organised with a practical compliance calendar covering annual reports, renewals, tax obligations and record-keeping requirements.",
+   "Avoid Costly Mistakes — Discover the most common formation and compliance errors — and how to avoid unnecessary delays and expenses."
+  ],
+  "inc": [
+   "Premium Digital PDF — 60+ pages",
+   "State Comparison Tables",
+   "Formation Checklist",
+   "Operating Agreement Overview",
+   "EIN Registration Guide",
+   "Compliance Calendar",
+   "Tax Structure Decision Matrix",
+   "Practical Worksheets and Planning Tools"
+  ],
+  "highlights": [
+   "60+ pages | practical worksheets, templates and planning tools",
+   "Covers the most popular states for LLC formation",
+   "Step-by-step formation process — from name to official documents",
+   "Tax structure explained: sole member, multi-member, S-Corp election",
+   "Compliance calendar so you never miss a filing deadline",
+   "Written in plain English — no legal jargon",
+   "Premium Digital PDF — 60+ pages",
+   "State Comparison Tables",
+   "Formation Checklist",
+   "Operating Agreement Overview",
+   "EIN Registration Guide",
+   "Compliance Calendar",
+   "Tax Structure Decision Matrix",
+   "Practical Worksheets and Planning Tools"
+  ],
+  "incTitle": "What's Included",
+  "source": "Product listing text, pdfblueprints.store (Shopify), migrated 24 Sep 2026"
+ },
+ "importing-from-china-to-the-uk-the-complete-step-by-step-blueprint-for-first-time-importers": {
+  "author": {
+   "heading": "Edward Omoba writes to make the law make sense.",
+   "bio": "A qualified solicitor in the UK, Edward stepped back from active legal practice to devote his time to a different kind of work: helping ordinary people understand the legal and regulatory issues that affect their everyday lives.",
+   "note": "Edward’s books are written for general informational and educational purposes only. Nothing in them should be taken as legal advice, and readers facing a specific legal issue should consult a qualified professional."
+  }
+ },
+ "uk-employment-rights-act-2025-compliance-blueprint": {
+  "author": {
+   "heading": "Edward Omoba writes to make the law make sense.",
+   "bio": "A qualified solicitor in the UK, Edward stepped back from active legal practice to devote his time to a different kind of work: helping ordinary people understand the legal and regulatory issues that affect their everyday lives.",
+   "note": "Edward’s books are written for general informational and educational purposes only. Nothing in them should be taken as legal advice, and readers facing a specific legal issue should consult a qualified professional."
+  }
+ },
+ "uk-subscription-cancellation-compliance-blueprint": {
   "author": {
    "heading": "Edward Omoba writes to make the law make sense.",
    "bio": "A qualified solicitor in the UK, Edward stepped back from active legal practice to devote his time to a different kind of work: helping ordinary people understand the legal and regulatory issues that affect their everyday lives.",

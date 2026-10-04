@@ -24,3 +24,5 @@
 .pd-block{padding-top:56px;padding-bottom:24px}.pd-top{display:grid;grid-template-columns:1fr 1.2fr;gap:56px;align-items:start;margin-bottom:40px}.pd-who{font-size:1.1rem;line-height:1.6;margin:0 0 14px}.pd-scope{margin:0;padding:14px 18px;background:var(--wash);border-left:3px solid var(--blue);border-radius:6px;color:var(--muted);line-height:1.5}.pd-cols{display:grid;grid-template-columns:1fr 1fr;gap:48px}.pd-cols h3{margin:0 0 16px}.pd-list{list-style:none;margin:0;padding:0}.pd-list li{padding:10px 0 10px 28px;border-top:1px solid var(--line);position:relative;line-height:1.45}.pd-list li::before{content:"✓";position:absolute;left:0;color:var(--blue);font-weight:700}.pd-tools li::before{content:"▢"}@media(max-width:800px){.pd-top,.pd-cols{grid-template-columns:1fr;gap:28px}}
 
 .pd-author{margin-top:48px;padding:28px 32px;background:var(--wash);border-radius:12px}.pd-author h3{margin:6px 0 12px;font-size:1.35rem}.pd-author p{margin:0 0 12px;line-height:1.6;max-width:760px}.pd-author .eyebrow{margin:0}.pd-author-note{color:var(--muted);font-size:.9rem;margin:0}
+
+.pd-cols.pd-one{grid-template-columns:1fr}.pd-block .pd-author:first-child{margin-top:0}
