@@ -16,3 +16,7 @@
 @media(max-width:580px){.ai-tier-grid{grid-template-columns:1fr}.ai-tier-copy{padding:24px}.ai-guidance,.ai-bundle{padding:24px}.ai-bundle{gap:24px}.ai-offers{padding-top:20px}.ai-tier h3,.ai-bundle h3{font-size:1.55rem}.ai-guidance ul{padding-left:20px}}
 
 @media(min-width:581px){.ai-tier-cover{height:360px;aspect-ratio:auto;padding:16px}}
+
+#cookie-banner{position:fixed;left:16px;right:16px;bottom:16px;z-index:50;max-width:720px;margin:0 auto;display:flex;gap:16px;align-items:center;justify-content:space-between;flex-wrap:wrap;padding:16px 20px;background:#fff;color:var(--ink);border:1px solid var(--line);border-radius:12px;box-shadow:0 8px 30px rgba(20,33,61,.18);font-size:14px;line-height:1.45}#cookie-banner p{margin:0;flex:1 1 280px}#cookie-banner a{color:var(--blue)}#cookie-banner div{display:flex;gap:8px}#cookie-banner button{font:inherit;font-weight:700;padding:10px 18px;border-radius:999px;border:1px solid var(--ink);background:#fff;color:var(--ink);cursor:pointer}#cookie-banner button.accept{background:var(--blue);border-color:var(--blue);color:#fff}.cookie-settings{background:none;border:0;padding:0;font:inherit;color:inherit;text-decoration:underline;cursor:pointer}
+
+.hero h1{font-size:clamp(2.3rem,3.9vw,2.9rem)}
