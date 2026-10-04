@@ -43,7 +43,7 @@
       "existing": []
     }
   ],
-  "next_index": 5,
+  "next_index": 6,
   "log": [
     {
       "date": "2026-09-29",
@@ -79,6 +79,13 @@
       "handle": "the-menopause-equality-action-plan-compliance",
       "slug": "menopause-equality-action-plan-mistakes-uk-employers",
       "angle": "six common mistakes with equality action plans"
+    },
+    {
+      "date": "2026-10-04",
+      "cycle": 1,
+      "handle": "the-complete-menopause-at-work-blueprint",
+      "slug": "menopause-at-work-uk-myths-vs-facts-your-rights",
+      "angle": "seven myths vs facts on menopause and employee rights"
     }
   ]
 }
