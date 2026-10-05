@@ -43,7 +43,7 @@
       "existing": []
     }
   ],
-  "next_index": 6,
+  "next_index": 7,
   "log": [
     {
       "date": "2026-09-29",
@@ -86,6 +86,13 @@
       "handle": "the-complete-menopause-at-work-blueprint",
       "slug": "menopause-at-work-uk-myths-vs-facts-your-rights",
       "angle": "seven myths vs facts on menopause and employee rights"
+    },
+    {
+      "date": "2026-10-05",
+      "cycle": 1,
+      "handle": "the-complete-salary-negotiation-blueprint",
+      "slug": "pay-rise-four-week-preparation-plan",
+      "angle": "four-week timeline for preparing and making a pay rise request"
     }
   ]
 }
