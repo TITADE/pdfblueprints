@@ -70,18 +70,18 @@
     },
     {
       "handle": "ai-compliance-for-small-business-uk-edition",
-      "pageCount": 18,
+      "pageCount": 25,
       "fileCount": 1,
       "samples": [
         {
           "src": "/assets/previews/ai-compliance-for-small-business-uk-edition-1.webp",
-          "label": "Sample page 3",
-          "alt": "AI Compliance for Small Business (UK Edition) — sample PDF page 3"
+          "label": "Sample page 5",
+          "alt": "AI Compliance for Small Business (UK Edition) Version 1.1 — sample PDF page 5"
         },
         {
           "src": "/assets/previews/ai-compliance-for-small-business-uk-edition-2.webp",
-          "label": "Sample page 6",
-          "alt": "AI Compliance for Small Business (UK Edition) — sample PDF page 6"
+          "label": "Sample page 8",
+          "alt": "AI Compliance for Small Business (UK Edition) Version 1.1 — sample PDF page 8"
         }
       ]
     },
