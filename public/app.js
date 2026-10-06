@@ -18,3 +18,6 @@ function close(){var b=document.getElementById('cookie-banner');if(b)b.remove()}
 function show(){if(document.getElementById('cookie-banner'))return;var b=document.createElement('div');b.id='cookie-banner';b.setAttribute('role','dialog');b.setAttribute('aria-label','Cookie consent');b.innerHTML='<p>We use analytics cookies (Google Analytics) to see which guides are useful. They are off unless you accept. <a href="/policies/privacy-policy">Privacy policy</a></p><div><button type="button" data-c="no">Decline</button><button type="button" data-c="yes" class="accept">Accept</button></div>';b.addEventListener('click',function(e){var c=e.target.dataset&&e.target.dataset.c;if(!c)return;set(c);close();if(c==='yes')window.loadGA()});document.body.appendChild(b)}
 if(link){link.hidden=false;link.addEventListener('click',show)}
 if(get()===null)show()})();
+
+// Amazon referrals are clicks, not sales. Record only with current analytics consent.
+document.addEventListener('click',event=>{const link=event.target.closest?.('a[data-amazon-format]');if(!link)return;try{if(localStorage.getItem('pb-consent')!=='yes'||typeof window.gtag!=='function')return;window.gtag('event','amazon_format_click',{product_handle:link.dataset.productHandle,format:link.dataset.amazonFormat,destination_marketplace:'amazon.co.uk',link_url:link.href});}catch{}});

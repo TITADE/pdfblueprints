@@ -1,0 +1,404 @@
+{
+  "uk-subscription-cancellation-compliance-blueprint": {
+    "formats": {
+      "kindle": {
+        "url": "https://www.amazon.co.uk/dp/B0HKPFX98M",
+        "asin": "B0HKPFX98M",
+        "status": "verified",
+        "verifiedAt": "2026-10-06"
+      },
+      "paperback": {
+        "url": "https://www.amazon.co.uk/dp/B0HKQBTGJD",
+        "asin": "B0HKQBTGJD",
+        "status": "verified",
+        "verifiedAt": "2026-10-06"
+      }
+    },
+    "note": "Amazon editions may differ in layout, page count, updates and included extras from this PDF. Check the edition and sample on Amazon before ordering."
+  },
+  "the-complete-uk-right-to-work-checks-blueprint": {
+    "formats": {
+      "kindle": {
+        "url": "https://www.amazon.co.uk/dp/B0HKMWZ5XB",
+        "asin": "B0HKMWZ5XB",
+        "status": "verified",
+        "verifiedAt": "2026-10-06"
+      },
+      "paperback": {
+        "url": "https://www.amazon.co.uk/dp/B0HKNDF8W3",
+        "asin": "B0HKNDF8W3",
+        "status": "verified",
+        "verifiedAt": "2026-10-06"
+      }
+    },
+    "note": "Amazon editions may differ in layout, page count, updates and included extras from this PDF. Check the edition and sample on Amazon before ordering."
+  },
+  "uk-employment-rights-act-2025-compliance-blueprint": {
+    "formats": {
+      "kindle": {
+        "url": "https://www.amazon.co.uk/dp/B0HJYZK45D",
+        "asin": "B0HJYZK45D",
+        "status": "verified",
+        "verifiedAt": "2026-10-06"
+      },
+      "paperback": {
+        "url": "https://www.amazon.co.uk/dp/B0HK5383DG",
+        "asin": "B0HK5383DG",
+        "status": "verified",
+        "verifiedAt": "2026-10-06"
+      }
+    },
+    "note": "Amazon editions may differ in layout, page count, updates and included extras from this PDF. Check the edition and sample on Amazon before ordering."
+  },
+  "importing-from-china-to-the-uk-the-complete-step-by-step-blueprint-for-first-time-importers": {
+    "formats": {
+      "kindle": {
+        "url": "https://www.amazon.co.uk/dp/B0HJY7PZQG",
+        "asin": "B0HJY7PZQG",
+        "status": "verified",
+        "verifiedAt": "2026-10-06"
+      },
+      "paperback": {
+        "url": "https://www.amazon.co.uk/dp/B0HKWVCJ1M",
+        "asin": "B0HKWVCJ1M",
+        "status": "verified",
+        "verifiedAt": "2026-10-06"
+      }
+    },
+    "note": "Amazon editions may differ in layout, page count, updates and included extras from this PDF. Check the edition and sample on Amazon before ordering."
+  },
+  "the-complete-rucking-blueprint": {
+    "formats": {
+      "kindle": {
+        "url": "https://www.amazon.co.uk/dp/B0HHJC5LSN",
+        "asin": "B0HHJC5LSN",
+        "status": "verified",
+        "verifiedAt": "2026-10-06"
+      },
+      "paperback": {
+        "url": "https://www.amazon.co.uk/dp/B0HHM124FK",
+        "asin": "B0HHM124FK",
+        "status": "verified",
+        "verifiedAt": "2026-10-06"
+      }
+    },
+    "note": "Amazon editions may differ in layout, page count, updates and included extras from this PDF. Check the edition and sample on Amazon before ordering."
+  },
+  "ai-compliance-for-small-business-uk-edition": {
+    "formats": {
+      "kindle": {
+        "url": "https://www.amazon.co.uk/dp/B0HH88PNBS",
+        "asin": "B0HH88PNBS",
+        "status": "verified",
+        "verifiedAt": "2026-10-06"
+      },
+      "paperback": {
+        "url": "https://www.amazon.co.uk/dp/B0HH98YKG4",
+        "asin": "B0HH98YKG4",
+        "status": "verified",
+        "verifiedAt": "2026-10-06"
+      }
+    },
+    "note": "Amazon editions may differ in layout, page count, updates and included extras from this PDF. Check the edition and sample on Amazon before ordering."
+  },
+  "ai-compliance-for-small-business-eu-edition": {
+    "formats": {
+      "kindle": {
+        "url": "https://www.amazon.co.uk/dp/B0HH864Q46",
+        "asin": "B0HH864Q46",
+        "status": "verified",
+        "verifiedAt": "2026-10-06"
+      },
+      "paperback": {
+        "url": "https://www.amazon.co.uk/dp/B0HH9CM5VD",
+        "asin": "B0HH9CM5VD",
+        "status": "verified",
+        "verifiedAt": "2026-10-06"
+      }
+    },
+    "note": "Amazon editions may differ in layout, page count, updates and included extras from this PDF. Check the edition and sample on Amazon before ordering."
+  },
+  "ai-compliance-for-small-business": {
+    "formats": {
+      "kindle": {
+        "url": "https://www.amazon.co.uk/dp/B0HH7DHSMC",
+        "asin": "B0HH7DHSMC",
+        "status": "verified",
+        "verifiedAt": "2026-10-06"
+      },
+      "paperback": {
+        "url": "https://www.amazon.co.uk/dp/B0HH7K739P",
+        "asin": "B0HH7K739P",
+        "status": "verified",
+        "verifiedAt": "2026-10-06"
+      }
+    },
+    "note": "Amazon editions may differ in layout, page count, updates and included extras from this PDF. Check the edition and sample on Amazon before ordering."
+  },
+  "digital-nomad-visa-comparison-guide": {
+    "formats": {
+      "kindle": {
+        "url": "https://www.amazon.co.uk/dp/B0HH1FD22C",
+        "asin": "B0HH1FD22C",
+        "status": "verified",
+        "verifiedAt": "2026-10-06"
+      },
+      "paperback": {
+        "url": "https://www.amazon.co.uk/dp/B0HH2189C9",
+        "asin": "B0HH2189C9",
+        "status": "verified",
+        "verifiedAt": "2026-10-06"
+      }
+    },
+    "note": "Amazon editions may differ in layout, page count, updates and included extras from this PDF. Check the edition and sample on Amazon before ordering."
+  },
+  "the-college-dorm-survival-blueprint-2026": {
+    "formats": {
+      "kindle": {
+        "url": "https://www.amazon.co.uk/dp/B0HGSTVMGC",
+        "asin": "B0HGSTVMGC",
+        "status": "verified",
+        "verifiedAt": "2026-10-06"
+      },
+      "paperback": {
+        "url": "https://www.amazon.co.uk/dp/B0HHD745JP",
+        "asin": "B0HHD745JP",
+        "status": "verified",
+        "verifiedAt": "2026-10-06"
+      }
+    },
+    "note": "Amazon editions may differ in layout, page count, updates and included extras from this PDF. Check the edition and sample on Amazon before ordering."
+  },
+  "the-making-tax-digital-survival-blueprint": {
+    "formats": {
+      "kindle": {
+        "url": "https://www.amazon.co.uk/dp/B0HFYR4B3F",
+        "asin": "B0HFYR4B3F",
+        "status": "verified",
+        "verifiedAt": "2026-10-06"
+      },
+      "paperback": {
+        "url": "https://www.amazon.co.uk/dp/B0HG1STCTM",
+        "asin": "B0HG1STCTM",
+        "status": "verified",
+        "verifiedAt": "2026-10-06"
+      }
+    },
+    "note": "Amazon editions may differ in layout, page count, updates and included extras from this PDF. Check the edition and sample on Amazon before ordering."
+  },
+  "the-complete-making-friends-as-an-adult-blueprint": {
+    "formats": {
+      "kindle": {
+        "url": "https://www.amazon.co.uk/dp/B0HFTKP17G",
+        "asin": "B0HFTKP17G",
+        "status": "verified",
+        "verifiedAt": "2026-10-06"
+      },
+      "paperback": {
+        "url": "https://www.amazon.co.uk/dp/B0HFTG63QG",
+        "asin": "B0HFTG63QG",
+        "status": "verified",
+        "verifiedAt": "2026-10-06"
+      }
+    },
+    "note": "Amazon editions may differ in layout, page count, updates and included extras from this PDF. Check the edition and sample on Amazon before ordering."
+  },
+  "uk-redundancy-settlement-agreement-survival-blueprint": {
+    "formats": {
+      "kindle": {
+        "url": "https://www.amazon.co.uk/dp/B0HFPWN66G",
+        "asin": "B0HFPWN66G",
+        "status": "verified",
+        "verifiedAt": "2026-10-06"
+      }
+    },
+    "note": "Amazon editions may differ in layout, page count, updates and included extras from this PDF. Check the edition and sample on Amazon before ordering."
+  },
+  "nigerian-pidgin-english-the-afrobeats-guide": {
+    "formats": {
+      "kindle": {
+        "url": "https://www.amazon.co.uk/dp/B0HFQ99BZJ",
+        "asin": "B0HFQ99BZJ",
+        "status": "verified",
+        "verifiedAt": "2026-10-06"
+      },
+      "paperback": {
+        "url": "https://www.amazon.co.uk/dp/B0HFVJCVR3",
+        "asin": "B0HFVJCVR3",
+        "status": "verified",
+        "verifiedAt": "2026-10-06"
+      }
+    },
+    "note": "Amazon editions may differ in layout, page count, updates and included extras from this PDF. Check the edition and sample on Amazon before ordering."
+  },
+  "the-complete-modern-birding-for-beginners-blueprint": {
+    "formats": {
+      "kindle": {
+        "url": "https://www.amazon.co.uk/dp/B0HFNZW1VM",
+        "asin": "B0HFNZW1VM",
+        "status": "verified",
+        "verifiedAt": "2026-10-06"
+      },
+      "paperback": {
+        "url": "https://www.amazon.co.uk/dp/B0HFS2KSFW",
+        "asin": "B0HFS2KSFW",
+        "status": "verified",
+        "verifiedAt": "2026-10-06"
+      }
+    },
+    "note": "Amazon editions may differ in layout, page count, updates and included extras from this PDF. Check the edition and sample on Amazon before ordering."
+  },
+  "renters-rights-act-2025-landlord-compliance-blueprint": {
+    "formats": {
+      "kindle": {
+        "url": "https://www.amazon.co.uk/dp/B0HFDX3CVS",
+        "asin": "B0HFDX3CVS",
+        "status": "verified",
+        "verifiedAt": "2026-10-06"
+      },
+      "paperback": {
+        "url": "https://www.amazon.co.uk/dp/B0HFS3J7NP",
+        "asin": "B0HFS3J7NP",
+        "status": "verified",
+        "verifiedAt": "2026-10-06"
+      }
+    },
+    "note": "Amazon editions may differ in layout, page count, updates and included extras from this PDF. Check the edition and sample on Amazon before ordering."
+  },
+  "the-complete-companies-house-identity-verification-compliance-blueprint-premium-edition": {
+    "formats": {
+      "kindle": {
+        "url": "https://www.amazon.co.uk/dp/B0HFD5G64N",
+        "asin": "B0HFD5G64N",
+        "status": "verified",
+        "verifiedAt": "2026-10-06"
+      },
+      "paperback": {
+        "url": "https://www.amazon.co.uk/dp/B0HFS1HNJF",
+        "asin": "B0HFS1HNJF",
+        "status": "verified",
+        "verifiedAt": "2026-10-06"
+      }
+    },
+    "note": "Amazon editions may differ in layout, page count, updates and included extras from this PDF. Check the edition and sample on Amazon before ordering."
+  },
+  "the-complete-over-50-job-loss-career-reinvention-blueprint-uk-edition": {
+    "formats": {
+      "kindle": {
+        "url": "https://www.amazon.co.uk/dp/B0HFC9B8HX",
+        "asin": "B0HFC9B8HX",
+        "status": "verified",
+        "verifiedAt": "2026-10-06"
+      },
+      "paperback": {
+        "url": "https://www.amazon.co.uk/dp/B0HFYRJX9L",
+        "asin": "B0HFYRJX9L",
+        "status": "verified",
+        "verifiedAt": "2026-10-06"
+      }
+    },
+    "note": "Amazon editions may differ in layout, page count, updates and included extras from this PDF. Check the edition and sample on Amazon before ordering."
+  },
+  "the-complete-over-50-job-loss-career-reinvention-blueprint-us-edition": {
+    "formats": {
+      "kindle": {
+        "url": "https://www.amazon.co.uk/dp/B0HF76537K",
+        "asin": "B0HF76537K",
+        "status": "verified",
+        "verifiedAt": "2026-10-06"
+      },
+      "paperback": {
+        "url": "https://www.amazon.co.uk/dp/B0HF7R2DZK",
+        "asin": "B0HF7R2DZK",
+        "status": "verified",
+        "verifiedAt": "2026-10-06"
+      }
+    },
+    "note": "Amazon editions may differ in layout, page count, updates and included extras from this PDF. Check the edition and sample on Amazon before ordering."
+  },
+  "the-ai-career-survival-and-pivot-blueprint": {
+    "formats": {
+      "kindle": {
+        "url": "https://www.amazon.co.uk/dp/B0HF9BPZW3",
+        "asin": "B0HF9BPZW3",
+        "status": "verified",
+        "verifiedAt": "2026-10-06"
+      },
+      "paperback": {
+        "url": "https://www.amazon.co.uk/dp/B0HFR3BHC4",
+        "asin": "B0HFR3BHC4",
+        "status": "verified",
+        "verifiedAt": "2026-10-06"
+      }
+    },
+    "note": "Amazon editions may differ in layout, page count, updates and included extras from this PDF. Check the edition and sample on Amazon before ordering."
+  },
+  "the-complete-fraud-scam-prevention-blueprint-premium-edition": {
+    "formats": {
+      "kindle": {
+        "url": "https://www.amazon.co.uk/dp/B0HFC6J72W",
+        "asin": "B0HFC6J72W",
+        "status": "verified",
+        "verifiedAt": "2026-10-06"
+      },
+      "paperback": {
+        "url": "https://www.amazon.co.uk/dp/B0HGFJC7C8",
+        "asin": "B0HGFJC7C8",
+        "status": "verified",
+        "verifiedAt": "2026-10-06"
+      }
+    },
+    "note": "Amazon editions may differ in layout, page count, updates and included extras from this PDF. Check the edition and sample on Amazon before ordering."
+  },
+  "first-time-home-buyers-workbook": {
+    "formats": {
+      "kindle": {
+        "url": "https://www.amazon.co.uk/dp/B0HHHP2R8C",
+        "asin": "B0HHHP2R8C",
+        "status": "verified",
+        "verifiedAt": "2026-10-06"
+      },
+      "paperback": {
+        "url": "https://www.amazon.co.uk/dp/B0HGV9DBN3",
+        "asin": "B0HGV9DBN3",
+        "status": "verified",
+        "verifiedAt": "2026-10-06"
+      }
+    },
+    "note": "Amazon editions may differ in layout, page count, updates and included extras from this PDF. Check the edition and sample on Amazon before ordering."
+  },
+  "usa-llc-formation-guide": {
+    "formats": {
+      "kindle": {
+        "url": "https://www.amazon.co.uk/dp/B0HH1T8DWG",
+        "asin": "B0HH1T8DWG",
+        "status": "verified",
+        "verifiedAt": "2026-10-06"
+      },
+      "paperback": {
+        "url": "https://www.amazon.co.uk/dp/B0HH2BYY2M",
+        "asin": "B0HH2BYY2M",
+        "status": "verified",
+        "verifiedAt": "2026-10-06"
+      }
+    },
+    "note": "Amazon editions may differ in layout, page count, updates and included extras from this PDF. Check the edition and sample on Amazon before ordering."
+  },
+  "muse-by-meta-personal-agent-revolution": {
+    "formats": {
+      "kindle": {
+        "url": "https://www.amazon.co.uk/dp/B0HL5KGMPT",
+        "asin": "B0HL5KGMPT",
+        "status": "verified",
+        "verifiedAt": "2026-10-06"
+      },
+      "paperback": {
+        "url": "https://www.amazon.co.uk/dp/B0HL7WV17C",
+        "asin": "B0HL7WV17C",
+        "status": "verified",
+        "verifiedAt": "2026-10-06"
+      }
+    },
+    "note": "Amazon editions may differ in layout, page count, updates and included extras from this PDF. Check the edition and sample on Amazon before ordering."
+  }
+}
