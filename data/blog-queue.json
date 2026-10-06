@@ -43,7 +43,7 @@
       "existing": []
     }
   ],
-  "next_index": 7,
+  "next_index": 8,
   "log": [
     {
       "date": "2026-09-29",
@@ -93,6 +93,13 @@
       "handle": "the-complete-salary-negotiation-blueprint",
       "slug": "pay-rise-four-week-preparation-plan",
       "angle": "four-week timeline for preparing and making a pay rise request"
+    },
+    {
+      "date": "2026-10-06",
+      "cycle": 1,
+      "handle": "the-complete-fraud-scam-prevention-blueprint-premium-edition",
+      "slug": "what-to-do-first-24-hours-after-a-scam-uk-checklist",
+      "angle": "first-24-hours timeline after a scam: stop loss, lock down, evidence, report, reimbursement"
     }
   ]
 }
