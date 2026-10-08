@@ -204,24 +204,401 @@
           "https://www.gov.uk/government/publications/companies-house-fees/companies-house-fees"
         ]
       ]
-    }
-  ],
-  "planned": [
+    },
     {
       "slug": "business-compliance",
-      "label": "Business Compliance"
+      "navLabel": "Business compliance",
+      "title": "Business compliance guides and practical checklists",
+      "audience": "FOR BUSINESS OWNERS, DIRECTORS AND ADMINISTRATORS",
+      "headline": "Know what needs attention.",
+      "emphasis": "Keep your next steps organised.",
+      "intro": "Start with Companies House identity verification, or browse the full range for employment, AI, tax and subscription responsibilities. Choose the guide that matches your role and jurisdiction.",
+      "featured": "the-complete-companies-house-identity-verification-compliance-blueprint-premium-edition",
+      "pack": "uk-business-formation-pack",
+      "edition": "Premium PDF · regulatory review: 13 August 2026",
+      "pageCount": 61,
+      "scope": "The featured guide covers UK Companies House identity verification. Other guides on this page cover different subjects and jurisdictions; no single guide covers every business responsibility.",
+      "situations": [
+        [
+          "Managing your own company?",
+          "Use the director and PSC sections to organise role-specific checks and questions."
+        ],
+        [
+          "Working across several companies?",
+          "Use the registers and multi-company tools to keep appointments and actions together."
+        ],
+        [
+          "Supporting clients or colleagues?",
+          "Explore the administrator chapters and communication templates before choosing the relevant official route."
+        ]
+      ],
+      "benefits": [
+        [
+          "Identify your responsibilities",
+          "Work through the quick-start questions and director/PSC explanations."
+        ],
+        [
+          "Prepare before you start",
+          "Use the document checklist and company-record audit to gather information."
+        ],
+        [
+          "Keep track of role-specific actions",
+          "Use deadline worksheets, registers and trackers across your company roles."
+        ],
+        [
+          "Maintain a review routine",
+          "Use the annual calendar, change log and official-resource directory."
+        ]
+      ],
+      "contents": [
+        "Director, PSC and multi-company guidance",
+        "Verification routes and personal-code explanations",
+        "Printable checklists, registers and deadline worksheets",
+        "Troubleshooting, scam awareness and communication templates",
+        "Official-resource directory and update checklist"
+      ],
+      "faqs": [
+        [
+          "Does this verify my identity for me?",
+          "No. This is an educational PDF. Verification takes place through the official process or an authorised provider, separately from this purchase."
+        ],
+        [
+          "Does one guide cover all business compliance?",
+          "No. Browse the full range for the subject and jurisdiction you need. Employment, tax and AI guides address different responsibilities."
+        ],
+        [
+          "What does the formation pack contain?",
+          "The UK Limited Company Formation Guide and the Companies House Identity Verification Compliance Blueprint. It does not include the employment, AI or tax guides."
+        ],
+        [
+          "Can it confirm my deadline?",
+          "It helps you organise role-specific checks. Confirm your own deadline and current requirements directly with Companies House."
+        ]
+      ],
+      "sources": [
+        [
+          "Companies House identity verification guidance",
+          "https://www.gov.uk/government/collections/identity-verification-for-companies-house"
+        ]
+      ],
+      "sourceNote": "The featured PDF records a regulatory review dated 13 August 2026 and contains an official-resource directory. Recheck current Companies House guidance before acting.",
+      "samples": [
+        {
+          "src": "/assets/landing/compliance-sample-1.png",
+          "label": "Contents and quick-start questions",
+          "caption": "See the structure and the opening questions in the actual PDF.",
+          "alt": "Contents and quick-start questions — actual PDF page 4"
+        },
+        {
+          "src": "/assets/landing/compliance-sample-2.png",
+          "label": "Identity verification checklist",
+          "caption": "Inspect the printable checklist and role decision matrix; check current rules before using it.",
+          "alt": "Identity verification checklist — actual PDF page 44"
+        }
+      ],
+      "reading": "Download the PDF from Payhip and save it to your device. Read it in a PDF reader on a computer, tablet or phone; a larger screen is useful for tables. Use your reader’s annotation tools to add notes. Editable Word or Excel templates are not included.",
+      "printing": "You may print a copy for your own use. Select the pages you need and use your PDF reader’s “Fit to page” setting. Do not redistribute, resell or publicly share the file or printed copies.",
+      "authorHeading": "About Edward Omoba",
+      "authorBio": "Edward Omoba writes practical explanations of legal and regulatory issues for everyday readers. His published author biography describes his background as a qualified UK solicitor who stepped back from active legal practice to focus on this educational work."
     },
     {
       "slug": "career-and-work",
-      "label": "Career & Work"
+      "navLabel": "Career & work",
+      "title": "Career and work guides for your next step",
+      "audience": "FOR PEOPLE NAVIGATING CHANGE AT WORK",
+      "headline": "When work changes,",
+      "emphasis": "make your next step clearer.",
+      "intro": "Explore guides for redundancy, negotiation, career changes and workplace support. The featured UK redundancy guide helps you organise documents, questions and your recovery plan.",
+      "featured": "uk-redundancy-settlement-agreement-survival-blueprint",
+      "pack": "career-survival-pack",
+      "edition": "UK Premium PDF · reference date: 16 August 2026",
+      "pageCount": 85,
+      "scope": "The featured redundancy guide covers England, Wales and Scotland, not Northern Ireland or US employment law. Separate US guides are labelled in the catalogue. General information does not replace advice on your agreement or circumstances.",
+      "situations": [
+        [
+          "Your job is at risk?",
+          "Start with consultation, selection and the first-actions tools."
+        ],
+        [
+          "Reviewing an exit offer?",
+          "Use the agreement audit and offer-planning sections to prepare questions for an independent adviser."
+        ],
+        [
+          "Planning your next role?",
+          "Explore the recovery roadmap, job-search tools and the wider career guides."
+        ]
+      ],
+      "benefits": [
+        [
+          "Organise the immediate facts",
+          "Use checklists and meeting notes to bring documents and questions together."
+        ],
+        [
+          "Understand the parts of an offer",
+          "Explore redundancy pay, notice, benefits and settlement-agreement chapters."
+        ],
+        [
+          "Prepare for conversations",
+          "Use the counteroffer planner and negotiation prompts to structure your thinking."
+        ],
+        [
+          "Plan beyond the exit",
+          "Use the 90-day recovery roadmap and job-search tracking tools."
+        ]
+      ],
+      "contents": [
+        "Consultation, selection and alternative-employment chapters",
+        "Redundancy pay, notice and settlement-agreement explanations",
+        "Agreement audit, meeting notes and negotiation tools",
+        "Financial stabilisation and job-search planning",
+        "90-day recovery roadmap and printable toolkit"
+      ],
+      "faqs": [
+        [
+          "Does this cover Northern Ireland or the US?",
+          "The featured UK guide covers England, Wales and Scotland. Do not use it as a substitute for Northern Ireland or US employment guidance. Separate US titles appear above."
+        ],
+        [
+          "Can I use this instead of independent settlement advice?",
+          "No. The guide helps you prepare questions and organise information; it does not provide independent advice on your settlement agreement."
+        ],
+        [
+          "Will it guarantee a better offer or a new job?",
+          "No. It provides explanations and planning tools, not an employment or negotiation outcome guarantee."
+        ],
+        [
+          "Which pack is shown here?",
+          "The Career Survival Pack contains the Salary Negotiation Blueprint and the UK Redundancy & Settlement Agreement Survival Blueprint. Other career packs are listed in the full range."
+        ]
+      ],
+      "sources": [
+        [
+          "Acas redundancy guidance",
+          "https://www.acas.org.uk/redundancy"
+        ],
+        [
+          "Acas settlement agreements",
+          "https://www.acas.org.uk/settlement-agreements"
+        ]
+      ],
+      "sourceNote": "The featured PDF directs readers to check for changes since 16 August 2026 and includes an authoritative-source list. Use current Acas guidance and qualified advice for a live case.",
+      "samples": [
+        {
+          "src": "/assets/landing/career-sample-1.png",
+          "label": "Explore the contents",
+          "caption": "See how the guide moves from at-risk meetings through settlement and recovery.",
+          "alt": "Explore the contents — actual PDF page 2"
+        },
+        {
+          "src": "/assets/landing/career-sample-2.png",
+          "label": "Consultation notes and selection audit",
+          "caption": "Inspect real meeting-note and selection-score worksheets from the toolkit.",
+          "alt": "Consultation notes and selection audit — actual PDF page 77"
+        }
+      ],
+      "reading": "Download the PDF from Payhip and save it to your device. Read it in a PDF reader on a computer, tablet or phone; a larger screen is useful for tables. Use your reader’s annotation tools to add notes. Editable Word or Excel templates are not included.",
+      "printing": "You may print a copy for your own use. Select the pages you need and use your PDF reader’s “Fit to page” setting. Do not redistribute, resell or publicly share the file or printed copies.",
+      "authorHeading": "About Edward Omoba",
+      "authorBio": "Edward Omoba writes practical explanations of legal and regulatory issues for everyday readers. His published author biography describes his background as a qualified UK solicitor who stepped back from active legal practice to focus on this educational work."
     },
     {
       "slug": "home-and-life",
-      "label": "Home & Life Planning"
+      "navLabel": "Home & life planning",
+      "title": "Home and life planning guides and workbooks",
+      "audience": "FOR PEOPLE PLANNING IMPORTANT LIFE DECISIONS",
+      "headline": "Bring the details together.",
+      "emphasis": "Plan with a clearer picture.",
+      "intro": "Browse home buying, future planning, scam awareness and life transitions. Start with the featured home-buying workbook to organise costs, comparisons and questions before a major purchase.",
+      "featured": "first-time-home-buyers-workbook",
+      "pack": "property-buyers-complete-pack",
+      "edition": "Premium Edition · version 2.1 · July 2026",
+      "pageCount": 52,
+      "scope": "The featured workbook discusses UK and US home buying. Processes and costs vary by nation, state and locality. Its featured pack also includes an England-only landlord guide, so the pack suits readers who want both subjects.",
+      "situations": [
+        [
+          "Thinking about your first home?",
+          "Start with readiness questions, costs and budget worksheets."
+        ],
+        [
+          "Comparing properties or mortgages?",
+          "Use the comparison tools and viewing checklists to organise your questions."
+        ],
+        [
+          "Planning another life change?",
+          "Browse the separate wills, scam-prevention, student-life and friendship guides above."
+        ]
+      ],
+      "benefits": [
+        [
+          "Put the budget on paper",
+          "Use the budget planner to record income, expenses and purchase costs."
+        ],
+        [
+          "Compare choices consistently",
+          "Work through mortgage and property comparison sections."
+        ],
+        [
+          "Prepare for viewings",
+          "Use the viewing checklist and red-flag prompts to record what to investigate."
+        ],
+        [
+          "Map the next steps",
+          "Use the home-buying roadmap to organise a sequence of tasks."
+        ]
+      ],
+      "contents": [
+        "UK and US home-buying explanations",
+        "Readiness checks, budget and affordability worksheets",
+        "Mortgage comparisons and property-viewing tools",
+        "Offer, negotiation and closing preparation",
+        "90-day roadmap and reference section"
+      ],
+      "faqs": [
+        [
+          "Does the workbook cover both the UK and US?",
+          "Yes, but local processes, fees and eligibility rules differ. Check the relevant section and confirm details with local professionals."
+        ],
+        [
+          "Is the property pack right for every first-time buyer?",
+          "No. It adds the First-Time Landlord Blueprint for England. Choose the standalone workbook if you do not need landlord guidance."
+        ],
+        [
+          "Does it arrange or recommend a mortgage?",
+          "No. It is an educational workbook, not a mortgage brokerage or a personal lending recommendation."
+        ],
+        [
+          "Are wills and scam-prevention guides included?",
+          "No. They are separate purchases in the catalogue. The pack shown contains only the two titles listed."
+        ]
+      ],
+      "sources": [
+        [
+          "MoneyHelper: first-time home buyer guide",
+          "https://www.moneyhelper.org.uk/en/homes/buying-a-home/first-time-buyer-money-tips"
+        ],
+        [
+          "Consumer Financial Protection Bureau: buying a house",
+          "https://www.consumerfinance.gov/owning-a-home/"
+        ]
+      ],
+      "sourceNote": "The PDF identifies version 2.1, July 2026. The links below provide independent UK and US information for checking current home-buying guidance; they do not endorse this workbook.",
+      "samples": [
+        {
+          "src": "/assets/landing/home-sample-1.png",
+          "label": "Explore the workbook contents",
+          "caption": "See the workbook’s preparation, finance and property-search sections.",
+          "alt": "Explore the workbook contents — actual PDF page 3"
+        },
+        {
+          "src": "/assets/landing/home-sample-2.png",
+          "label": "Budget planner worksheet",
+          "caption": "Inspect the actual income and expense worksheet before purchasing.",
+          "alt": "Budget planner worksheet — actual PDF page 12"
+        }
+      ],
+      "reading": "Download the PDF from Payhip and save it to your device. Read it in a PDF reader on a computer, tablet or phone; a larger screen is useful for tables. Use your reader’s annotation tools to add notes. Editable Word or Excel templates are not included.",
+      "printing": "You may print a copy for your own use. Select the pages you need and use your PDF reader’s “Fit to page” setting. Do not redistribute, resell or publicly share the file or printed copies. The workbook is licensed for personal, non-commercial use.",
+      "authorHeading": "Published by PDFBlueprints",
+      "authorBio": "The PDF identifies PDFBlueprints as its publisher. PDFBlueprints publishes practical digital reference guides across business, legal, finance and lifestyle topics. This file does not name an individual author."
     },
     {
       "slug": "lifestyle-and-travel",
-      "label": "Lifestyle & Travel"
+      "navLabel": "Lifestyle & travel",
+      "title": "Lifestyle and travel guides for your next interest",
+      "audience": "FOR CURIOUS READERS AND NEW BEGINNINGS",
+      "headline": "Explore a new interest.",
+      "emphasis": "Give it a practical starting point.",
+      "intro": "Browse outdoor interests, travel, language and personal technology. The featured Rucking Blueprint offers a structured introduction to weighted walking, with gear guidance and optional printable trackers.",
+      "featured": "the-complete-rucking-blueprint",
+      "pack": null,
+      "comparison": "the-complete-modern-birding-for-beginners-blueprint",
+      "comparisonNote": "Prefer observing wildlife to weighted walking? This is a separate beginner birding guide. It is not a rucking bundle and is purchased separately.",
+      "edition": "Premium store PDF · © 2026",
+      "pageCount": 45,
+      "scope": "The featured rucking guide is general educational information, not medical advice or a personalised exercise prescription. Read its health and safety notice and seek qualified advice where appropriate. Travel and other lifestyle guides are separate products.",
+      "situations": [
+        [
+          "Curious about weighted walking?",
+          "Read the introduction and safety guidance before deciding whether the activity suits you."
+        ],
+        [
+          "Looking for a structured routine?",
+          "Explore the four-week programme and optional calendars and logs."
+        ],
+        [
+          "Interested in something different?",
+          "Browse birding, travel, language and personal-technology guides in the full range."
+        ]
+      ],
+      "benefits": [
+        [
+          "Understand the starting point",
+          "Explore the safety notice, self-assessment and beginner explanations."
+        ],
+        [
+          "Compare gear choices",
+          "Read the backpack, footwear and packing sections before choosing equipment."
+        ],
+        [
+          "Organise a routine",
+          "Use the four-week programme and the guide’s different beginner pathways."
+        ],
+        [
+          "Record your experience",
+          "Print the optional calendar, daily log and progression tracker if you find tracking useful."
+        ]
+      ],
+      "contents": [
+        "Weighted-walking introduction and health/safety notice",
+        "Gear, packing, posture and pacing chapters",
+        "Four-week beginner programme and progression chapters",
+        "Recovery and common-problem sections",
+        "Optional printable calendars, logs and checklists"
+      ],
+      "faqs": [
+        [
+          "Is this a personalised fitness plan?",
+          "No. It is general information. Read the safety notice and consult a qualified healthcare professional before starting where appropriate; the guide does not assess your individual health."
+        ],
+        [
+          "Do you guarantee weight loss or fitness results?",
+          "No. The guide does not guarantee a particular result, and individual circumstances differ."
+        ],
+        [
+          "Is there a lifestyle pack?",
+          "There is no lifestyle pack in the current catalogue. The rucking and birding options shown are separate purchases, with no bundle discount claimed."
+        ],
+        [
+          "Does the rucking guide include travel or birding guides?",
+          "No. Each title is sold separately. Use the full product range to choose the subject you want."
+        ]
+      ],
+      "sources": [
+        [
+          "NHS: physical activity guidelines for adults",
+          "https://www.nhs.uk/live-well/exercise/physical-activity-guidelines-for-adults-aged-19-to-64/"
+        ]
+      ],
+      "sourceNote": "The PDF carries © 2026, a health and safety notice and a research-reference section. It does not state a numbered edition. The NHS link below offers general activity guidance, not an endorsement of this guide or a rucking prescription.",
+      "samples": [
+        {
+          "src": "/assets/landing/lifestyle-sample-1.png",
+          "label": "Explore the rucking contents",
+          "caption": "See the safety, preparation, gear and programme chapters.",
+          "alt": "Explore the rucking contents — actual PDF page 2"
+        },
+        {
+          "src": "/assets/landing/lifestyle-sample-2.png",
+          "label": "Calendar and daily ruck log",
+          "caption": "Inspect the optional printable four-week calendar and tracking tables.",
+          "alt": "Calendar and daily ruck log — actual PDF page 38"
+        }
+      ],
+      "reading": "Download the PDF from Payhip and save it to your device. Read it in a PDF reader on a computer, tablet or phone; a larger screen is useful for tables. Use your reader’s annotation tools to add notes. Editable Word or Excel templates are not included.",
+      "printing": "You may print a copy for your own use. Select the pages you need and use your PDF reader’s “Fit to page” setting. Do not redistribute, resell or publicly share the file or printed copies.",
+      "authorHeading": "Published by PDFBlueprints",
+      "authorBio": "The PDF identifies PDFBlueprints as its publisher. PDFBlueprints publishes practical digital reference guides across business, legal, finance and lifestyle topics. This file does not name an individual author."
     }
-  ]
+  ],
+  "planned": []
 }
