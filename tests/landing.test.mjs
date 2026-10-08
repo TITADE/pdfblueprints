@@ -22,6 +22,11 @@ for(const page of landingPages)test(page.slug+' has valid product, preview and p
  for(const [,f] of availableAmazonFormats(products.find(p=>p.handle===page.featured)))assert.ok(html.includes(f.url));
  assert.ok(!html.includes('undefined'));
  assert.ok(html.includes('data-landing-action="preview"'));
+ assert.ok(html.includes('Can I buy a Kindle ebook or paperback instead of a PDF?'));
+ assert.ok(html.includes('How do PDF, Kindle and paperback delivery differ?'));
+ const available=availableAmazonFormats(products.find(p=>p.handle===page.featured));
+ if(!available.length)assert.ok(html.includes('There is no verified Amazon edition linked for the featured guide at present.'));
+ else assert.ok(html.includes('The featured guide has '+available.map(([f])=>({kindle:'Kindle',paperback:'paperback',hardback:'hardback'}[f])).join(' and ')+' options'));
 });
 test('landing events require current consent and never record purchases',()=>{
  let consent=null,listener;const events=[];
