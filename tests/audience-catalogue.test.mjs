@@ -24,3 +24,5 @@ test('audience boundaries distinguish employers, employees and property buyers',
  assert.equal(home('us-first-time-landlord-blueprint'),'landlords');
  assert.ok(audiences.find(a=>a.slug==='start-a-business').related.includes('the-making-tax-digital-survival-blueprint'));
 });
+
+test('topic groups preserve each audience catalogue without omission or duplication',()=>{for(const a of audiences){const grouped=a.groups.flatMap(g=>g.handles);assert.equal(grouped.length,new Set(grouped).size);assert.deepEqual([...grouped].sort(),[...a.primary,...a.related].sort())}});

@@ -11,13 +11,19 @@ buttons.forEach(b=>b.addEventListener('click',()=>{category=b.dataset.filter;ren
 const articleSearch=document.querySelector('#article-search');
 articleSearch?.addEventListener('input',()=>{const q=articleSearch.value.toLowerCase().trim();let n=0;document.querySelectorAll('[data-article]').forEach(a=>{a.hidden=!a.dataset.article.includes(q);if(!a.hidden)n++});document.querySelector('#article-count').textContent=`${n} articles`;document.querySelector('#article-empty').hidden=n!==0;});
 
-;(function(){const ev=(n,p)=>{try{window.gtag&&window.gtag('event',n,p)}catch(e){}};const t=document.querySelector('.product-info h1');if(t)ev('view_item',{item_name:t.textContent.trim(),currency:'GBP'});document.addEventListener('click',e=>{const a=e.target.closest&&e.target.closest('a[href*="payhip.com"]');if(!a)return;const n=(document.querySelector('.product-info h1')||{}).textContent;ev('begin_checkout',{item_name:(n||a.textContent).trim(),currency:'GBP',link_url:a.href,page_path:location.pathname})},true)})();
+// Outbound referrals are not confirmed checkouts or purchases.
+document.addEventListener('click',e=>{
+ const a=e.target.closest?.('a[href*="payhip.com"]');if(!a||a.dataset.landingAction)return;
+ let url;try{url=new URL(a.href)}catch{return}if(url.hostname!=='payhip.com')return;
+ const handle=a.dataset.productHandle||location.pathname.match(/^\/products\/([^/]+)/)?.[1]||'';
+ window.pbTrack?.('payhip_click',{product_handle:handle,payhip_product_id:url.pathname.split('/').filter(Boolean).pop(),format:'pdf',link_url:a.href,page_path:location.pathname});
+});
 
 ;(function(){if(!window.loadGA)return;var K='pb-consent',get=function(){try{return localStorage.getItem(K)}catch(e){return null}},set=function(v){try{localStorage.setItem(K,v)}catch(e){}};var link=document.querySelector('.cookie-settings');
 function close(){var b=document.getElementById('cookie-banner');if(b)b.remove()}
-function show(){if(document.getElementById('cookie-banner'))return;var b=document.createElement('div');b.id='cookie-banner';b.setAttribute('role','dialog');b.setAttribute('aria-label','Cookie consent');b.innerHTML='<p>We use analytics cookies (Google Analytics) to see which guides are useful. They are off unless you accept. <a href="/policies/privacy-policy">Privacy policy</a></p><div><button type="button" data-c="no">Decline</button><button type="button" data-c="yes" class="accept">Accept</button></div>';b.addEventListener('click',function(e){var c=e.target.dataset&&e.target.dataset.c;if(!c)return;set(c);close();if(c==='yes')window.loadGA()});document.body.appendChild(b)}
+function show(){if(document.getElementById('cookie-banner'))return;var b=document.createElement('div');b.id='cookie-banner';b.setAttribute('role','dialog');b.setAttribute('aria-label','Cookie consent');b.innerHTML='<p>We use analytics cookies (Google Analytics) to see which guides are useful. They are off unless you accept. <a href="/policies/privacy-policy">Privacy policy</a></p><div><button type="button" data-c="no">Decline</button><button type="button" data-c="yes" class="accept">Accept</button></div>';b.addEventListener('click',function(e){var c=e.target.dataset&&e.target.dataset.c;if(!c)return;window.setAnalyticsConsent(c);close()});document.body.appendChild(b)}
 if(link){link.hidden=false;link.addEventListener('click',show)}
 if(get()===null)show()})();
 
 // Amazon referrals are clicks, not sales. Record only with current analytics consent.
-document.addEventListener('click',event=>{const link=event.target.closest?.('a[data-amazon-format]');if(!link)return;try{if(localStorage.getItem('pb-consent')!=='yes'||typeof window.gtag!=='function')return;window.gtag('event','amazon_format_click',{product_handle:link.dataset.productHandle,format:link.dataset.amazonFormat,destination_marketplace:'amazon.co.uk',link_url:link.href});}catch{}});
+document.addEventListener('click',event=>{const link=event.target.closest?.('a[data-amazon-format]');if(!link)return;try{window.pbTrack?.('amazon_format_click',{product_handle:link.dataset.productHandle,format:link.dataset.amazonFormat,destination_marketplace:'amazon.co.uk',link_url:link.href});}catch{}});

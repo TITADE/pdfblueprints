@@ -2,8 +2,8 @@
   "pages": [
     {
       "slug": "landlords",
-      "navLabel": "Landlords in England",
-      "title": "Practical PDF guides for landlords in England",
+      "navLabel": "Landlords",
+      "title": "Landlord guides: England and US editions",
       "audience": "FOR PRIVATE LANDLORDS IN ENGLAND",
       "headline": "Understand the tenancy changes.",
       "emphasis": "Organise your next steps.",
@@ -12,7 +12,7 @@
       "pack": "uk-landlord-starter-pack",
       "edition": "2026 Compliance Edition · England only",
       "pageCount": 48,
-      "scope": "For private rented housing in England. Scotland, Wales and Northern Ireland have different tenancy legislation. These guides are educational resources, not advice on a particular tenancy.",
+      "scope": "The featured Renters’ Rights guide and UK Landlord Starter Pack cover England only. The full range also includes a separate US landlord guide. Check the jurisdiction of each product before choosing.",
       "situations": [
         [
           "Already letting a property?",
@@ -68,8 +68,8 @@
       ],
       "faqs": [
         [
-          "Does this cover properties outside England?",
-          "No. This guide and the UK Landlord Starter Pack are focused on England. Do not use them as a substitute for the rules in Scotland, Wales, Northern Ireland or the US."
+          "Does the featured guide cover properties outside England?",
+          "No. The featured Renters’ Rights guide and UK Landlord Starter Pack cover England. The catalogue also offers a separate US First-Time Landlord Blueprint; neither replaces the rules in Scotland, Wales or Northern Ireland."
         ],
         [
           "Will this certify that my property is compliant?",
@@ -103,7 +103,7 @@
     {
       "slug": "start-a-business",
       "navLabel": "Starting a business",
-      "title": "Starting a UK business: company formation guides",
+      "title": "Starting and running a business: guides and packs",
       "audience": "FOR FIRST-TIME UK BUSINESS OWNERS",
       "headline": "From a business idea",
       "emphasis": "to an organised plan.",
@@ -499,7 +499,8 @@
       "reading": "Download the PDF from Payhip and save it to your device. Read it in a PDF reader on a computer, tablet or phone; a larger screen is useful for tables. Use your reader’s annotation tools to add notes. Editable Word or Excel templates are not included.",
       "printing": "You may print a copy for your own use. Select the pages you need and use your PDF reader’s “Fit to page” setting. Do not redistribute, resell or publicly share the file or printed copies. The workbook is licensed for personal, non-commercial use.",
       "authorHeading": "Published by PDFBlueprints",
-      "authorBio": "The PDF identifies PDFBlueprints as its publisher. PDFBlueprints publishes practical digital reference guides across business, legal, finance and lifestyle topics. This file does not name an individual author."
+      "authorBio": "The PDF identifies PDFBlueprints as its publisher. PDFBlueprints publishes practical digital reference guides across business, legal, finance and lifestyle topics. This file does not name an individual author.",
+      "packNote": "For buyers who also want to become landlords in England. Choose the standalone workbook if you only need home-buying guidance."
     },
     {
       "slug": "lifestyle-and-travel",
