@@ -14,26 +14,90 @@
       "pageCount": 48,
       "scope": "For private rented housing in England. Scotland, Wales and Northern Ireland have different tenancy legislation. These guides are educational resources, not advice on a particular tenancy.",
       "situations": [
-        ["Already letting a property?", "Start with the diagnostic, then work through the existing-tenancy audit."],
-        ["Preparing a new letting?", "Explore the chapters on starting a tenancy, advertising and tenant selection."],
-        ["Working with an agent?", "Use the records and agent-audit sections to organise what you need to check."]
+        [
+          "Already letting a property?",
+          "Start with the diagnostic, then work through the existing-tenancy audit."
+        ],
+        [
+          "Preparing a new letting?",
+          "Explore the chapters on starting a tenancy, advertising and tenant selection."
+        ],
+        [
+          "Working with an agent?",
+          "Use the records and agent-audit sections to organise what you need to check."
+        ]
       ],
       "benefits": [
-        ["Find your starting point", "Use a structured diagnostic to identify areas to investigate, rather than reading without a plan."],
-        ["Review your tenancy processes", "Explore the guide’s chapters on rent, tenant selection, pets and possession procedures."],
-        ["Keep your evidence together", "Work through record templates, audit checklists and the compliance evidence-file chapter."],
-        ["Plan the next steps", "Use the 30-day planner to organise actions. Check current official guidance before acting."]
+        [
+          "Find your starting point",
+          "Use a structured diagnostic to identify areas to investigate, rather than reading without a plan."
+        ],
+        [
+          "Review your tenancy processes",
+          "Explore the guide’s chapters on rent, tenant selection, pets and possession procedures."
+        ],
+        [
+          "Keep your evidence together",
+          "Work through record templates, audit checklists and the compliance evidence-file chapter."
+        ],
+        [
+          "Plan the next steps",
+          "Use the 30-day planner to organise actions. Check current official guidance before acting."
+        ]
       ],
-      "contents": ["Landlord diagnostic and existing-tenancy audit", "Tenancy, rent and tenant-selection chapters", "Records, complaints and evidence checklists", "Letting-agent and portfolio sections", "30-day action planner and official-source references"],
+      "contents": [
+        "Landlord diagnostic and existing-tenancy audit",
+        "Tenancy, rent and tenant-selection chapters",
+        "Records, complaints and evidence checklists",
+        "Letting-agent and portfolio sections",
+        "30-day action planner and official-source references"
+      ],
       "samples": [
-        {"src":"/assets/landing/landlord-contents.png","label":"Explore the contents","caption":"The opening contents page shows how the guide is organised.","alt":"Renters’ Rights guide, contents page 2"},
-        {"src":"/assets/landing/landlord-diagnostic.png","label":"Try the diagnostic’s first page","caption":"See the questions and recording format on a real diagnostic page.","alt":"Renters’ Rights guide, landlord diagnostic page 7"}
+        {
+          "src": "/assets/landing/landlord-contents.png",
+          "label": "Explore the contents",
+          "caption": "The opening contents page shows how the guide is organised.",
+          "alt": "Renters’ Rights guide, contents page 2"
+        },
+        {
+          "src": "/assets/landing/landlord-diagnostic.png",
+          "label": "Try the diagnostic’s first page",
+          "caption": "See the questions and recording format on a real diagnostic page.",
+          "alt": "Renters’ Rights guide, landlord diagnostic page 7"
+        }
       ],
       "faqs": [
-        ["Does this cover properties outside England?", "No. This guide and the UK Landlord Starter Pack are focused on England. Do not use them as a substitute for the rules in Scotland, Wales, Northern Ireland or the US."],
-        ["Will this certify that my property is compliant?", "No. It helps you organise checks and questions. It does not certify compliance or replace professional advice about your property or tenancy."],
-        ["Is every reform already in force?", "The guide distinguishes current, transitional and future measures. Check current official guidance and commencement dates before acting; buying a guide is not a guarantee that legislation will remain unchanged."],
-        ["Which option should I choose?", "Choose the Renters’ Rights guide for tenancy reform and compliance planning. Choose the pack if you also want the First-Time Landlord Blueprint for England."]
+        [
+          "Does this cover properties outside England?",
+          "No. This guide and the UK Landlord Starter Pack are focused on England. Do not use them as a substitute for the rules in Scotland, Wales, Northern Ireland or the US."
+        ],
+        [
+          "Will this certify that my property is compliant?",
+          "No. It helps you organise checks and questions. It does not certify compliance or replace professional advice about your property or tenancy."
+        ],
+        [
+          "Is every reform already in force?",
+          "The guide distinguishes current, transitional and future measures. Check current official guidance and commencement dates before acting; buying a guide is not a guarantee that legislation will remain unchanged."
+        ],
+        [
+          "Which option should I choose?",
+          "Choose the Renters’ Rights guide for tenancy reform and compliance planning. Choose the pack if you also want the First-Time Landlord Blueprint for England."
+        ]
+      ],
+      "reading": "Download the PDF from Payhip and save it to your device. Read it in a PDF reader on a computer, tablet or phone; a larger screen is useful for tables. Use your reader’s annotation tools to add notes. Editable Word or Excel templates are not included.",
+      "printing": "You may print a copy for your own use. Select the pages you need and use your PDF reader’s “Fit to page” setting. Do not redistribute, resell or publicly share the file or printed copies.",
+      "authorHeading": "About Edward Omoba",
+      "authorBio": "Edward Omoba writes practical explanations of legal and regulatory issues for everyday readers. His published author biography describes his background as a qualified UK solicitor who stepped back from active legal practice to focus on this educational work.",
+      "sourceNote": "The PDF records a legal-source review dated 14 August 2026. It separates current, transitional and future measures. Use the official sources below to check for changes after that review.",
+      "sources": [
+        [
+          "Renters’ Rights implementation roadmap",
+          "https://www.gov.uk/government/publications/renters-rights-act-2025-implementation-roadmap"
+        ],
+        [
+          "Renters’ Rights Act 2025: legislation",
+          "https://www.legislation.gov.uk/ukpga/2025/26/contents"
+        ]
       ]
     },
     {
@@ -50,34 +114,114 @@
       "pageCount": 30,
       "scope": "The featured guide covers a standard UK private company limited by shares. It is general information, not personal legal, tax or financial advice. Specialist structures and overseas tax issues need individual advice.",
       "situations": [
-        ["Still choosing a structure?", "Compare limited-company and sole-trader considerations before deciding what suits your situation."],
-        ["Getting ready to register?", "Explore the company-name, documents and formation chapters, then gather the details you need."],
-        ["Thinking beyond registration?", "Use the banking, record-keeping and first-year planning sections to prepare for ongoing responsibilities."]
+        [
+          "Still choosing a structure?",
+          "Compare limited-company and sole-trader considerations before deciding what suits your situation."
+        ],
+        [
+          "Getting ready to register?",
+          "Explore the company-name, documents and formation chapters, then gather the details you need."
+        ],
+        [
+          "Thinking beyond registration?",
+          "Use the banking, record-keeping and first-year planning sections to prepare for ongoing responsibilities."
+        ]
       ],
       "benefits": [
-        ["Make a more informed start", "Understand the guide’s comparison of a limited company and sole trading, including practical trade-offs."],
-        ["Prepare the information", "Work through names, documents, directors and shareholders before you begin the registration process."],
-        ["Put costs on paper", "Use the startup budget planner and business-name worksheet to organise your thinking."],
-        ["Look beyond day one", "Explore director responsibilities, the first-year roadmap and annual deadline planning."]
+        [
+          "Make a more informed start",
+          "Understand the guide’s comparison of a limited company and sole trading, including practical trade-offs."
+        ],
+        [
+          "Prepare the information",
+          "Work through names, documents, directors and shareholders before you begin the registration process."
+        ],
+        [
+          "Put costs on paper",
+          "Use the startup budget planner and business-name worksheet to organise your thinking."
+        ],
+        [
+          "Look beyond day one",
+          "Explore director responsibilities, the first-year roadmap and annual deadline planning."
+        ]
       ],
-      "contents": ["Limited company and sole trader comparison", "Company names, documents and formation steps", "Startup costs, banking and accounting overview", "Director responsibilities and first-year roadmap", "Planning worksheets and official-resource links"],
+      "contents": [
+        "Limited company and sole trader comparison",
+        "Company names, documents and formation steps",
+        "Startup costs, banking and accounting overview",
+        "Director responsibilities and first-year roadmap",
+        "Planning worksheets and official-resource links"
+      ],
       "samples": [
-        {"src":"/assets/landing/company-contents-v13.png","label":"Read the contents","caption":"See the 20 chapters in the current version 1.3 PDF.","alt":"UK company formation guide version 1.3, contents page 2"},
-        {"src":"/assets/landing/company-planning-v13.png","label":"Explore the planning worksheets","caption":"Preview the business-name, budget and information-gathering tools.","alt":"UK company formation guide version 1.3, planning worksheets page 26"}
+        {
+          "src": "/assets/landing/company-contents-v13.png",
+          "label": "Read the contents",
+          "caption": "See the 20 chapters in the current version 1.3 PDF.",
+          "alt": "UK company formation guide version 1.3, contents page 2"
+        },
+        {
+          "src": "/assets/landing/company-planning-v13.png",
+          "label": "Explore the planning worksheets",
+          "caption": "Preview the business-name, budget and information-gathering tools.",
+          "alt": "UK company formation guide version 1.3, planning worksheets page 26"
+        }
       ],
-      "alternative": {"handle":"usa-llc-formation-guide","heading":"Starting in the United States?","copy":"The UK guide covers a different system. Explore the separate USA LLC Formation Guide and check its scope before purchasing."},
+      "alternative": {
+        "handle": "usa-llc-formation-guide",
+        "heading": "Starting in the United States?",
+        "copy": "The UK guide covers a different system. Explore the separate USA LLC Formation Guide and check its scope before purchasing."
+      },
       "faqs": [
-        ["Does this register a company for me?", "No. This is a PDF guide, not a formation service. Company registration, professional services and official fees are separate."],
-        ["Is it suitable before I have chosen a business structure?", "Yes. It introduces limited-company and sole-trader considerations. Choosing the right structure for your circumstances may still require professional advice."],
-        ["Does the pack include Making Tax Digital?", "No. The UK Business Formation Pack contains the UK Limited Company Formation Guide and the Companies House Identity Verification Compliance Blueprint."],
-        ["How current is the featured PDF?", "The featured standalone company guide is version 1.3, dated 6 October 2026. Its guidance and statutory figures were checked for that edition; check current official sources before taking action."]
+        [
+          "Does this register a company for me?",
+          "No. This is a PDF guide, not a formation service. Company registration, professional services and official fees are separate."
+        ],
+        [
+          "Is it suitable before I have chosen a business structure?",
+          "Yes. It introduces limited-company and sole-trader considerations. Choosing the right structure for your circumstances may still require professional advice."
+        ],
+        [
+          "Does the pack include Making Tax Digital?",
+          "No. The UK Business Formation Pack contains the UK Limited Company Formation Guide and the Companies House Identity Verification Compliance Blueprint."
+        ],
+        [
+          "How current is the featured PDF?",
+          "The featured standalone company guide is version 1.3, dated 6 October 2026. Its guidance and statutory figures were checked for that edition; check current official sources before taking action."
+        ]
+      ],
+      "reading": "Download the PDF from Payhip and save it to your device. Read it in a PDF reader on a computer, tablet or phone; a larger screen is useful for tables. Use your reader’s annotation tools to add notes. Editable Word or Excel templates are not included.",
+      "printing": "You may print a copy for your own use. Select the pages you need and use your PDF reader’s “Fit to page” setting. Do not redistribute, resell or publicly share the file or printed copies. The company guide is licensed for personal, non-commercial use.",
+      "authorHeading": "Published by PDFBlueprints",
+      "authorBio": "PDFBlueprints publishes practical digital reference guides covering business, legal, finance and travel topics. This edition identifies PDFBlueprints as its publisher; it does not name an individual author.",
+      "sourceNote": "Version 1.3 records checks against official sources on 6 October 2026. Chapter 20 lists the references for formation, fees, accounts, tax and other responsibilities. Check the current guidance before acting.",
+      "sources": [
+        [
+          "Companies House: register your company",
+          "https://www.gov.uk/limited-company-formation/register-your-company"
+        ],
+        [
+          "Companies House: statutory fees",
+          "https://www.gov.uk/government/publications/companies-house-fees/companies-house-fees"
+        ]
       ]
     }
   ],
   "planned": [
-    {"slug":"business-compliance","label":"Business Compliance"},
-    {"slug":"career-and-work","label":"Career & Work"},
-    {"slug":"home-and-life","label":"Home & Life Planning"},
-    {"slug":"lifestyle-and-travel","label":"Lifestyle & Travel"}
+    {
+      "slug": "business-compliance",
+      "label": "Business Compliance"
+    },
+    {
+      "slug": "career-and-work",
+      "label": "Career & Work"
+    },
+    {
+      "slug": "home-and-life",
+      "label": "Home & Life Planning"
+    },
+    {
+      "slug": "lifestyle-and-travel",
+      "label": "Lifestyle & Travel"
+    }
   ]
 }
