@@ -614,18 +614,18 @@
     },
     {
       "handle": "uk-limited-company-formation-guide",
-      "pageCount": 33,
+      "pageCount": 30,
       "fileCount": 1,
       "samples": [
         {
-          "src": "/assets/previews/uk-limited-company-formation-guide-1.webp",
-          "label": "Sample page 3",
-          "alt": "UK Limited Company Formation Guide — sample PDF page 3"
+          "src": "/assets/landing/company-contents-v13.png",
+          "label": "Contents — version 1.3",
+          "alt": "Company formation guide version 1.3 contents, page 2"
         },
         {
-          "src": "/assets/previews/uk-limited-company-formation-guide-2.webp",
-          "label": "Sample page 6",
-          "alt": "UK Limited Company Formation Guide — sample PDF page 6"
+          "src": "/assets/landing/company-planning-v13.png",
+          "label": "Planning worksheets — version 1.3",
+          "alt": "Company formation guide version 1.3 planning worksheets, page 26"
         }
       ]
     },
