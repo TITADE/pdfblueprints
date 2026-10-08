@@ -29,3 +29,7 @@
 
 /* Amazon editions: secondary to the direct PDF checkout. */
 .amazon-options{margin:24px 0;padding:22px 0;border-top:1px solid #d9dfe8;border-bottom:1px solid #d9dfe8}.amazon-options h2{font-family:inherit;font-size:22px;line-height:1.3;margin:8px 0 16px}.amazon-buttons{display:flex;flex-wrap:wrap;gap:10px}.amazon-buttons .button{min-height:48px;justify-content:space-between;gap:24px}.amazon-note,.amazon-edition-note{font-size:13px;line-height:1.6;margin:14px 0 0;color:#4c5667}.amazon-edition-note{margin-top:8px}.amazon-badge{font-size:12px;line-height:1.5;color:#344563;margin:12px 0}.amazon-options .micro{font-size:11px}@media(max-width:480px){.amazon-buttons{display:grid;grid-template-columns:1fr 1fr}.amazon-buttons .button{padding:12px;gap:8px;font-size:14px}}
+
+.audience-nav{display:flex;flex-wrap:wrap;gap:12px;padding-top:28px;padding-bottom:28px;border-bottom:1px solid #ddd}.audience-nav a{padding:10px 14px;border:1px solid #ddd;border-radius:6px;text-decoration:none}.audience-nav a:hover{background:#eef2ff}.audience-catalogue>p{max-width:760px;line-height:1.7}.audience-catalogue>h3{margin:32px 0 20px}.audience-catalogue .audience-related{margin-top:60px}.landing-discovery{line-height:2}
+
+.audience-intro{padding-top:28px;padding-bottom:28px}.audience-intro h2{font-size:32px}.audience-intro>p{max-width:760px;line-height:1.6}.audience-intro .micro{margin-top:26px}

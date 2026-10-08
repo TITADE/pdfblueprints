@@ -1,3 +1,4 @@
+import {audiences,audiencePage} from '../src/audience-catalogue.mjs';
 import {mkdir,readdir,readFile,writeFile,chmod,rm} from 'node:fs/promises';
 async function forceWrite(url,content){try{await chmod(url,0o644)}catch(e){if(e.code!=='ENOENT')throw e}try{await writeFile(url,content,{mode:0o644})}catch(e){if(e.code!=='EACCES'&&e.code!=='EPERM')throw e;await rm(url,{force:true});await writeFile(url,content,{mode:0o644})}}
 import {home,productPage,catalogue,infoPage,layout} from '../src/site.mjs';
@@ -12,6 +13,7 @@ const routes=[];
 async function page(path,content,canonicalPath){if(!canonicalPath)routes.push('/'+path);const canonical='https://pdfblueprints.store/'+(canonicalPath||path);content=content.replace('</head>',`<link rel="canonical" href="${canonical}"><meta property="og:url" content="${canonical}"><meta property="og:site_name" content="PDFBlueprints"></head>`);if(process.env.SITE_RELEASE==='production'){content=content.replace('<meta name="robots" content="noindex,nofollow">','<meta name="robots" content="index,follow">').replace(/<div class="preview-bar">.*?<\/div>/,'');}const dir=new URL(path,dist);await mkdir(dir,{recursive:true});await writeFile(new URL('index.html',dir),content)}
 await page('',home(products));
 await page('guides/',catalogue(products));
+for(const a of audiences.filter(a=>!landingPages.some(p=>p.slug===a.slug)))await page(a.slug+'/',audiencePage(a,products));
 for(const landing of landingPages)await page(landing.slug+'/',landingPage(landing,products));
 for(const p of products)await page('products/'+p.handle+'/',productPage(p,products));
 await page('about/',infoPage('about'));await page('help/',infoPage('help'));

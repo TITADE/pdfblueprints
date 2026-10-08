@@ -1,0 +1,117 @@
+[
+  {
+    "slug": "landlords",
+    "title": "Landlords",
+    "headline": "Guides for letting and managing property",
+    "intro": "Choose the correct jurisdiction first: England and the US have separate guides.",
+    "primary": [
+      "uk-landlord-starter-pack",
+      "renters-rights-act-2025-landlord-compliance-blueprint",
+      "uk-first-time-landlord-blueprint",
+      "us-first-time-landlord-blueprint"
+    ],
+    "related": [
+      "the-making-tax-digital-survival-blueprint",
+      "property-buyers-complete-pack"
+    ]
+  },
+  {
+    "slug": "start-a-business",
+    "title": "Starting & Running a Business",
+    "headline": "From formation to running your business",
+    "intro": "Explore formation, importing, company administration and business technology. UK and US formation guides are shown separately.",
+    "primary": [
+      "importing-from-china-to-the-uk-the-complete-step-by-step-blueprint-for-first-time-importers",
+      "uk-business-formation-pack",
+      "usa-llc-formation-guide",
+      "uk-limited-company-formation-guide"
+    ],
+    "related": [
+      "the-complete-companies-house-identity-verification-compliance-blueprint-premium-edition",
+      "the-making-tax-digital-survival-blueprint",
+      "uk-subscription-cancellation-compliance-blueprint",
+      "ai-compliance-for-small-business-uk-edition",
+      "ai-compliance-for-small-business-eu-edition",
+      "ai-compliance-for-small-business",
+      "the-complete-uk-right-to-work-checks-blueprint",
+      "uk-employment-rights-act-2025-compliance-blueprint",
+      "the-menopause-equality-action-plan-compliance",
+      "muse-by-meta-personal-agent-revolution"
+    ]
+  },
+  {
+    "slug": "business-compliance",
+    "title": "Business Compliance",
+    "headline": "Find guidance for your responsibilities",
+    "intro": "Choose by subject and jurisdiction: employment, AI, company administration, tax and customer subscriptions.",
+    "primary": [
+      "uk-subscription-cancellation-compliance-blueprint",
+      "the-complete-uk-right-to-work-checks-blueprint",
+      "uk-employment-rights-act-2025-compliance-blueprint",
+      "ai-compliance-for-small-business-uk-edition",
+      "ai-compliance-for-small-business-eu-edition",
+      "ai-compliance-for-small-business",
+      "the-menopause-equality-action-plan-compliance",
+      "the-making-tax-digital-survival-blueprint",
+      "the-complete-companies-house-identity-verification-compliance-blueprint-premium-edition",
+      "crypto-tax-reporting-compliance-guide"
+    ],
+    "related": [
+      "renters-rights-act-2025-landlord-compliance-blueprint"
+    ]
+  },
+  {
+    "slug": "career-and-work",
+    "title": "Career & Work",
+    "headline": "Plan your next move at work",
+    "intro": "Explore job loss, career changes, negotiation and workplace support. Check UK and US edition labels before choosing.",
+    "primary": [
+      "the-complete-menopause-at-work-blueprint",
+      "over-50-career-pack",
+      "career-pivot-pack",
+      "career-survival-pack",
+      "uk-redundancy-settlement-agreement-survival-blueprint",
+      "the-complete-over-50-job-loss-career-reinvention-blueprint-uk-edition",
+      "the-complete-over-50-job-loss-career-reinvention-blueprint-us-edition",
+      "the-ai-career-survival-and-pivot-blueprint",
+      "the-complete-layoff-severance-survival-blueprint",
+      "the-complete-salary-negotiation-blueprint"
+    ],
+    "related": [
+      "digital-nomad-visa-comparison-guide"
+    ]
+  },
+  {
+    "slug": "home-and-life",
+    "title": "Home & Life Planning",
+    "headline": "Organise important life decisions",
+    "intro": "Guides for buying a home, planning ahead, avoiding scams and managing transitions.",
+    "primary": [
+      "the-college-dorm-survival-blueprint-2026",
+      "property-buyers-complete-pack",
+      "the-complete-making-friends-as-an-adult-blueprint",
+      "the-complete-fraud-scam-prevention-blueprint-premium-edition",
+      "wills-and-power-of-attorney-guide",
+      "first-time-home-buyers-workbook"
+    ],
+    "related": [
+      "crypto-tax-reporting-compliance-guide"
+    ]
+  },
+  {
+    "slug": "lifestyle-and-travel",
+    "title": "Lifestyle & Travel",
+    "headline": "Make time for your next interest",
+    "intro": "Explore travel, outdoor interests, language and personal technology.",
+    "primary": [
+      "the-complete-rucking-blueprint",
+      "digital-nomad-visa-comparison-guide",
+      "nigerian-pidgin-english-the-afrobeats-guide",
+      "the-complete-modern-birding-for-beginners-blueprint",
+      "muse-by-meta-personal-agent-revolution"
+    ],
+    "related": [
+      "the-complete-making-friends-as-an-adult-blueprint"
+    ]
+  }
+]
