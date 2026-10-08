@@ -645,6 +645,23 @@
           "alt": "UK Subscription Cancellation Compliance Blueprint — PDF page 7"
         }
       ]
+    },
+    {
+      "handle": "practical-ai-governance-and-compliance",
+      "pageCount": 257,
+      "fileCount": 1,
+      "samples": [
+        {
+          "src": "/assets/ai-governance-sample-task.png",
+          "label": "Chapter 1: your first workplace task",
+          "alt": "Actual premium PDF page 11: Chapter 1 Your First AI Governance Assignment"
+        },
+        {
+          "src": "/assets/ai-governance-sample-reasoning.png",
+          "label": "See the worked example and reasoning",
+          "alt": "Actual premium PDF page 13: evidence questions and explained worked example"
+        }
+      ]
     }
   ]
 }

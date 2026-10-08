@@ -24,6 +24,7 @@
       "slug": "business-compliance",
       "title": "Business Compliance",
       "handles": [
+        "practical-ai-governance-and-compliance",
         "the-complete-fraud-scam-prevention-blueprint-premium-edition",
         "ai-compliance-for-small-business-uk-edition",
         "ai-compliance-for-small-business",
@@ -92,6 +93,7 @@
       "slug": "new-and-updated",
       "title": "New And Updated",
       "handles": [
+        "practical-ai-governance-and-compliance",
         "ai-compliance-for-small-business-uk-edition",
         "the-college-dorm-survival-blueprint-2026",
         "nigerian-pidgin-english-the-afrobeats-guide",
@@ -124,6 +126,13 @@
       "title": "Visa Immigration",
       "handles": [
         "digital-nomad-visa-comparison-guide"
+      ]
+    },
+    {
+      "slug": "ai-governance-and-compliance",
+      "title": "AI Governance and Compliance",
+      "handles": [
+        "practical-ai-governance-and-compliance"
       ]
     }
   ]

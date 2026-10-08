@@ -59,7 +59,8 @@
       "the-complete-uk-right-to-work-checks-blueprint",
       "uk-employment-rights-act-2025-compliance-blueprint",
       "the-menopause-equality-action-plan-compliance",
-      "muse-by-meta-personal-agent-revolution"
+      "muse-by-meta-personal-agent-revolution",
+      "practical-ai-governance-and-compliance"
     ],
     "groups": [
       {
@@ -108,7 +109,8 @@
           "ai-compliance-for-small-business-uk-edition",
           "ai-compliance-for-small-business-eu-edition",
           "ai-compliance-for-small-business",
-          "muse-by-meta-personal-agent-revolution"
+          "muse-by-meta-personal-agent-revolution",
+          "practical-ai-governance-and-compliance"
         ]
       }
     ]
@@ -119,6 +121,7 @@
     "headline": "Find guidance for your responsibilities",
     "intro": "Choose by subject and jurisdiction: employment, AI, company administration, tax and customer subscriptions.",
     "primary": [
+      "practical-ai-governance-and-compliance",
       "uk-subscription-cancellation-compliance-blueprint",
       "the-complete-uk-right-to-work-checks-blueprint",
       "uk-employment-rights-act-2025-compliance-blueprint",
@@ -151,6 +154,7 @@
       {
         "title": "AI & technology",
         "handles": [
+          "practical-ai-governance-and-compliance",
           "ai-compliance-for-small-business-uk-edition",
           "ai-compliance-for-small-business-eu-edition",
           "ai-compliance-for-small-business"

@@ -1,6 +1,31 @@
 {
   "products": [
     {
+      "id": "payhip-jixsm",
+      "handle": "practical-ai-governance-and-compliance",
+      "originalTitle": "Practical AI Governance and Compliance",
+      "title": "Practical AI Governance and Compliance — Premium PDF + Companion Resources",
+      "price": 39.99,
+      "currency": "GBP",
+      "category": "Business",
+      "priceConfirmed": true,
+      "payhipUrl": "https://payhip.com/b/jixsm",
+      "source": "Approved October 2026 publishing package; Payhip price and files verified 8 October 2026.",
+      "image": "/assets/practical-ai-governance-and-compliance.webp",
+      "description": "Build your AI governance skills one workplace task at a time. This plain-English training book by Edward Omoba develops your understanding progressively through explained worked examples, supported practice and independent assignments, with a UK and EU focus. Includes the complete 257-page premium PDF, 30 chapters across five parts, nine appendices, 36 reusable template structures and a separate companion resources ZIP.",
+      "tags": [
+        "AI governance",
+        "AI compliance",
+        "responsible AI",
+        "UK and EU",
+        "EU AI Act",
+        "risk management",
+        "professional training",
+        "NIST AI RMF",
+        "ISO/IEC 42001"
+      ]
+    },
+    {
       "originalTitle": "UK Subscription Cancellation Compliance Blueprint",
       "payhipUrl": "https://payhip.com/b/nHE5X",
       "handle": "uk-subscription-cancellation-compliance-blueprint",
