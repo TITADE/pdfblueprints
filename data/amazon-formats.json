@@ -400,5 +400,16 @@
       }
     },
     "note": "Amazon editions may differ in layout, page count, updates and included extras from this PDF. Check the edition and sample on Amazon before ordering."
+  },
+  "practical-ai-governance-and-compliance": {
+    "formats": {
+      "paperback": {
+        "url": "https://a.co/d/0074g7CX",
+        "status": "verified",
+        "verifiedAt": "2026-10-09",
+        "verification": "Publication and exact Amazon link supplied by author."
+      }
+    },
+    "note": "The Amazon paperback is a separate physical-book purchase. Check its current price, edition and included materials on Amazon. The premium PDF and companion resources ZIP are sold separately through Payhip."
   }
 }
