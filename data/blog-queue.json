@@ -43,7 +43,7 @@
       "existing": []
     }
   ],
-  "next_index": 8,
+  "next_index": 9,
   "log": [
     {
       "date": "2026-09-29",
@@ -100,6 +100,13 @@
       "handle": "the-complete-fraud-scam-prevention-blueprint-premium-edition",
       "slug": "what-to-do-first-24-hours-after-a-scam-uk-checklist",
       "angle": "first-24-hours timeline after a scam: stop loss, lock down, evidence, report, reimbursement"
+    },
+    {
+      "date": "2026-10-12",
+      "cycle": 1,
+      "handle": "uk-first-time-landlord-blueprint",
+      "slug": "letting-your-former-home-england-decision-checklist",
+      "angle": "proceed, pause or reconsider checklist for letting your former home in England"
     }
   ]
 }
