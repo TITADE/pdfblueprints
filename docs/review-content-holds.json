@@ -1,0 +1,126 @@
+{
+  "date": "2026-10-13",
+  "instruction": "Preserve original wording and mappings. Republish only after matching the actual edition and contents, regardless of rating.",
+  "holds": [
+    {
+      "id": "judgeme:14bfc31b-5ccf-4285-99d9-478d734c08e1",
+      "handle": "career-pivot-pack",
+      "reason": "Pack composition differs from current data/packs.json; confirm reviewed edition before republishing."
+    },
+    {
+      "id": "judgeme:a5ddce84-47b0-4fc1-9b2b-9251564a7923",
+      "handle": "career-pivot-pack",
+      "reason": "Pack composition differs from current data/packs.json; confirm reviewed edition before republishing."
+    },
+    {
+      "id": "judgeme:82a78c4c-bf60-453a-8b8e-94820e3e1163",
+      "handle": "career-pivot-pack",
+      "reason": "Pack composition differs from current data/packs.json; confirm reviewed edition before republishing."
+    },
+    {
+      "id": "judgeme:f29a3af9-008c-4343-b9a0-220dd78fbf37",
+      "handle": "career-pivot-pack",
+      "reason": "Pack composition differs from current data/packs.json; confirm reviewed edition before republishing."
+    },
+    {
+      "id": "judgeme:8f6ed4b6-ee3c-4afd-9710-6bb2af421bfa",
+      "handle": "career-pivot-pack",
+      "reason": "Pack composition differs from current data/packs.json; confirm reviewed edition before republishing."
+    },
+    {
+      "id": "judgeme:3787c063-3a8f-46a0-ad90-adbff99c2393",
+      "handle": "career-survival-pack",
+      "reason": "Pack composition differs from current data/packs.json; confirm reviewed edition before republishing."
+    },
+    {
+      "id": "judgeme:7c7d2ab9-cab6-47ec-8d4b-073878843693",
+      "handle": "career-survival-pack",
+      "reason": "Pack composition differs from current data/packs.json; confirm reviewed edition before republishing."
+    },
+    {
+      "id": "judgeme:5b7acbf1-eb89-4e15-a71a-e1bb0a072ef9",
+      "handle": "career-survival-pack",
+      "reason": "Pack composition differs from current data/packs.json; confirm reviewed edition before republishing."
+    },
+    {
+      "id": "judgeme:7a385792-bd08-4132-9f62-f11c7b37c770",
+      "handle": "career-survival-pack",
+      "reason": "Pack composition differs from current data/packs.json; confirm reviewed edition before republishing."
+    },
+    {
+      "id": "judgeme:df91fd72-7b45-4d25-8a33-7e2e9ada9935",
+      "handle": "career-survival-pack",
+      "reason": "Pack composition differs from current data/packs.json; confirm reviewed edition before republishing."
+    },
+    {
+      "id": "judgeme:9b0e7839-adc4-472f-9017-0aa7e595c5a3",
+      "handle": "over-50-career-pack",
+      "reason": "Pack composition differs from current data/packs.json; confirm reviewed edition before republishing."
+    },
+    {
+      "id": "judgeme:da64fadc-155b-4c5e-b385-b1e17e5751f3",
+      "handle": "over-50-career-pack",
+      "reason": "Pack composition differs from current data/packs.json; confirm reviewed edition before republishing."
+    },
+    {
+      "id": "judgeme:923a0a7b-fb92-4d9f-bec4-d4236b1e1ff5",
+      "handle": "over-50-career-pack",
+      "reason": "Pack composition differs from current data/packs.json; confirm reviewed edition before republishing."
+    },
+    {
+      "id": "judgeme:6efdc54d-86e7-45c8-a1fb-ba06ef1a940e",
+      "handle": "over-50-career-pack",
+      "reason": "Pack composition differs from current data/packs.json; confirm reviewed edition before republishing."
+    },
+    {
+      "id": "judgeme:ec8e622d-3de8-463e-8021-486cf452e79b",
+      "handle": "over-50-career-pack",
+      "reason": "Pack composition differs from current data/packs.json; confirm reviewed edition before republishing."
+    },
+    {
+      "id": "judgeme:84c227c9-1643-4744-a9b1-0676de130444",
+      "handle": "uk-business-formation-pack",
+      "reason": "Pack composition differs from current data/packs.json; confirm reviewed edition before republishing."
+    },
+    {
+      "id": "judgeme:2034e6f8-c602-4d4b-91bf-a734f483a652",
+      "handle": "uk-business-formation-pack",
+      "reason": "Pack composition differs from current data/packs.json; confirm reviewed edition before republishing."
+    },
+    {
+      "id": "judgeme:da48482d-53ad-4c43-a5ee-3e825fa58de7",
+      "handle": "uk-business-formation-pack",
+      "reason": "Pack composition differs from current data/packs.json; confirm reviewed edition before republishing."
+    },
+    {
+      "id": "judgeme:6f9da842-ab86-4087-abe2-cc29b88842df",
+      "handle": "uk-business-formation-pack",
+      "reason": "Pack composition differs from current data/packs.json; confirm reviewed edition before republishing."
+    },
+    {
+      "id": "judgeme:74f7db2b-0600-42cb-bed5-d0e8d56a089f",
+      "handle": "uk-business-formation-pack",
+      "reason": "Pack composition differs from current data/packs.json; confirm reviewed edition before republishing."
+    },
+    {
+      "id": "judgeme:61900b81-9b8f-4e0e-8baa-51902416444c",
+      "handle": "uk-limited-company-formation-guide",
+      "reason": "References unsupported page/worksheet counts or IR35 content for current 30-page edition."
+    },
+    {
+      "id": "judgeme:d0b09ee6-7a94-40f4-9a90-6742a72f36a4",
+      "handle": "uk-limited-company-formation-guide",
+      "reason": "References unsupported page/worksheet counts or IR35 content for current 30-page edition."
+    },
+    {
+      "id": "judgeme:6f080208-059f-4d28-b25e-fb8bb95cf5f4",
+      "handle": "uk-limited-company-formation-guide",
+      "reason": "References unsupported page/worksheet counts or IR35 content for current 30-page edition."
+    },
+    {
+      "id": "judgeme:e34e7cd4-c426-4f08-9524-ba98c71b2dac",
+      "handle": "uk-limited-company-formation-guide",
+      "reason": "References unsupported page/worksheet counts or IR35 content for current 30-page edition."
+    }
+  ]
+}
