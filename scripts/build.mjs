@@ -1,5 +1,8 @@
+import {readFileSync} from 'node:fs';
+import {reviews,validateReviews} from '../src/reviews.mjs';
 import {audiences,audiencePage} from '../src/audience-catalogue.mjs';
 import {mkdir,readdir,readFile,writeFile,chmod,rm} from 'node:fs/promises';
+validateReviews(reviews,JSON.parse(readFileSync(new URL('../data/products.json',import.meta.url),'utf8')).products.map(p=>p.handle));
 async function forceWrite(url,content){try{await chmod(url,0o644)}catch(e){if(e.code!=='ENOENT')throw e}try{await writeFile(url,content,{mode:0o644})}catch(e){if(e.code!=='EACCES'&&e.code!=='EPERM')throw e;await rm(url,{force:true});await writeFile(url,content,{mode:0o644})}}
 import {home,productPage,catalogue,infoPage,layout} from '../src/site.mjs';
 import {blogIndex,articlePage,collectionPage,textPage} from '../src/editorial.mjs';
