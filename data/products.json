@@ -1,6 +1,35 @@
 {
   "products": [
     {
+      "id": "burnout-recovery-blueprint",
+      "handle": "burnout-recovery-blueprint",
+      "title": "Burnout Recovery Blueprint — Premium PDF (UK Edition)",
+      "originalTitle": "Burnout Recovery Blueprint",
+      "subtitle": "A Practical System to Reclaim Your Energy and Build Sustainable Capacity",
+      "author": "Hannah Macaulay",
+      "category": "Career",
+      "price": 21,
+      "currency": "GBP",
+      "priceConfirmed": true,
+      "image": "/assets/burnout-recovery-blueprint.webp",
+      "description": "A practical, low-pressure guide for working adults facing sustained workplace stress, exhaustion and reduced capacity. Reduce demands, protect rest and rebuild gradually with 12 printable tools, workload and boundary scripts, and flexible planners.",
+      "seoTitle": "Burnout Recovery Blueprint | Practical UK Workbook & Scripts (PDF)",
+      "metaDescription": "A practical UK workbook for work-related exhaustion: reduce demands, protect rest and rebuild gradually, with 12 tools, workload scripts and flexible planners.",
+      "edition": "UK Edition v1.1 · 20 October 2026",
+      "disclaimer": "Educational information only. This guide does not diagnose or treat any condition and does not replace medical, therapeutic, employment or other professional advice.",
+      "source": "Supplied Burnout Recovery publishing package; 103-page Premium PDF, Payhip file and £21 GBP price verified 20 October 2026.",
+      "tags": [
+        "burnout recovery workbook uk",
+        "workplace burnout guide for employees",
+        "work stress and exhaustion recovery",
+        "workload and boundary conversation scripts",
+        "ai workload pressure at work",
+        "printable burnout recovery planner",
+        "burnout help for managers and freelancers"
+      ],
+      "payhipUrl": "https://payhip.com/b/2X8ut"
+    },
+    {
       "id": "payhip-jixsm",
       "handle": "practical-ai-governance-and-compliance",
       "originalTitle": "Practical AI Governance and Compliance",

@@ -33,3 +33,6 @@
 .audience-nav{display:flex;flex-wrap:wrap;gap:12px;padding-top:28px;padding-bottom:28px;border-bottom:1px solid #ddd}.audience-nav a{padding:10px 14px;border:1px solid #ddd;border-radius:6px;text-decoration:none}.audience-nav a:hover{background:#eef2ff}.audience-catalogue>p{max-width:760px;line-height:1.7}.audience-catalogue>h3{margin:32px 0 20px}.audience-catalogue .audience-related{margin-top:60px}.landing-discovery{line-height:2}
 
 .audience-intro{padding-top:28px;padding-bottom:28px}.audience-intro h2{font-size:32px}.audience-intro>p{max-width:760px;line-height:1.6}.audience-intro .micro{margin-top:26px}
+
+/* Long-form product copy is optional; keep its reading measure comfortable. */
+.pd-copy { max-width: 76ch; margin-bottom: 3rem; font-size: 1.05rem; line-height: 1.7; }

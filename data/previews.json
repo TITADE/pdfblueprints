@@ -1,6 +1,23 @@
 {
   "previews": [
     {
+      "handle": "burnout-recovery-blueprint",
+      "pageCount": 103,
+      "fileCount": 1,
+      "samples": [
+        {
+          "src": "/assets/previews/burnout-recovery-blueprint-contents.webp",
+          "label": "Explore the contents",
+          "alt": "Burnout Recovery Blueprint — actual contents page 3"
+        },
+        {
+          "src": "/assets/previews/burnout-recovery-blueprint-planner.webp",
+          "label": "Minimum Viable Day Planner",
+          "alt": "Burnout Recovery Blueprint — actual Minimum Viable Day Planner page 67"
+        }
+      ]
+    },
+    {
       "handle": "the-complete-uk-right-to-work-checks-blueprint",
       "pageCount": 73,
       "fileCount": 1,

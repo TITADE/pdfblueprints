@@ -187,6 +187,7 @@
     "headline": "Plan your next move at work",
     "intro": "Explore job loss, career changes, negotiation and workplace support. Check UK and US edition labels before choosing.",
     "primary": [
+      "burnout-recovery-blueprint",
       "the-complete-menopause-at-work-blueprint",
       "over-50-career-pack",
       "career-pivot-pack",
@@ -205,6 +206,7 @@
       {
         "title": "Workplace support",
         "handles": [
+          "burnout-recovery-blueprint",
           "the-complete-menopause-at-work-blueprint"
         ]
       },

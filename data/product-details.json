@@ -846,5 +846,42 @@
       "note": "The premium PDF and companion resources are delivered digitally through Payhip. A separate paperback edition is now available on Amazon; use the Paperback button to view it."
     },
     "source": "Approved complete book and validated publishing package, October 2026."
+  },
+  "burnout-recovery-blueprint": {
+    "heading": "Practical support<br><em>at your pace.</em>",
+    "copy": [
+      "When work has taken more than you have to give, another productivity system is the last thing you need.",
+      "Burnout Recovery Blueprint is a practical, low-pressure guide for working adults facing sustained workplace stress, exhaustion and reduced capacity. Recovery needs attention to demands, support and working conditions, not just better personal habits. This guide helps you work out what can stop, shrink, wait, be shared or be renegotiated, with realistic options when you cannot cut your hours, take time off or leave your job.",
+      "Choose your route by how you feel today. Very little energy? Start with the Minimum Viable Day Planner. Enough to reflect? Take the 10-Minute Snapshot. You never need to complete the whole workbook."
+    ],
+    "who": "Written in British English for employees, freelancers and managers, including readers with caring responsibilities, disabilities or financial pressures.",
+    "scope": "Work-related stress and exhaustion, with a secondary look at AI-related workload pressures. UK Edition v1.1 by Hannah Macaulay. Educational information only: this guide does not diagnose or treat any condition or replace professional advice.",
+    "learnHeading": "Inside the Premium PDF",
+    "learn": [
+      "12 chapters following one framework: reduce demands, support recovery, rebuild gradually",
+      "Realistic ways to reduce workload, cognitive load and conflicting expectations",
+      "Scripts for managers, clients, colleagues and home, including realistic expectations for AI-assisted work",
+      "Options when you have limited control over working hours, income or responsibilities",
+      "A Green / Amber / Red early-warning card: a personal shorthand, not a diagnosis",
+      "A 7-day gentle start and flexible 30-day support plan, with no recovery deadline",
+      "UK guidance on when to seek professional or urgent support, and on workplace adjustments",
+      "Clickable contents and 103 A4 pages, ready to print"
+    ],
+    "incTitle": "12 printable tools included",
+    "inc": [
+      "10-Minute Burnout Snapshot — non-diagnostic self-reflection",
+      "Minimum Viable Day Planner",
+      "Energy & Load Audit",
+      "Sleep and Rest Support Plan",
+      "Boundary and Workload Conversation Scripts",
+      "Cognitive Load Reduction Checklist",
+      "Values, Identity, and Control Clarifier",
+      "7-Day Gentle Start Guide",
+      "Weekly Capacity Review",
+      "Your Next 30 Days: A Flexible Support Plan",
+      "Early Warning Signs and Response Card",
+      "What Do I Need Next? Quick Decision Guide"
+    ],
+    "source": "Supplied Store listing metadata and 103-page Premium Store PDF. Tools 1–3 are core; remaining tools are optional."
   }
 }
