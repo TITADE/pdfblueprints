@@ -36,3 +36,9 @@
 
 /* Long-form product copy is optional; keep its reading measure comfortable. */
 .pd-copy { max-width: 76ch; margin-bottom: 3rem; font-size: 1.05rem; line-height: 1.7; }
+
+/* Secondary format purchases: clear, accessible Amazon actions. */
+.amazon-buttons .amazon-format-link{background:#ffca70;color:#14213d;border:2px solid #d18a20;font-weight:700;box-shadow:0 2px 0 #d18a20;min-height:48px;gap:12px;line-height:1.4}
+.amazon-buttons .amazon-format-link:hover{background:#ffb743;color:#14213d;border-color:#9e6512}
+.amazon-buttons .amazon-format-link:focus-visible{outline:3px solid #2457f5;outline-offset:4px}
+@media(max-width:600px){.amazon-buttons{display:grid;grid-template-columns:1fr}.amazon-buttons .amazon-format-link{width:100%;padding:14px 16px;font-size:15px}}
