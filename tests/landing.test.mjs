@@ -14,7 +14,7 @@ for(const page of landingPages)test(page.slug+' has valid product, preview and p
  assert.ok(html.indexOf('id="options"')<html.indexOf('id="all-guides"'));
  for(const sample of page.samples)assert.ok(existsSync('public'+sample.src));
  for(const handle of [page.featured,page.pack||page.comparison])assert.ok(html.includes(products.find(p=>p.handle===handle).payhipUrl));
- if(page.pack){const packs=JSON.parse(readFileSync('data/packs.json'));const saving=packs[page.pack].reduce((n,h)=>n+products.find(p=>p.handle===h).price,0)-products.find(p=>p.handle===page.pack).price;assert.ok(html.includes('SAVE £'+saving));}
+ if(page.pack){const packs=JSON.parse(readFileSync('data/packs.json'));const saving=packs[page.pack].reduce((n,h)=>n+products.find(p=>p.handle===h).price,0)-products.find(p=>p.handle===page.pack).price;assert.ok(html.includes('SAVE £'+saving.toFixed(2)));}
  else {assert.ok(!html.includes('SAVE £'));assert.ok(html.includes('SEPARATE PURCHASE'));}
  for(const section of ['lp-hero','lp-three','lp-benefits','lp-previews','lp-included','lp-offers','lp-trust','lp-faq','lp-final'])assert.ok(html.includes(section),section);
  assert.equal(page.situations.length,3);assert.equal(page.benefits.length,4);assert.equal(page.samples.length,2);
