@@ -8,7 +8,7 @@
       "subtitle": "A Practical System to Reclaim Your Energy and Build Sustainable Capacity",
       "author": "Hannah Macaulay",
       "category": "Career",
-      "price": 21,
+      "price": 14.99,
       "currency": "GBP",
       "priceConfirmed": true,
       "image": "/assets/burnout-recovery-blueprint.webp",
@@ -17,7 +17,7 @@
       "metaDescription": "A practical UK workbook for work-related exhaustion: reduce demands, protect rest and rebuild gradually, with 12 tools, workload scripts and flexible planners.",
       "edition": "UK Edition v1.1 · 20 October 2026",
       "disclaimer": "Educational information only. This guide does not diagnose or treat any condition and does not replace medical, therapeutic, employment or other professional advice.",
-      "source": "Supplied Burnout Recovery publishing package; 103-page Premium PDF, Payhip file and £21 GBP price verified 20 October 2026.",
+      "source": "Supplied Burnout Recovery publishing package; 103-page Premium PDF and Payhip file verified 20 October 2026. GBP price reviewed and saved in Payhip 21 October 2026.",
       "tags": [
         "burnout recovery workbook uk",
         "workplace burnout guide for employees",
@@ -27,14 +27,15 @@
         "printable burnout recovery planner",
         "burnout help for managers and freelancers"
       ],
-      "payhipUrl": "https://payhip.com/b/2X8ut"
+      "payhipUrl": "https://payhip.com/b/2X8ut",
+      "purchaseBenefits": "Includes 12 printable tools, workload and boundary scripts, and flexible planners in one 103-page PDF. Print the pages you need and return to them as your capacity changes."
     },
     {
       "id": "payhip-jixsm",
       "handle": "practical-ai-governance-and-compliance",
       "originalTitle": "Practical AI Governance and Compliance",
       "title": "Practical AI Governance and Compliance — Premium PDF + Companion Resources",
-      "price": 39.99,
+      "price": 29.99,
       "currency": "GBP",
       "category": "Business",
       "priceConfirmed": true,
@@ -52,7 +53,8 @@
         "professional training",
         "NIST AI RMF",
         "ISO/IEC 42001"
-      ]
+      ],
+      "purchaseBenefits": "Your £29.99 package includes the 257-page training PDF plus a separate companion resources ZIP. Work through explained examples, practice assignments and model answers, with 36 reusable template structures."
     },
     {
       "originalTitle": "UK Subscription Cancellation Compliance Blueprint",
@@ -71,13 +73,14 @@
       "id": "payhip-nHE5X",
       "image": "/assets/uk-subscription-cancellation-compliance-blueprint.webp",
       "description": "A practical guide to the UK subscription-contract regime, with disclosure checklists, reminder templates, cancellation workflows, six worksheets and a self-audit scorecard.",
-      "category": "Business"
+      "category": "Business",
+      "priceConfirmed": true
     },
     {
       "originalTitle": "The Complete UK Right to Work Checks Blueprint",
       "payhipUrl": "https://payhip.com/b/GXeL3",
       "handle": "the-complete-uk-right-to-work-checks-blueprint",
-      "price": 15,
+      "price": 14.99,
       "currency": "GBP",
       "title": "UK Right to Work Checks Blueprint",
       "tags": [
@@ -96,13 +99,14 @@
       "id": 10636986450186,
       "image": "/assets/the-complete-uk-right-to-work-checks-blueprint.webp",
       "description": "From 1 October 2026, the UK’s right to work checking regime stops being just an HR formality for direct employees — and starts reaching into contractor chains, gig platforms, and agency staffing arrangements that most employers have never audited.",
-      "category": "Business"
+      "category": "Business",
+      "priceConfirmed": true
     },
     {
       "originalTitle": "UK Employment Rights Act 2025 Compliance Blueprint",
       "payhipUrl": "https://payhip.com/b/D3stx",
       "handle": "uk-employment-rights-act-2025-compliance-blueprint",
-      "price": 15,
+      "price": 14.99,
       "currency": "GBP",
       "title": "UK Employment Rights Act 2025 Compliance Blueprint",
       "tags": [
@@ -121,13 +125,14 @@
       "id": 10634042736906,
       "image": "/assets/uk-employment-rights-act-2025-compliance-blueprint.webp",
       "description": "The Employment Rights Act 2025 has already changed twice since its original roadmap — and it isn't finished changing. If your compliance guide still cites the July 2025 timetable, it's already wrong.  This is a 29-chapter, date-by-date workbook — not a general employment law textbook, but a working system organised around exactly when each change lands, whether it's already live, confirmed for this autumn, or still subject to consultation. Every chapter follows the same structure: what changed, step-by-step actions, a worked example with real numbers, common mistakes, the documents and evidence you need to keep, and a fixed applicability check — so you always know exactly whether a change affects you and what to do about it. Fully updated as of this edition, this guide covers:",
-      "category": "Business"
+      "category": "Business",
+      "priceConfirmed": true
     },
     {
       "originalTitle": "Importing from China to the UK: The Complete Step-by-Step Blueprint for First-Time Importers",
       "payhipUrl": "https://payhip.com/b/Aq1xo",
       "handle": "importing-from-china-to-the-uk-the-complete-step-by-step-blueprint-for-first-time-importers",
-      "price": 15,
+      "price": 14.99,
       "currency": "GBP",
       "title": "Importing from China to the UK: The Complete Step-by-Step Blueprint for First-Time Importers",
       "tags": [
@@ -141,13 +146,14 @@
       "id": 10626633007370,
       "image": "/assets/importing-from-china-to-the-uk-the-complete-step-by-step-blueprint-for-first-time-importers.webp",
       "description": "Importing from China to the UK doesn't have to mean guessing your way through customs, hoping your margin survives the crossing, or discovering a compliance problem after your goods are already stuck at the border.",
-      "category": "Business"
+      "category": "Business",
+      "priceConfirmed": true
     },
     {
       "originalTitle": "The Complete Rucking Blueprint",
       "payhipUrl": "https://payhip.com/b/HdCsU",
       "handle": "the-complete-rucking-blueprint",
-      "price": 21,
+      "price": 9.99,
       "currency": "GBP",
       "title": "Rucking Blueprint",
       "tags": [
@@ -166,13 +172,14 @@
       "id": 10607665873162,
       "image": "/assets/the-complete-rucking-blueprint.webp",
       "description": "Most people who want to get fitter, stronger, and leaner don't need another gym programme. They need a weighted backpack and a plan.",
-      "category": "Life"
+      "category": "Life",
+      "priceConfirmed": true
     },
     {
       "originalTitle": "AI Compliance for Small Business (UK Edition)",
       "payhipUrl": "https://payhip.com/b/ryVhL",
       "handle": "ai-compliance-for-small-business-uk-edition",
-      "price": 21,
+      "price": 14.99,
       "currency": "GBP",
       "title": "AI Compliance for Small Business (UK Edition)",
       "tags": [
@@ -186,13 +193,14 @@
       "id": 10605224722698,
       "image": "/assets/ai-compliance-for-small-business-uk-edition.webp",
       "description": "The UK made a deliberate policy choice not to pass an AI Act. What replaced it is arguably more complicated: UK GDPR substantially reformed in February 2026, a patchwork of sector regulators, and an ICO Code of Practice the regulator is legally required to write — but hasn't published yet. If you're using AI in your business, you're already operating inside this framework whether you know it or not.",
-      "category": "Business"
+      "category": "Business",
+      "priceConfirmed": true
     },
     {
       "originalTitle": "AI Compliance for Small Business (EU Edition)",
       "payhipUrl": "https://payhip.com/b/zlgiV",
       "handle": "ai-compliance-for-small-business-eu-edition",
-      "price": 21,
+      "price": 14.99,
       "currency": "GBP",
       "title": "AI Compliance for Small Business (EU Edition)",
       "tags": [
@@ -206,13 +214,14 @@
       "id": 10605082018058,
       "image": "/assets/ai-compliance-for-small-business-eu-edition.webp",
       "description": "If your AI tool's output reaches an EU customer, you're likely in scope. And the rules just changed: a major 2026 amendment (the Digital Omnibus) pushed the high-risk compliance deadline back to December 2027 — but the chatbot-disclosure rules that most small businesses will actually hit stayed on their original August 2026 date. The window to act is now.",
-      "category": "Business"
+      "category": "Business",
+      "priceConfirmed": true
     },
     {
       "originalTitle": "AI Compliance for Small Business",
       "payhipUrl": "https://payhip.com/b/h0z3N",
       "handle": "ai-compliance-for-small-business",
-      "price": 21,
+      "price": 14.99,
       "currency": "GBP",
       "title": "AI Compliance for Small Business",
       "tags": [
@@ -226,13 +235,14 @@
       "id": 10605051281674,
       "image": "/assets/ai-compliance-for-small-business.webp",
       "description": "Every day you use ChatGPT, an AI hiring platform, or a website chatbot without clear guardrails, you're taking on liability you probably haven't measured. State legislatures are enacting AI-related laws at an unprecedented pace in 2026 — privacy rules, biometric-consent statutes, chatbot-disclosure mandates, and AI transparency requirements are spreading state by state. Ignorance of which ones apply to you is not a defence.",
-      "category": "Business"
+      "category": "Business",
+      "priceConfirmed": true
     },
     {
       "originalTitle": "Digital Nomad Visa Comparison Guide",
       "payhipUrl": "https://payhip.com/b/AXWrx",
       "handle": "digital-nomad-visa-comparison-guide",
-      "price": 21,
+      "price": 12.99,
       "currency": "GBP",
       "title": "Digital Nomad Visa Comparison Guide",
       "tags": [
@@ -247,13 +257,14 @@
       "id": 10580174471434,
       "image": "/assets/digital-nomad-visa-comparison-guide.webp",
       "description": "Most remote workers who want to live abroad get stuck at the same point — they don't know which visa they actually qualify for, what it will cost, or how it affects their taxes.",
-      "category": "Travel"
+      "category": "Travel",
+      "priceConfirmed": true
     },
     {
       "originalTitle": "The College Dorm Survival Blueprint 2026",
       "payhipUrl": "https://payhip.com/b/CK0jS",
       "handle": "the-college-dorm-survival-blueprint-2026",
-      "price": 21,
+      "price": 9.99,
       "currency": "GBP",
       "title": "College Dorm Survival Blueprint 2026",
       "tags": [
@@ -282,13 +293,14 @@
       "id": 10602578051338,
       "image": "/assets/the-college-dorm-survival-blueprint-2026.webp",
       "description": "Moving into halls of residence or a US dorm is one of the biggest transitions of your life — and most students arrive underprepared, overspending, and overwhelmed within the first two weeks.",
-      "category": "Life"
+      "category": "Life",
+      "priceConfirmed": true
     },
     {
       "originalTitle": "The Menopause & Equality Action Plan Compliance",
       "payhipUrl": "https://payhip.com/b/OLbrf",
       "handle": "the-menopause-equality-action-plan-compliance",
-      "price": 21,
+      "price": 14.99,
       "currency": "GBP",
       "title": "Menopause & Equality Action Plan Compliance",
       "tags": [
@@ -302,13 +314,15 @@
       "id": 10598398558474,
       "image": "/assets/the-menopause-equality-action-plan-compliance.webp",
       "description": "Most employers aren't ready for the new Equality Action Plan regime — and the cost of getting it wrong is uncapped.",
-      "category": "Business"
+      "category": "Business",
+      "purchaseBenefits": "Includes policy and risk-assessment templates, manager conversation scripts, a compliance checklist and a 90-day readiness plan within the PDF.",
+      "priceConfirmed": true
     },
     {
       "originalTitle": "The Complete Menopause at Work Blueprint",
       "payhipUrl": "https://payhip.com/b/6mE7a",
       "handle": "the-complete-menopause-at-work-blueprint",
-      "price": 21,
+      "price": 12.99,
       "currency": "GBP",
       "title": "Menopause at Work Blueprint",
       "tags": [
@@ -322,13 +336,15 @@
       "id": 10598379651338,
       "image": "/assets/the-complete-menopause-at-work-blueprint.webp",
       "description": "Menopause symptoms are affecting your work — and you have more legal protection than most people realise.",
-      "category": "Career"
+      "category": "Career",
+      "purchaseBenefits": "Includes manager and HR conversation scripts, worksheets, trackers and staged action plans within the PDF.",
+      "priceConfirmed": true
     },
     {
       "originalTitle": "The Making Tax Digital Survival Blueprint – UK Edition",
       "payhipUrl": "https://payhip.com/b/9ASDz",
       "handle": "the-making-tax-digital-survival-blueprint",
-      "price": 21,
+      "price": 14.99,
       "currency": "GBP",
       "title": "Making Tax Digital Survival Blueprint – UK Edition",
       "tags": [
@@ -338,13 +354,15 @@
       "id": 10596939202826,
       "image": "/assets/the-making-tax-digital-survival-blueprint.webp",
       "description": "HMRC's Making Tax Digital for Income Tax is rolling out from April 2026 — and if you're a sole trader, landlord, or side hustler earning over £20,000, it changes how you report to HMRC every quarter, not just once a year.",
-      "category": "Business"
+      "category": "Business",
+      "purchaseBenefits": "Includes decision trees, submission checklists, record-keeping templates and a compliance dashboard within the PDF.",
+      "priceConfirmed": true
     },
     {
       "originalTitle": "Property Buyer's Complete Pack",
       "payhipUrl": "https://payhip.com/b/wRhke",
       "handle": "property-buyers-complete-pack",
-      "price": 31,
+      "price": 20.99,
       "currency": "GBP",
       "title": "Property Buyer's Complete Pack",
       "tags": [],
@@ -352,13 +370,15 @@
       "id": 10596228137226,
       "image": "/assets/property-buyers-complete-pack.webp",
       "description": "Buy your first home with confidence — bundled together at a lower price than buying each guide separately.",
-      "category": "Packs"
+      "category": "Packs",
+      "packDiscountPercent": 25,
+      "priceConfirmed": true
     },
     {
       "originalTitle": "Over-50 Career Pack",
       "payhipUrl": "https://payhip.com/b/MVS5t",
       "handle": "over-50-career-pack",
-      "price": 31,
+      "price": 19.49,
       "currency": "GBP",
       "title": "Over-50 Career Pack",
       "tags": [],
@@ -366,13 +386,15 @@
       "id": 10596224893194,
       "image": "/assets/over-50-career-pack.webp",
       "description": "Lost your job after 50? Beat age bias and plan your next chapter — bundled together at a lower price than buying each guide separately.",
-      "category": "Packs"
+      "category": "Packs",
+      "packDiscountPercent": 25,
+      "priceConfirmed": true
     },
     {
       "originalTitle": "Career Pivot Pack",
       "payhipUrl": "https://payhip.com/b/jpXnJ",
       "handle": "career-pivot-pack",
-      "price": 31,
+      "price": 19.49,
       "currency": "GBP",
       "title": "Career Pivot Pack",
       "tags": [],
@@ -380,13 +402,15 @@
       "id": 10596220371210,
       "image": "/assets/career-pivot-pack.webp",
       "description": "Ready to change direction with confidence? Bundled together at a lower price than buying each guide separately.",
-      "category": "Packs"
+      "category": "Packs",
+      "packDiscountPercent": 25,
+      "priceConfirmed": true
     },
     {
       "originalTitle": "Career Survival Pack",
       "payhipUrl": "https://payhip.com/b/qhToi",
       "handle": "career-survival-pack",
-      "price": 31,
+      "price": 19.49,
       "currency": "GBP",
       "title": "Career Survival Pack",
       "tags": [],
@@ -394,13 +418,15 @@
       "id": 10596216865034,
       "image": "/assets/career-survival-pack.webp",
       "description": "Navigate redundancy, negotiate your exit, and protect your income — bundled together at a lower price than buying each guide separately.",
-      "category": "Packs"
+      "category": "Packs",
+      "packDiscountPercent": 25,
+      "priceConfirmed": true
     },
     {
       "originalTitle": "UK Business Formation Pack",
       "payhipUrl": "https://payhip.com/b/83kPr",
       "handle": "uk-business-formation-pack",
-      "price": 31,
+      "price": 22.49,
       "currency": "GBP",
       "title": "UK Business Formation Pack",
       "tags": [],
@@ -408,13 +434,15 @@
       "id": 10596212998410,
       "image": "/assets/uk-business-formation-pack.webp",
       "description": "Form and run your UK business with confidence — bundled together at a lower price than buying each guide separately.",
-      "category": "Packs"
+      "category": "Packs",
+      "packDiscountPercent": 25,
+      "priceConfirmed": true
     },
     {
       "originalTitle": "UK Landlord Starter Pack",
       "payhipUrl": "https://payhip.com/b/prx4y",
       "handle": "uk-landlord-starter-pack",
-      "price": 31,
+      "price": 22.49,
       "currency": "GBP",
       "title": "UK Landlord Starter Pack (England)",
       "tags": [],
@@ -422,13 +450,15 @@
       "id": 10596025762058,
       "image": "/assets/uk-landlord-starter-pack.webp",
       "description": "Two practical guides for first-time landlords in England, bundled at a lower price than buying each guide separately.",
-      "category": "Packs"
+      "category": "Packs",
+      "packDiscountPercent": 25,
+      "priceConfirmed": true
     },
     {
       "originalTitle": "The Complete Making Friends as an Adult Blueprint",
       "payhipUrl": "https://payhip.com/b/CMvro",
       "handle": "the-complete-making-friends-as-an-adult-blueprint",
-      "price": 21,
+      "price": 9.99,
       "currency": "GBP",
       "title": "Making Friends as an Adult Blueprint",
       "tags": [
@@ -443,13 +473,14 @@
       "id": 10595778789642,
       "image": "/assets/the-complete-making-friends-as-an-adult-blueprint.webp",
       "description": "Making friends as an adult can feel surprisingly difficult — but meeting more people is only part of the solution.",
-      "category": "Life"
+      "category": "Life",
+      "priceConfirmed": true
     },
     {
       "originalTitle": "The Complete Redundancy & Settlement Agreement Survival Blueprint – UK Edition",
       "payhipUrl": "https://payhip.com/b/7HkAD",
       "handle": "uk-redundancy-settlement-agreement-survival-blueprint",
-      "price": 21,
+      "price": 12.99,
       "currency": "GBP",
       "title": "Redundancy & Settlement Agreement Survival Blueprint – UK Edition",
       "tags": [
@@ -464,13 +495,15 @@
       "id": 10595354378506,
       "image": "/assets/uk-redundancy-settlement-agreement-survival-blueprint.webp",
       "description": "Facing redundancy in the UK? Know your rights, protect your money, and negotiate a better exit.",
-      "category": "Career"
+      "category": "Career",
+      "purchaseBenefits": "Includes practical checklists, worksheets, calculation tools and negotiation aids within the PDF to help you organise decisions and prepare questions.",
+      "priceConfirmed": true
     },
     {
       "originalTitle": "Nigerian Pidgin English: The Afrobeats Guide",
       "payhipUrl": "https://payhip.com/b/bnK9Z",
       "handle": "nigerian-pidgin-english-the-afrobeats-guide",
-      "price": 21,
+      "price": 9.99,
       "currency": "GBP",
       "title": "Nigerian Pidgin English: The Afrobeats Guide",
       "tags": [
@@ -485,13 +518,14 @@
       "id": 10595142795530,
       "image": "/assets/nigerian-pidgin-english-the-afrobeats-guide.webp",
       "description": "You know every Afrobeats track — but half the lyrics? Still a mystery.",
-      "category": "Life"
+      "category": "Life",
+      "priceConfirmed": true
     },
     {
       "originalTitle": "The Complete Modern Birding for Beginners Blueprint",
       "payhipUrl": "https://payhip.com/b/XTOtZ",
       "handle": "the-complete-modern-birding-for-beginners-blueprint",
-      "price": 21,
+      "price": 9.99,
       "currency": "GBP",
       "title": "Modern Birding for Beginners Blueprint",
       "tags": [
@@ -506,13 +540,14 @@
       "id": 10595086500106,
       "image": "/assets/the-complete-modern-birding-for-beginners-blueprint.webp",
       "description": "You don't need to know hundreds of bird species to become a birder. You just need to know what to look for.",
-      "category": "Life"
+      "category": "Life",
+      "priceConfirmed": true
     },
     {
       "originalTitle": "The Complete Renters' Rights Act 2025 Compliance Blueprint — 2026 Edition",
       "payhipUrl": "https://payhip.com/b/ANeMh",
       "handle": "renters-rights-act-2025-landlord-compliance-blueprint",
-      "price": 21,
+      "price": 14.99,
       "currency": "GBP",
       "title": "Renters' Rights Act 2025 Compliance Blueprint — 2026 Edition",
       "tags": [
@@ -534,13 +569,15 @@
       "id": 10592349094154,
       "image": "/assets/renters-rights-act-2025-landlord-compliance-blueprint.webp",
       "description": "The biggest change to private renting in England in a generation is now in force. Is your landlord operation compliant?",
-      "category": "Property"
+      "category": "Property",
+      "purchaseBenefits": "Includes tenancy audits, evidence checklists, complaint workflows and a 30-day action plan within the PDF for private landlords in England.",
+      "priceConfirmed": true
     },
     {
       "originalTitle": "The Complete Companies House Identity Verification Compliance Blueprint – Premium Edition",
       "payhipUrl": "https://payhip.com/b/BVaZ3",
       "handle": "the-complete-companies-house-identity-verification-compliance-blueprint-premium-edition",
-      "price": 21,
+      "price": 14.99,
       "currency": "GBP",
       "title": "Companies House Identity Verification Compliance Blueprint",
       "tags": [
@@ -554,13 +591,14 @@
       "id": 10591726829834,
       "image": "/assets/the-complete-companies-house-identity-verification-compliance-blueprint-premium-edition.webp",
       "description": "Companies House identity verification is now a legal requirement for UK company directors and PSCs. Are you ready?",
-      "category": "Business"
+      "category": "Business",
+      "priceConfirmed": true
     },
     {
       "originalTitle": "The Complete Over-50 Job Loss & Career Reinvention Blueprint (UK Edition)",
       "payhipUrl": "https://payhip.com/b/17Hil",
       "handle": "the-complete-over-50-job-loss-career-reinvention-blueprint-uk-edition",
-      "price": 21,
+      "price": 12.99,
       "currency": "GBP",
       "title": "Over-50 Job Loss & Career Reinvention Blueprint (UK Edition)",
       "tags": [
@@ -574,13 +612,14 @@
       "id": 10590076797194,
       "image": "/assets/the-complete-over-50-job-loss-career-reinvention-blueprint-uk-edition.webp",
       "description": "You're not too old. The system is just built to make you feel that way.",
-      "category": "Career"
+      "category": "Career",
+      "priceConfirmed": true
     },
     {
       "originalTitle": "The Complete Over-50 Job Loss & Career Reinvention Blueprint (US Edition)",
       "payhipUrl": "https://payhip.com/b/wGahu",
       "handle": "the-complete-over-50-job-loss-career-reinvention-blueprint-us-edition",
-      "price": 21,
+      "price": 14.99,
       "currency": "GBP",
       "title": "Over-50 Job Loss & Career Reinvention Blueprint (US Edition)",
       "tags": [
@@ -594,13 +633,15 @@
       "id": 10590076502282,
       "image": "/assets/the-complete-over-50-job-loss-career-reinvention-blueprint-us-edition.webp",
       "description": "You're not too old. The system is just built to make you feel that way.",
-      "category": "Career"
+      "category": "Career",
+      "purchaseBenefits": "Includes 24 worksheets and calculators and 14 scripts within the PDF, covering financial runway, healthcare comparisons, negotiation and consulting rates.",
+      "priceConfirmed": true
     },
     {
       "originalTitle": "The AI Career Survival and Pivot Blueprint",
       "payhipUrl": "https://payhip.com/b/YF5Ly",
       "handle": "the-ai-career-survival-and-pivot-blueprint",
-      "price": 21,
+      "price": 12.99,
       "currency": "GBP",
       "title": "AI Career Survival and Pivot Blueprint",
       "tags": [
@@ -614,13 +655,15 @@
       "id": 10589453549834,
       "image": "/assets/the-ai-career-survival-and-pivot-blueprint.webp",
       "description": "The AI Career Survival & Pivot Blueprint    Premium Edition",
-      "category": "Career"
+      "category": "Career",
+      "purchaseBenefits": "Includes a 20-item toolkit, 14 conversation scripts and 12 AI prompts within the PDF, alongside a framework for deciding whether to stay, adapt or pivot.",
+      "priceConfirmed": true
     },
     {
       "originalTitle": "The Complete Layoff & Severance Survival Blueprint",
       "payhipUrl": "https://payhip.com/b/UZdbr",
       "handle": "the-complete-layoff-severance-survival-blueprint",
-      "price": 21,
+      "price": 12.99,
       "currency": "GBP",
       "title": "Layoff & Severance Survival Blueprint",
       "tags": [
@@ -634,13 +677,14 @@
       "id": 10589372383498,
       "image": "/assets/the-complete-layoff-severance-survival-blueprint.webp",
       "description": "The Complete Layoff & Severance Survival Blueprint    Premium Edition",
-      "category": "Career"
+      "category": "Career",
+      "priceConfirmed": true
     },
     {
       "originalTitle": "The Complete Salary Negotiation Blueprint",
       "payhipUrl": "https://payhip.com/b/Dxwn2",
       "handle": "the-complete-salary-negotiation-blueprint",
-      "price": 21,
+      "price": 12.99,
       "currency": "GBP",
       "title": "Salary Negotiation Blueprint",
       "tags": [
@@ -654,13 +698,14 @@
       "id": 10589352624394,
       "image": "/assets/the-complete-salary-negotiation-blueprint.webp",
       "description": "The Complete Salary Negotiation Blueprint    Premium Edition",
-      "category": "Career"
+      "category": "Career",
+      "priceConfirmed": true
     },
     {
       "originalTitle": "The Complete Fraud and Scam Prevention Blueprint – Premium Edition",
       "payhipUrl": "https://payhip.com/b/ApDtM",
       "handle": "the-complete-fraud-scam-prevention-blueprint-premium-edition",
-      "price": 21,
+      "price": 9.99,
       "currency": "GBP",
       "title": "Fraud and Scam Prevention Blueprint",
       "tags": [
@@ -674,13 +719,14 @@
       "id": 10587291582730,
       "image": "/assets/the-complete-fraud-scam-prevention-blueprint-premium-edition.webp",
       "description": "Most people who get scammed aren't careless — they just didn't know what to look for until it was too late.",
-      "category": "Life"
+      "category": "Life",
+      "priceConfirmed": true
     },
     {
       "originalTitle": "The Complete Crypto Tax Reporting & Compliance Guide – Premium Edition",
       "payhipUrl": "https://payhip.com/b/PY4jl",
       "handle": "crypto-tax-reporting-compliance-guide",
-      "price": 21,
+      "price": 14.99,
       "currency": "GBP",
       "title": "Crypto Tax Reporting & Compliance Guide",
       "tags": [
@@ -699,13 +745,15 @@
       "id": 10581554528522,
       "image": "/assets/crypto-tax-reporting-compliance-guide.webp",
       "description": "In 2026, exchanges are sharing your transaction data directly with tax authorities in 75+ countries — whether you're ready or not. Most crypto holders aren't.",
-      "category": "Business"
+      "category": "Business",
+      "purchaseBenefits": "Includes transaction and cost-basis worksheets, an audit-response checklist and a year-end dashboard within the PDF.",
+      "priceConfirmed": true
     },
     {
       "originalTitle": "The Complete Wills & Power of Attorney Guide - Premium Edition",
       "payhipUrl": "https://payhip.com/b/krOlL",
       "handle": "wills-and-power-of-attorney-guide",
-      "price": 21,
+      "price": 12.99,
       "currency": "GBP",
       "title": "Wills & Power of Attorney Guide",
       "tags": [
@@ -720,13 +768,14 @@
       "id": 10580182073610,
       "image": "/assets/wills-and-power-of-attorney-guide.webp",
       "description": "Most people put off making a will because it feels complicated. Without one, the law decides what happens to your money, your home, and your children — not you.",
-      "category": "Life"
+      "category": "Life",
+      "priceConfirmed": true
     },
     {
       "originalTitle": "First-Time Home Buyer's Workbook - Premium Edition",
       "payhipUrl": "https://payhip.com/b/yf296",
       "handle": "first-time-home-buyers-workbook",
-      "price": 21,
+      "price": 12.99,
       "currency": "GBP",
       "title": "First-Time Home Buyer's Workbook",
       "tags": [
@@ -741,13 +790,14 @@
       "id": 10580176208138,
       "image": "/assets/first-time-home-buyers-workbook.webp",
       "description": "Buy your first home with confidence — and avoid the mistakes that cost thousands.",
-      "category": "Property"
+      "category": "Property",
+      "priceConfirmed": true
     },
     {
       "originalTitle": "The Complete First-Time Landlord Blueprint – UK Edition",
       "payhipUrl": "https://payhip.com/b/p0Bvr",
       "handle": "uk-first-time-landlord-blueprint",
-      "price": 21,
+      "price": 14.99,
       "currency": "GBP",
       "title": "First-Time Landlord Blueprint – UK Edition (England)",
       "tags": [
@@ -764,13 +814,15 @@
       "id": 10580647346442,
       "image": "/assets/uk-first-time-landlord-blueprint.webp",
       "description": "A practical guide to preparing, letting and managing your first rental property in England.",
-      "category": "Property"
+      "category": "Property",
+      "purchaseBenefits": "Includes seven worksheets, 15 templates and a 90-day action plan within the PDF, covering preparation, letting and ongoing management in England.",
+      "priceConfirmed": true
     },
     {
       "originalTitle": "The Complete First-Time Landlord Blueprint – US Edition",
       "payhipUrl": "https://payhip.com/b/me0nf",
       "handle": "us-first-time-landlord-blueprint",
-      "price": 21,
+      "price": 14.99,
       "currency": "GBP",
       "title": "First-Time Landlord Blueprint – US Edition",
       "tags": [
@@ -784,13 +836,15 @@
       "id": 10580648132874,
       "image": "/assets/us-first-time-landlord-blueprint.webp",
       "description": "Become a confident US landlord — without the costly mistakes.",
-      "category": "Property"
+      "category": "Property",
+      "purchaseBenefits": "Includes seven worksheets, 15 templates and a 90-day action plan within the PDF, covering preparation, letting and ongoing US landlord responsibilities.",
+      "priceConfirmed": true
     },
     {
       "originalTitle": "The Complete USA LLC Formation Guide - Premium Edition",
       "payhipUrl": "https://payhip.com/b/RCt8c",
       "handle": "usa-llc-formation-guide",
-      "price": 21,
+      "price": 14.99,
       "currency": "GBP",
       "title": "USA LLC Formation Guide",
       "tags": [
@@ -804,13 +858,14 @@
       "id": 10580177223946,
       "image": "/assets/usa-llc-formation-guide.webp",
       "description": "Most first-time business owners choose the wrong structure, file in the wrong state, or miss compliance deadlines they didn't know existed. This guide fixes that.",
-      "category": "Business"
+      "category": "Business",
+      "priceConfirmed": true
     },
     {
       "originalTitle": "The Complete UK Limited Company Formation Guide - Premium Edition",
       "payhipUrl": "https://payhip.com/b/D8kfc",
       "handle": "uk-limited-company-formation-guide",
-      "price": 21,
+      "price": 14.99,
       "currency": "GBP",
       "title": "UK Limited Company Formation Guide",
       "tags": [
@@ -824,12 +879,13 @@
       "id": 10580177813770,
       "image": "/assets/uk-limited-company-formation-guide.webp",
       "description": "Set up your UK Limited Company the right way — without the expensive mistakes.",
-      "category": "Business"
+      "category": "Business",
+      "priceConfirmed": true
     },
     {
       "payhipUrl": "https://payhip.com/b/eC0up",
       "handle": "muse-by-meta-personal-agent-revolution",
-      "price": 21,
+      "price": 9.99,
       "currency": "GBP",
       "priceConfirmed": true,
       "title": "Muse by Meta: The Personal Agent Revolution",
