@@ -1,3 +1,4 @@
+import {checkoutUrl} from '../src/purchase-summary.mjs';
 import test from 'node:test';
 import assert from 'node:assert/strict';
 import {readFileSync,existsSync} from 'node:fs';
@@ -13,7 +14,7 @@ for(const page of landingPages)test(page.slug+' has valid product, preview and p
  assert.ok(html.indexOf('id="preview"')<html.indexOf('id="all-guides"'));
  assert.ok(html.indexOf('id="options"')<html.indexOf('id="all-guides"'));
  for(const sample of page.samples)assert.ok(existsSync('public'+sample.src));
- for(const handle of [page.featured,page.pack||page.comparison])assert.ok(html.includes(products.find(p=>p.handle===handle).payhipUrl));
+ for(const handle of [page.featured,page.pack||page.comparison])assert.ok(html.includes(checkoutUrl(products.find(p=>p.handle===handle).payhipUrl).replaceAll("&","&amp;")));
  if(page.pack){const packs=JSON.parse(readFileSync('data/packs.json'));const saving=packs[page.pack].reduce((n,h)=>n+products.find(p=>p.handle===h).price,0)-products.find(p=>p.handle===page.pack).price;assert.ok(html.includes('SAVE £'+saving.toFixed(2)));}
  else {assert.ok(!html.includes('SAVE £'));assert.ok(html.includes('SEPARATE PURCHASE'));}
  for(const section of ['lp-hero','lp-three','lp-benefits','lp-previews','lp-included','lp-offers','lp-trust','lp-faq','lp-final'])assert.ok(html.includes(section),section);
