@@ -15,4 +15,4 @@ export function purchaseSummary(p){
  parts.push('Download after payment');
  return '<p class="purchase-note purchase-summary"><strong>What you receive:</strong> '+parts.map(escape).join(' · ')+'</p>';
 }
-export const checkoutReassurance='Secure checkout with Payhip. Your downloads are available after payment. Any applicable tax is shown before payment.';
+export const checkoutReassurance='Secure checkout with Payhip. Your downloads are available after payment.';
