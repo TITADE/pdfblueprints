@@ -253,6 +253,7 @@
     "headline": "Organise important life decisions",
     "intro": "Guides for buying a home, planning ahead, avoiding scams and managing transitions.",
     "primary": [
+      "ai-should-i-trust-it",
       "the-college-dorm-survival-blueprint-2026",
       "property-buyers-complete-pack",
       "the-complete-making-friends-as-an-adult-blueprint",
@@ -264,6 +265,12 @@
       "crypto-tax-reporting-compliance-guide"
     ],
     "groups": [
+      {
+        "title": "Technology & everyday life",
+        "handles": [
+          "ai-should-i-trust-it"
+        ]
+      },
       {
         "title": "Life transitions & relationships",
         "handles": [

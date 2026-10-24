@@ -1,6 +1,23 @@
 {
   "previews": [
     {
+      "handle": "ai-should-i-trust-it",
+      "pageCount": 159,
+      "fileCount": 1,
+      "samples": [
+        {
+          "src": "/assets/previews/ai-should-i-trust-it-contents.webp",
+          "label": "Explore the contents",
+          "alt": "AI: Should I Trust It? — actual contents page 4"
+        },
+        {
+          "src": "/assets/previews/ai-should-i-trust-it-scam-sheet.webp",
+          "label": "Scam and Impersonation Action Sheet",
+          "alt": "AI: Should I Trust It? — actual Scam and Impersonation Action Sheet page 140"
+        }
+      ]
+    },
+    {
       "handle": "burnout-recovery-blueprint",
       "pageCount": 103,
       "fileCount": 1,

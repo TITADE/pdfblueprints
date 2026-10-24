@@ -1,6 +1,37 @@
 {
   "products": [
     {
+      "id": "payhip-aZjmn",
+      "handle": "ai-should-i-trust-it",
+      "title": "AI: Should I Trust It? — Premium PDF",
+      "originalTitle": "AI: Should I Trust It?",
+      "subtitle": "One Street, Six Lives, and What AI Means for You",
+      "author": "Edward Omoba",
+      "category": "Life",
+      "price": 14.99,
+      "currency": "GBP",
+      "priceConfirmed": true,
+      "image": "/assets/ai-should-i-trust-it.webp",
+      "description": "Is AI on your side, or quietly working against you? Follow six neighbours on one street through a year of meeting artificial intelligence at work, at home, at the bank, at the doctor's and on the phone, and learn in plain English when to trust it, what to check and when to insist on a person.",
+      "seoTitle": "AI: Should I Trust It? | Plain-English Guide to AI in Everyday Life (PDF)",
+      "metaDescription": "A plain-English guide to AI for everyday life: check AI answers, challenge automated decisions, stop voice-clone and deepfake scams, and know your rights in the UK, US and EU.",
+      "edition": "First edition · 24 October 2026",
+      "disclaimer": "General information for ordinary readers. This book is not legal, financial, medical, employment or professional advice. Laws and services change; check the current position with an official source or a qualified adviser.",
+      "source": "Signed-off manuscript and 159-page Premium Store PDF, 24 October 2026. Payhip product created, file and £14.99 price set 24 October 2026.",
+      "tags": [
+        "artificial intelligence for beginners uk",
+        "should i trust ai answers",
+        "ai voice clone and deepfake scams",
+        "automated decisions and your rights",
+        "ai at work and your job",
+        "chatbot safety for families",
+        "ai explained in plain english",
+        "digital safety for older adults"
+      ],
+      "payhipUrl": "https://payhip.com/b/aZjmn",
+      "purchaseBenefits": "One 159-page PDF with clickable contents, plus a printable Scam and Impersonation Action Sheet, a Family AI Agreement and a Personal AI Decision Sheet you can use straight away."
+    },
+    {
       "id": "burnout-recovery-blueprint",
       "handle": "burnout-recovery-blueprint",
       "title": "Burnout Recovery Blueprint — Premium PDF (UK Edition)",
