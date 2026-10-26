@@ -462,5 +462,39 @@
       }
     },
     "note": "Amazon editions may differ in layout, page count, updates and included extras from this PDF. Check the edition and sample on Amazon before ordering."
+  },
+  "burnout-recovery-blueprint": {
+    "formats": {
+      "kindle": {
+        "url": "https://www.amazon.co.uk/dp/B0HP7DD2R8",
+        "asin": "B0HP7DD2R8",
+        "status": "verified",
+        "verifiedAt": "2026-10-26"
+      },
+      "paperback": {
+        "url": "https://www.amazon.co.uk/dp/B0HP7SZ2KL",
+        "asin": "B0HP7SZ2KL",
+        "status": "verified",
+        "verifiedAt": "2026-10-26"
+      }
+    },
+    "note": "Amazon editions may differ in layout, page count, updates and included extras from this PDF. Check the edition and sample on Amazon before ordering."
+  },
+  "ai-should-i-trust-it": {
+    "formats": {
+      "kindle": {
+        "url": "https://www.amazon.co.uk/dp/B0HP73DRF9",
+        "asin": "B0HP73DRF9",
+        "status": "verified",
+        "verifiedAt": "2026-10-26"
+      },
+      "paperback": {
+        "url": "https://www.amazon.co.uk/dp/B0HP75X4ZZ",
+        "asin": "B0HP75X4ZZ",
+        "status": "verified",
+        "verifiedAt": "2026-10-26"
+      }
+    },
+    "note": "Amazon editions may differ in layout, page count, updates and included extras from this PDF. Check the edition and sample on Amazon before ordering."
   }
 }
