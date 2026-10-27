@@ -496,5 +496,22 @@
       }
     },
     "note": "Amazon editions may differ in layout, page count, updates and included extras from this PDF. Check the edition and sample on Amazon before ordering."
+  },
+  "the-menopause-equality-action-plan-compliance": {
+    "formats": {
+      "kindle": {
+        "url": "https://www.amazon.co.uk/dp/B0HGBTJW47",
+        "asin": "B0HGBTJW47",
+        "status": "verified",
+        "verifiedAt": "2026-10-27"
+      },
+      "paperback": {
+        "url": "https://www.amazon.co.uk/dp/B0HGQJGPQ9",
+        "asin": "B0HGQJGPQ9",
+        "status": "verified",
+        "verifiedAt": "2026-10-27"
+      }
+    },
+    "note": "Amazon editions may differ in layout, page count, updates and included extras from this PDF. Check the edition and sample on Amazon before ordering."
   }
 }
